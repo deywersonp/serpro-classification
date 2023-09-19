@@ -5,7 +5,7 @@ const { getTheoryNotes } = require('./services/getTheoryNotes');
 const getFinalClassification = async () => {
   try {
     // Available Options: general, quotas, pcd
-    const category = 'pcd';
+    const category = 'general';
 
     const practicalNotes = await getPracticalNotes(category);
     const theoryNotes = await getTheoryNotes(category);

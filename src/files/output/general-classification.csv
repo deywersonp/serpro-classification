@@ -16,8 +16,8 @@ Jose Henrique Dometerco,36.00,50.00,136,100,236
 Rafael Bays Weiler,39.00,53.00,145,90.17,235.17
 Bernardo Sobral Werneck,42.00,46.00,134,100,234
 Leonardo Alves Pereira,48.00,45.00,138,95.5,233.5
-Luiz Carlos Freire Lima Junior,42.00,49.00,140,92.5,232.5
 Joao Vitor da Silva Gomes,43.00,47.00,137,95.5,232.5
+Luiz Carlos Freire Lima Junior,42.00,49.00,140,92.5,232.5
 Adail Muniz Retamal,38.00,46.00,130,100,230
 Jose Felipe Ribeiro Araujo,36.00,47.00,130,100,230
 Lucas Torreao Machado,40.00,47.00,134,95.5,229.5
@@ -31,20 +31,20 @@ Tarcisio Coutinho da Silva,35.00,48.00,131,95.5,226.5
 Alexandre Rodrigues Coelho,30.00,48.00,126,100,226
 Matheus de Souza Gaspar,36.00,45.00,126,100,226
 Nicole Martinelli Brum,37.00,51.00,139,86.67,225.67
-Matheus Abreu da Costa Correa,44.00,43.00,130,95,225
 Cleber Alberto Cabral Ferreira da Silva,27.00,49.00,125,100,225
+Matheus Abreu da Costa Correa,44.00,43.00,130,95,225
 Henrique Cassiano Souza Barros,45.00,42.00,129,95.5,224.5
-Filipe Amado Vieira,40.00,48.00,136,88,224
 Andre Felipe da Silva Antunes,44.00,40.00,124,100,224
 Gabriel Alves Ribeiro,32.00,46.00,124,100,224
 Gabriel Cardoso Lino Alves,38.00,43.00,124,100,224
+Filipe Amado Vieira,40.00,48.00,136,88,224
 Antonio Gabriel da Silva Fernandes,36.00,46.00,128,95.5,223.5
 Gabriel Soares de Vasconcelos,26.00,52.00,130,92.5,222.5
-Ricardo Correa Leal Paiva,36.00,47.00,130,92,222
 Christian Strottmann Kern,42.00,40.00,122,100,222
 Franklyn Seabra Rogerio Bezerra,30.00,46.00,122,100,222
 Guilherme Pontes Pinto,44.00,39.00,122,100,222
 Mauro Felipe Oliveira Costa,38.00,42.00,122,100,222
+Ricardo Correa Leal Paiva,36.00,47.00,130,92,222
 Leonardo Melo Costa da Silva,28.00,52.00,132,89.33,221.33
 Gabriel Weich,33.00,44.00,121,100,221
 Rafael Kendy Arakaki,37.00,50.00,137,83.5,220.5
@@ -56,9 +56,9 @@ Pedro Paulo Rodrigues Teixeira Filho,28.00,46.00,120,100,220
 Renner Tetzner Ramos,39.00,43.00,125,94.67,219.67
 Rodrigo Naves Rios,40.00,42.00,124,95.5,219.5
 Leandro Beirao de Miranda,33.00,48.00,129,90.17,219.17
-Iago Carvalho Cavalcante,41.00,43.00,127,92,219
-Joao de Santana Brito Junior,38.00,43.00,124,95,219
 Paulo Thiago Galvao Mascarenhas,41.00,39.00,119,100,219
+Joao de Santana Brito Junior,38.00,43.00,124,95,219
+Iago Carvalho Cavalcante,41.00,43.00,127,92,219
 Felipe Pinheiro Mota Assmann,36.00,44.00,124,94.67,218.67
 Mateus Eduardo Dotto,32.00,46.00,124,94.67,218.67
 Pedro Jorge de Abreu Figueredo,34.00,45.00,124,94.67,218.67
@@ -77,12 +77,12 @@ Izabela Marina Ferreira da Silva,34.00,44.00,122,94.67,216.67
 Lais Baum,36.00,43.00,122,94.67,216.67
 Maycon Cafe Reis,34.00,44.00,122,94.67,216.67
 Willian Alberto Lauber,39.00,46.00,131,85.5,216.5
-Guilherme Parzianello,36.00,45.00,126,90,216
-Gustavo Rodrigues Sousa,33.00,44.00,121,95,216
 Everson Freitas Giacomelli Junior,28.00,44.00,116,100,216
 Rodrigo Cavalcanti de Macedo,22.00,47.00,116,100,216
 Victor Rezende Geraldini,32.00,42.00,116,100,216
 Vitor de Alencastro Lacerda,34.00,41.00,116,100,216
+Gustavo Rodrigues Sousa,33.00,44.00,121,95,216
+Guilherme Parzianello,36.00,45.00,126,90,216
 Marcos Paulo de Almeida Pantuza,47.00,42.00,131,84.67,215.67
 Allef Kristian Tavares Rocha,37.00,39.00,115,100,215
 Felipe Rafael Ferreira Marques,27.00,44.00,115,100,215
@@ -90,36 +90,34 @@ Horacio Brescia de Sousa Henriques,33.00,41.00,115,100,215
 Tomas Herculano Cornelio Cardoso,29.00,43.00,115,100,215
 Carlos Gustavo Moratori,34.00,43.00,120,94.67,214.67
 Ralph Boeke Rabelo,36.00,42.00,120,94.67,214.67
-Guilherme Virgilio Picinin Oliveira Simoes,36.00,48.00,132,82.5,214.5
 Eduardo Sarruf Pinheiro,38.00,42.00,122,92.5,214.5
-Gustavo Soares de Moura,22.00,50.00,122,92,214
-Matheus Oliveira Costa,27.00,46.00,119,95,214
+Guilherme Virgilio Picinin Oliveira Simoes,36.00,48.00,132,82.5,214.5
 Flavio Bezerra Pereira,38.00,38.00,114,100,214
 Ismael Barreto de Paiva,28.00,43.00,114,100,214
 Juan Garbellotte Bomfm,36.00,39.00,114,100,214
 Marcos Vinicius Lima da Costa,30.00,42.00,114,100,214
 Tarcisio Ribeiro Junior,30.00,42.00,114,100,214
+Matheus Oliveira Costa,27.00,46.00,119,95,214
+Gustavo Soares de Moura,22.00,50.00,122,92,214
 Luciano Rodrigues Saraiva Leao,36.00,44.00,124,89.67,213.67
 Jonathan Kelvin de Jesus Santos,38.00,40.00,118,95.5,213.5
 Eduardo Sousa da Silva,37.00,46.00,129,84.17,213.17
-Brenno Izaias Cardoso Nascimento,44.00,43.00,130,83,213
-Gabriel Alves Evangelista,30.00,44.00,118,95,213
 Marcelo Gomes Brito,27.00,43.00,113,100,213
 Vinicius Augusto Zanetti,31.00,41.00,113,100,213
+Gabriel Alves Evangelista,30.00,44.00,118,95,213
+Brenno Izaias Cardoso Nascimento,44.00,43.00,130,83,213
 Celso Goncalves Junior,36.00,41.00,118,94.67,212.67
 Letricia Pereira Soares Avalhais,30.00,44.00,118,94.67,212.67
 Antonio Luis Sombra de Medeiros,44.00,38.00,120,92.5,212.5
 Mardeni Ferreira de Souza Sa,33.00,50.00,133,79.17,212.17
-Marcos Aurelio Constant de Souza Filho,41.00,38.00,117,95,212
 Anderson Gomes Andrade,40.00,36.00,112,100,212
 Elano do Nascimento Rodrigues,28.00,42.00,112,100,212
 Luis Henrique Araujo Martins,40.00,36.00,112,100,212
 Pedro Gabriel Calixto Mendonca,42.00,35.00,112,100,212
-Ramon Costa Nunes,31.00,45.00,121,90.5,211.5
+Marcos Aurelio Constant de Souza Filho,41.00,38.00,117,95,212
 Caio Meireles da Silva Estefaneli,26.00,45.00,116,95.5,211.5
+Ramon Costa Nunes,31.00,45.00,121,90.5,211.5
 Fernando Rodrigues Ferreira,36.00,44.00,124,87.17,211.17
-Davi Antonio da Silva Santos,36.00,40.00,116,95,211
-Felipe Vasconcelos de Souza,28.00,44.00,116,95,211
 Ailton Ferreira de Medeiros Junior,31.00,40.00,111,100,211
 Alvaro Ian de Andrade Sousa,37.00,37.00,111,100,211
 Bruno Henrique Prybecz,31.00,40.00,111,100,211
@@ -128,17 +126,18 @@ Luis Artur Freiria Dallacqua,33.00,39.00,111,100,211
 Marcelo Medeiros da Silva,27.00,42.00,111,100,211
 Raphael de Assis Silva,33.00,39.00,111,100,211
 Renato Toshiaki Shibata,37.00,37.00,111,100,211
+Davi Antonio da Silva Santos,36.00,40.00,116,95,211
+Felipe Vasconcelos de Souza,28.00,44.00,116,95,211
 Jheffrey Thulyo dos Santos,28.00,44.00,116,94.67,210.67
-Andre Luis Ferreira Sa,37.00,48.00,133,77.5,210.5
+Flavio Cordeiro Rocha Junior,19.00,47.00,113,97.5,210.5
 Paulo Sandino Rivelino Ferreira Guilherme,35.00,40.00,115,95.5,210.5
 Rafael de Castro Silva,35.00,40.00,115,95.5,210.5
 Vinicius Barbosa Alencar e Sa,31.00,42.00,115,95.5,210.5
-Flavio Cordeiro Rocha Junior,19.00,47.00,113,97.5,210.5
-Erikson Kaszubowski,38.00,48.00,134,76.17,210.17
+Andre Luis Ferreira Sa,37.00,48.00,133,77.5,210.5
+Fabio Luiz Alvares Osti,34.00,42.00,118,92.17,210.17
 Rafael Fernandes de Carvalho,32.00,48.00,128,82.17,210.17
 Vinicius Passos de Oliveira Soares,32.00,48.00,128,82.17,210.17
-Fabio Luiz Alvares Osti,34.00,42.00,118,92.17,210.17
-Rafael Peres Goncalves,27.00,44.00,115,95,210
+Erikson Kaszubowski,38.00,48.00,134,76.17,210.17
 Andre Minoro Fusioka,32.00,39.00,110,100,210
 Arthur Wallace Silva Lopes,30.00,40.00,110,100,210
 Denis Dayvison de Freitas,24.00,43.00,110,100,210
@@ -147,14 +146,13 @@ Jesuan Felipe Peres Barbosa,30.00,40.00,110,100,210
 Pedro Correia de Siracusa,38.00,36.00,110,100,210
 Ricardo Cardozo Silveira,30.00,40.00,110,100,210
 Welison Lucas Almeida Regis,38.00,36.00,110,100,210
-Nelson Alves Pereira Filho,35.00,44.00,123,86.67,209.67
+Rafael Peres Goncalves,27.00,44.00,115,95,210
 Felipe Augusto Silva Oliveira,31.00,42.00,115,94.67,209.67
 Felipe Kenzo Shiraishi,37.00,39.00,115,94.67,209.67
-Joao Tribouillet Marcial de Menezes,35.00,41.00,117,92.5,209.5
-Marcos Paulo Pinheiro Correa,30.00,42.00,114,95.5,209.5
+Nelson Alves Pereira Filho,35.00,44.00,123,86.67,209.67
 Joao Vitor de Melo Machado,44.00,34.00,112,97.5,209.5
-Elia Melfior,42.00,42.00,126,83,209
-Gabriel Garcia de Almeida,38.00,43.00,124,85,209
+Marcos Paulo Pinheiro Correa,30.00,42.00,114,95.5,209.5
+Joao Tribouillet Marcial de Menezes,35.00,41.00,117,92.5,209.5
 Andre Luciano Claret,31.00,39.00,109,100,209
 Estevam Cardoso Lopes da Silva,31.00,39.00,109,100,209
 Gert Uchoa Muller Neto,33.00,38.00,109,100,209
@@ -163,43 +161,44 @@ Joel Cruz Soares,23.00,43.00,109,100,209
 Marcos Jose Santanna Magalhaes,39.00,35.00,109,100,209
 Marcos Martins de Sa Fonseca,31.00,39.00,109,100,209
 Romulo Vieira Lara,21.00,44.00,109,100,209
-Marcelo Teixeira Silveira,31.00,48.00,127,81.67,208.67
+Gabriel Garcia de Almeida,38.00,43.00,124,85,209
+Elia Melfior,42.00,42.00,126,83,209
 Jonas Sousa Leandro,36.00,39.00,114,94.67,208.67
 Pedro Picanco,38.00,38.00,114,94.67,208.67
 Rafaela de Castro do Nascimento,30.00,42.00,114,94.67,208.67
 Raphael Couto Ferreira,34.00,40.00,114,94.67,208.67
-Matheus Richter,30.00,48.00,126,82.5,208.5
-Camila Medeiros Rego,42.00,41.00,124,84.5,208.5
-Jose Leandro Santana Souza,33.00,43.00,119,89.5,208.5
+Marcelo Teixeira Silveira,31.00,48.00,127,81.67,208.67
 Alyson Jhones de Souza Andrade,38.00,39.00,116,92.5,208.5
-Rafael Guerra de Pontes,36.00,51.00,138,70,208
-Rafael Monteiro Jorge Alves de Souza,41.00,41.00,123,85,208
+Jose Leandro Santana Souza,33.00,43.00,119,89.5,208.5
+Camila Medeiros Rego,42.00,41.00,124,84.5,208.5
+Matheus Richter,30.00,48.00,126,82.5,208.5
 Adonay Aum Veiga,32.00,38.00,108,100,208
 Julio Cesar de Carvalho Barros,36.00,36.00,108,100,208
 Luigi Azevedo Soares dos Santos,28.00,40.00,108,100,208
 Luis Fillipe Nunes Lopes,32.00,38.00,108,100,208
 Suzana Yamauchi,34.00,37.00,108,100,208
-Sergio Pereira de Oliveira Junior,37.00,42.00,121,86.67,207.67
-Rafael de Amorim e Silva,26.00,46.00,118,89.67,207.67
+Rafael Monteiro Jorge Alves de Souza,41.00,41.00,123,85,208
+Rafael Guerra de Pontes,36.00,51.00,138,70,208
 Jose dos Santos Filho,31.00,41.00,113,94.67,207.67
+Rafael de Amorim e Silva,26.00,46.00,118,89.67,207.67
+Sergio Pereira de Oliveira Junior,37.00,42.00,121,86.67,207.67
 Paula Christina Andrade de Sa,24.00,48.00,120,87.17,207.17
-Brenda Nayara da Silva,39.00,38.00,115,92,207
-Daniel Hespanhol Vieira,20.00,46.00,112,95,207
-Guilherme dos Santos Padilha,40.00,36.00,112,95,207
 Anderson Severo de Matos,35.00,36.00,107,100,207
 Bruna Alves Wanderley de Siqueira,37.00,35.00,107,100,207
 Giovane de Jesus Oliveira Freitas,21.00,43.00,107,100,207
 Rafael Menezes da Silva,31.00,38.00,107,100,207
 Vitor Alcantara de Almeida,39.00,34.00,107,100,207
+Daniel Hespanhol Vieira,20.00,46.00,112,95,207
+Guilherme dos Santos Padilha,40.00,36.00,112,95,207
+Brenda Nayara da Silva,39.00,38.00,115,92,207
 Edson Sousa de Oliveira Junior,40.00,36.00,112,94.67,206.67
 Eduardo Vinicius Souza da Silva Correia,32.00,40.00,112,94.67,206.67
 Manuel Barao Rodrigues Soldado,38.00,37.00,112,94.67,206.67
 Thiago Cesar de Miranda Silva,38.00,37.00,112,94.67,206.67
+Victor Hugo Garcia de Farias,35.00,37.00,109,97.5,206.5
 Jose Augusto dos Santos Silva,41.00,35.00,111,95.5,206.5
 Yuri Costa dos Santos,37.00,37.00,111,95.5,206.5
-Victor Hugo Garcia de Farias,35.00,37.00,109,97.5,206.5
 Ilson Jose Buss,40.00,42.00,124,82.17,206.17
-Marcio Henrique Barbosa Coutinho,25.00,47.00,119,87,206
 Arthur Aleksandro Alves Silva,34.00,36.00,106,100,206
 Caio Sacramento de Britto Almeida,26.00,40.00,106,100,206
 Eduardo Matheus Bernardo Silva,30.00,38.00,106,100,206
@@ -209,25 +208,24 @@ Marina Gabriela Bezerra,32.00,37.00,106,100,206
 Ricardo Silva de Almeida,32.00,37.00,106,100,206
 Thiago William Machado,24.00,41.00,106,100,206
 Wladimir Livolis de Alcantara Cabral,38.00,34.00,106,100,206
+Marcio Henrique Barbosa Coutinho,25.00,47.00,119,87,206
 Andrew Ribeiro Fraga,33.00,39.00,111,94.67,205.67
-Frederico Sardi Ayestaran,37.00,42.00,121,84.5,205.5
 Ramon Francescolli Costa,28.00,41.00,110,95.5,205.5
-Cassiano Delgado Araujo Bruckhoff,31.00,42.00,115,90,205
+Frederico Sardi Ayestaran,37.00,42.00,121,84.5,205.5
 Alberto da Cruz Lima Sobrinho,31.00,37.00,105,100,205
 Andre da Silva Queiroz,21.00,42.00,105,100,205
 Diego Magalhaes de Melo,31.00,37.00,105,100,205
 Giovane de Oliveira Torres,33.00,36.00,105,100,205
 Kleyton da Costa Lopes,31.00,37.00,105,100,205
-Gabriel Reis Martins Daim,35.00,40.00,115,89.67,204.67
+Cassiano Delgado Araujo Bruckhoff,31.00,42.00,115,90,205
 Helio Diniz,38.00,36.00,110,94.67,204.67
 Jordielson Emanuel Caldeira da Silva,30.00,40.00,110,94.67,204.67
 Marcos Tiago Ferreira Henriques,34.00,38.00,110,94.67,204.67
 Mateus Fellipe Alves Lopes,26.00,42.00,110,94.67,204.67
-Vitor Filincowsky Ribeiro,35.00,41.00,117,87.5,204.5
-Renan Krzesinski,36.00,39.00,114,90.5,204.5
+Gabriel Reis Martins Daim,35.00,40.00,115,89.67,204.67
 Diego Oliveira da Silva,34.00,39.00,112,92.5,204.5
-Fleive Martins,36.00,50.00,136,68,204
-Manoel Gilvan Calou de Araujo e Sa Filho,33.00,42.00,117,87,204
+Renan Krzesinski,36.00,39.00,114,90.5,204.5
+Vitor Filincowsky Ribeiro,35.00,41.00,117,87.5,204.5
 Cesar Murilo da Silva Junior,24.00,40.00,104,100,204
 Fabio Mendes Soares,36.00,34.00,104,100,204
 Felipe Mello Santos,28.00,38.00,104,100,204
@@ -239,40 +237,42 @@ Luiz Henrique Teixeira Mendes,26.00,39.00,104,100,204
 Mayko Born Machado,32.00,36.00,104,100,204
 Paulo Vinicius Vasconcellos Batista,38.00,33.00,104,100,204
 Vinicius Filipaki,32.00,36.00,104,100,204
-Luis Guilherme Uhlig,41.00,39.00,119,84.5,203.5
+Manoel Gilvan Calou de Araujo e Sa Filho,33.00,42.00,117,87,204
+Fleive Martins,36.00,50.00,136,68,204
 Daniel Rios Couto,37.00,37.00,111,92.5,203.5
-Francy Helder Silva de Almeida,31.00,51.00,133,70,203
-Ana Paula Brandao Lopes,32.00,44.00,120,83,203
-Joao Vitor Ribeiro da Silva,33.00,39.00,111,92,203
+Luis Guilherme Uhlig,41.00,39.00,119,84.5,203.5
 Alex Santos de Oliveira,31.00,36.00,103,100,203
 Daniel Pereira Cinalli,33.00,35.00,103,100,203
 Eusebio Lopes de Sousa Neto,35.00,34.00,103,100,203
 Gilberto Alves Pereira,29.00,37.00,103,100,203
 Igor Luciano Cavalcanti Lima,27.00,38.00,103,100,203
 Luis Guilherme Gaboardi Lins,33.00,35.00,103,100,203
-Andre Rodrigues Pereira,30.00,44.00,118,84.67,202.67
+Joao Vitor Ribeiro da Silva,33.00,39.00,111,92,203
+Ana Paula Brandao Lopes,32.00,44.00,120,83,203
+Francy Helder Silva de Almeida,31.00,51.00,133,70,203
 Hosana Gomes Pinto,28.00,40.00,108,94.67,202.67
-Neimar Coelho Rech,34.00,43.00,120,82.5,202.5
-Eric Bernd Gil,31.00,38.00,107,95.5,202.5
+Andre Rodrigues Pereira,30.00,44.00,118,84.67,202.67
 Marcelo Augusto de Carvalho,27.00,39.00,105,97.5,202.5
-Rodrigo Hideki Koga,34.00,40.00,114,88,202
-Cassio Fabius Cambraia Ribeiro,35.00,36.00,107,95,202
-Joao Marcos Flach,41.00,33.00,107,95,202
+Eric Bernd Gil,31.00,38.00,107,95.5,202.5
+Neimar Coelho Rech,34.00,43.00,120,82.5,202.5
 Carlos Masao Mito,38.00,32.00,102,100,202
 Edson Matheus Alexandre Cizeski,34.00,34.00,102,100,202
 Jorge Araujo Bezerra,22.00,40.00,102,100,202
 Ronaldo Prata Amorim,34.00,34.00,102,100,202
 Vitoria Vieira de Oliveira Freitas,32.00,35.00,102,100,202
+Cassio Fabius Cambraia Ribeiro,35.00,36.00,107,95,202
+Joao Marcos Flach,41.00,33.00,107,95,202
+Rodrigo Hideki Koga,34.00,40.00,114,88,202
 Thailan Ramos da Silva,36.00,42.00,120,81.83,201.83
 Hiago de Souza Cruz Alves e Silva,37.00,39.00,115,86.67,201.67
-Matheus da Silva Jahnke,45.00,37.00,119,82.5,201.5
-Ana Clara Malheiro Smera Batista,34.00,40.00,114,87.5,201.5
-Cristiano Lima Sobrinho,29.00,40.00,109,92.5,201.5
-Hellyan Alves de Oliveira,28.00,39.00,106,95.5,201.5
 Eric dos Santos Coelho,26.00,39.00,104,97.5,201.5
-Estevao Bissoli Saleme,34.00,44.00,122,79.17,201.17
+Hellyan Alves de Oliveira,28.00,39.00,106,95.5,201.5
+Cristiano Lima Sobrinho,29.00,40.00,109,92.5,201.5
+Ana Clara Malheiro Smera Batista,34.00,40.00,114,87.5,201.5
+Matheus da Silva Jahnke,45.00,37.00,119,82.5,201.5
 Einstein Ramos de Almeida,28.00,43.00,114,87.17,201.17
 Gabriel Alves Vasiljevic Mendes,38.00,38.00,114,87.17,201.17
+Estevao Bissoli Saleme,34.00,44.00,122,79.17,201.17
 Anderson Josue Pantoja Freire,35.00,33.00,101,100,201
 Evandro Miguel Kuszera,23.00,39.00,101,100,201
 Pedro Pablo Freitas Martins Polanco,31.00,35.00,101,100,201
@@ -280,18 +280,15 @@ Rafael Vital Lacerda Alves,33.00,34.00,101,100,201
 Guilherme Artur Fucks Martins,26.00,40.00,106,94.67,200.67
 Hugo Thiago de Holanda Oliveira,38.00,34.00,106,94.67,200.67
 Yuri Matheus Barboza de Oliveira,32.00,37.00,106,94.67,200.67
+Hernandes Carneiro Macedo,33.00,36.00,105,95.5,200.5
+Kerven Maciel Monteiro de Albuquerque,37.00,34.00,105,95.5,200.5
+Thales Siqueira Couto,29.00,38.00,105,95.5,200.5
 Alexandre Tadeu Belisario da Silva,32.00,38.00,108,92.5,200.5
 Daniel Santos de Carvalho,26.00,41.00,108,92.5,200.5
 Rodrigo Cezar Silveira,36.00,36.00,108,92.5,200.5
 Ruan de Medeiros Bahia,34.00,37.00,108,92.5,200.5
-Hernandes Carneiro Macedo,33.00,36.00,105,95.5,200.5
-Kerven Maciel Monteiro de Albuquerque,37.00,34.00,105,95.5,200.5
-Thales Siqueira Couto,29.00,38.00,105,95.5,200.5
-Mario Augusto Lopes de Queiroz,34.00,48.00,130,70.17,200.17
 Lucas Albuquerque Lisboa,37.00,42.00,121,79.17,200.17
-Rafael Monteiro Rodrigues,30.00,45.00,120,80,200
-Renata Zottis Junges,34.00,43.00,120,80,200
-Vinicius Soares de Paula Souza,29.00,44.00,117,83,200
+Mario Augusto Lopes de Queiroz,34.00,48.00,130,70.17,200.17
 Antonino Alves Feitosa Neto,32.00,34.00,100,100,200
 Bruno Brasil Ferreira,30.00,35.00,100,100,200
 Edward Seidy Izawa,20.00,40.00,100,100,200
@@ -302,84 +299,78 @@ Joao Wilian dos Reis,24.00,38.00,100,100,200
 Rubem Morais Novelino Ferraz,32.00,34.00,100,100,200
 Samuel Sobral dos Santos,32.00,34.00,100,100,200
 Thiago Martins Motta,28.00,36.00,100,100,200
-Roderico de Carvalho Rocha Neto,36.00,41.00,118,81.67,199.67
-Luthiery Costa Cavalcante,40.00,35.00,110,89.67,199.67
+Vinicius Soares de Paula Souza,29.00,44.00,117,83,200
+Rafael Monteiro Rodrigues,30.00,45.00,120,80,200
+Renata Zottis Junges,34.00,43.00,120,80,200
 Bruno Brandao de Oliveira Leite,31.00,37.00,105,94.67,199.67
 Francisco Wermeson Pereira dos Reis,21.00,42.00,105,94.67,199.67
-Gustavo Leite Silvano,30.00,37.00,104,95.5,199.5
+Luthiery Costa Cavalcante,40.00,35.00,110,89.67,199.67
+Roderico de Carvalho Rocha Neto,36.00,41.00,118,81.67,199.67
 Lucas da Costa Silva,22.00,40.00,102,97.5,199.5
 Rogerio Paladino,32.00,35.00,102,97.5,199.5
+Gustavo Leite Silvano,30.00,37.00,104,95.5,199.5
 Gustavo Prazeres Paz do Nascimento,34.00,39.00,112,87.17,199.17
-Paulo Cesar Marques Lopes,37.00,40.00,117,82,199
-Erico Correia de Alcantara,37.00,37.00,111,88,199
-Alisson Tadeu da Silva Oliveira,30.00,37.00,104,95,199
 Arthur Tamotsu Hirata,27.00,36.00,99,100,199
 Bruno Carlos Sales de Morais,35.00,32.00,99,100,199
 Cezar Castro Rosa,25.00,37.00,99,100,199
 Thiago Jacinto Silva dos Santos,37.00,31.00,99,100,199
-Fabio Tavares Oliveira,36.00,43.00,122,76.67,198.67
-Elisa Maria Alves Amaral,28.00,42.00,112,86.67,198.67
+Alisson Tadeu da Silva Oliveira,30.00,37.00,104,95,199
+Erico Correia de Alcantara,37.00,37.00,111,88,199
+Paulo Cesar Marques Lopes,37.00,40.00,117,82,199
 Jose Fabio Nascimento de Almeida,28.00,38.00,104,94.67,198.67
 Luis Augusto Toscano Guimaraes,28.00,38.00,104,94.67,198.67
-Felipe Feitosa Soares,30.00,38.00,106,92.5,198.5
-Nilo Cesar Teixeira,28.00,39.00,106,92.5,198.5
+Elisa Maria Alves Amaral,28.00,42.00,112,86.67,198.67
+Fabio Tavares Oliveira,36.00,43.00,122,76.67,198.67
 Hans Newton Fonseca Cantanhede,29.00,37.00,103,95.5,198.5
 Joao Vitor da Silva Dezan,29.00,37.00,103,95.5,198.5
+Felipe Feitosa Soares,30.00,38.00,106,92.5,198.5
+Nilo Cesar Teixeira,28.00,39.00,106,92.5,198.5
 Mormon Lima dos Santos,36.00,36.00,108,90.17,198.17
-Thiago Souza Lopes Dauria Silveira,34.00,40.00,114,84,198
-Raphael Fernandes Reis Roriz,39.00,37.00,113,85,198
-Guilherme Nicchio Pinotte,35.00,38.00,111,87,198
-Mathias Scroccaro Costa,32.00,38.00,108,90,198
-Hariamy Maciel Vasconcelos,29.00,37.00,103,95,198
 Jomar de Andrade Lemos Junior,26.00,36.00,98,100,198
 Jorge Paulo da Silva Junior,20.00,39.00,98,100,198
 Lucas Amadeu Keil Marinelli,34.00,32.00,98,100,198
 Paulo Vinicius Pereira Linhares,32.00,33.00,98,100,198
 Rafael Almeida Soares,18.00,40.00,98,100,198
+Hariamy Maciel Vasconcelos,29.00,37.00,103,95,198
+Mathias Scroccaro Costa,32.00,38.00,108,90,198
+Guilherme Nicchio Pinotte,35.00,38.00,111,87,198
+Raphael Fernandes Reis Roriz,39.00,37.00,113,85,198
+Thiago Souza Lopes Dauria Silveira,34.00,40.00,114,84,198
 Joselmo Alberto Cabral Junior,32.00,42.00,116,81.83,197.83
-Rodrigo Nedir Drebes Soares,36.00,40.00,116,81.67,197.67
-Andre Luiz Rodrigues Pinheiro,35.00,39.00,113,84.67,197.67
-Luiz Guilherme Leroy e Vieira,39.00,37.00,113,84.67,197.67
-Guilherme Miranda da Silva,33.00,39.00,111,86.67,197.67
 Gabriel Bezerra Belem,29.00,37.00,103,94.67,197.67
 Marco Aurelio Lima de Sousa,27.00,38.00,103,94.67,197.67
-Rodrigo da Silva Brandao,30.00,50.00,130,67.5,197.5
-Doglas Franco Maurer da Rocha,36.00,44.00,124,73.5,197.5
-Rafael Messora Barranco,42.00,38.00,118,79.5,197.5
-Alberto da Costa Britto Junior,35.00,39.00,113,84.5,197.5
+Guilherme Miranda da Silva,33.00,39.00,111,86.67,197.67
+Andre Luiz Rodrigues Pinheiro,35.00,39.00,113,84.67,197.67
+Luiz Guilherme Leroy e Vieira,39.00,37.00,113,84.67,197.67
+Rodrigo Nedir Drebes Soares,36.00,40.00,116,81.67,197.67
 Marcus Vinicius de Souza Moreira,31.00,37.00,105,92.5,197.5
-Joao Gabriel Ramos Beltrao de Melo,30.00,45.00,120,77.17,197.17
+Alberto da Costa Britto Junior,35.00,39.00,113,84.5,197.5
+Rafael Messora Barranco,42.00,38.00,118,79.5,197.5
+Doglas Franco Maurer da Rocha,36.00,44.00,124,73.5,197.5
+Rodrigo da Silva Brandao,30.00,50.00,130,67.5,197.5
 Walisson Cardoso Gomes,38.00,37.00,112,85.17,197.17
-Giovani Granero,28.00,52.00,132,65,197
-Luiz Henrique Anjos Cardim,31.00,44.00,119,78,197
-Rafael Nutti Maldonado,36.00,38.00,112,85,197
-Marcio Brener Jesuino da Costa,28.00,40.00,108,89,197
+Joao Gabriel Ramos Beltrao de Melo,30.00,45.00,120,77.17,197.17
+Lucas Accioly Teixeira,27.00,35.00,97,100,197
 Francisco Henrique Lemos Andrade,24.00,40.00,104,93,197
 Guilherme Neubaner da Silva,22.00,41.00,104,93,197
-Lucas Accioly Teixeira,27.00,35.00,97,100,197
+Marcio Brener Jesuino da Costa,28.00,40.00,108,89,197
+Rafael Nutti Maldonado,36.00,38.00,112,85,197
+Luiz Henrique Anjos Cardim,31.00,44.00,119,78,197
+Giovani Granero,28.00,52.00,132,65,197
+Tiago Nonoai Flores Correa,26.00,38.00,102,94.67,196.67
 Cesar Rafael Lopes,44.00,33.00,110,86.67,196.67
 Renato Augusto Antoniassi Battistin,36.00,37.00,110,86.67,196.67
-Tiago Nonoai Flores Correa,26.00,38.00,102,94.67,196.67
-Arton Perez Peixoto,36.00,43.00,122,74.5,196.5
-Ramon Fava Souza,38.00,38.00,114,82.5,196.5
-Victor Hugo de Lima Kunst,37.00,38.00,113,83.5,196.5
+Breno Vinicius Barros Sousa,21.00,40.00,101,95.5,196.5
+Lourival Sabino da Silva Junior,29.00,36.00,101,95.5,196.5
 Fernando Bernardes de Souza,28.00,38.00,104,92.5,196.5
 Jorge Luiz Titoneli Pinto Filho,30.00,37.00,104,92.5,196.5
 Jose Antonio Carneiro Avila,38.00,33.00,104,92.5,196.5
-Breno Vinicius Barros Sousa,21.00,40.00,101,95.5,196.5
-Lourival Sabino da Silva Junior,29.00,36.00,101,95.5,196.5
+Victor Hugo de Lima Kunst,37.00,38.00,113,83.5,196.5
+Ramon Fava Souza,38.00,38.00,114,82.5,196.5
+Arton Perez Peixoto,36.00,43.00,122,74.5,196.5
+Vitor Trindade Daisson Santos,38.00,33.00,104,92.17,196.17
 Jonas de Oliveira Castro Neto,24.00,45.00,114,82.17,196.17
 Marcelo Santana Camacho,36.00,39.00,114,82.17,196.17
-Vitor Trindade Daisson Santos,38.00,33.00,104,92.17,196.17
-Robson Andrade da Silva,22.00,52.00,126,70,196
-Lucas Lopes dos Santos,26.00,45.00,116,80,196
-Leticia de Cassia Santin,27.00,44.00,115,81,196
-Carolina Santos Lins,43.00,34.00,111,85,196
-Felipe Cruz Alencar de Macedo,27.00,41.00,109,87,196
-Ery Moura Ferreira Maciel,28.00,40.00,108,88,196
-Nicolas Fonteles Leite,30.00,37.00,104,92,196
-Paulo Ricardo Soares Muniz,24.00,40.00,104,92,196
-Vitor Augusto da Silva Vasconcellos,29.00,36.00,101,95,196
 Edson Samuel Gonzaga da Silva Junior,36.00,30.00,96,100,196
 Gabriel Santos Oliveira,32.00,32.00,96,100,196
 Lucas Gustavo da Costa,24.00,36.00,96,100,196
@@ -388,13 +379,22 @@ Marcelo Ian Rezende Menezes,40.00,28.00,96,100,196
 Marcelo Kubiaki dos Santos,32.00,32.00,96,100,196
 Renato Silva Maia,32.00,32.00,96,100,196
 Ricardo Santana Camacho,32.00,32.00,96,100,196
+Vitor Augusto da Silva Vasconcellos,29.00,36.00,101,95,196
+Nicolas Fonteles Leite,30.00,37.00,104,92,196
+Paulo Ricardo Soares Muniz,24.00,40.00,104,92,196
+Ery Moura Ferreira Maciel,28.00,40.00,108,88,196
+Felipe Cruz Alencar de Macedo,27.00,41.00,109,87,196
+Carolina Santos Lins,43.00,34.00,111,85,196
+Leticia de Cassia Santin,27.00,44.00,115,81,196
+Lucas Lopes dos Santos,26.00,45.00,116,80,196
+Robson Andrade da Silva,22.00,52.00,126,70,196
 Diogo de Burgos Rocha,31.00,35.00,101,94.67,195.67
 Francisco Daniel Coutinho Medeiros,33.00,34.00,101,94.67,195.67
 Jackson Maike Veiga de Assis,39.00,31.00,101,94.67,195.67
-Danilo Carlos Fonseca Praxedes,32.00,38.00,108,87.5,195.5
-Cicero Leonardo Pereira de Souza,37.00,33.00,103,92.5,195.5
-Erika de Almeida Ramos,28.00,36.00,100,95.5,195.5
 Lucas Rezende de Macedo,28.00,35.00,98,97.5,195.5
+Erika de Almeida Ramos,28.00,36.00,100,95.5,195.5
+Cicero Leonardo Pereira de Souza,37.00,33.00,103,92.5,195.5
+Danilo Carlos Fonseca Praxedes,32.00,38.00,108,87.5,195.5
 Ricardo Alexandre Bastos,41.00,32.00,105,90.17,195.17
 Adler Jonas Gross,35.00,30.00,95,100,195
 Albert Eije Barreto Mouta,29.00,33.00,95,100,195
@@ -405,46 +405,41 @@ Pedro Henrique Brasil Santos,39.00,28.00,95,100,195
 Pedro Henrique Wilfride de Lima Boussiengui,31.00,32.00,95,100,195
 Bruno do Sacramento Rocha,34.00,38.00,110,84.83,194.83
 Rodrigo Mafort Oliveira da Silva,30.00,39.00,108,86.67,194.67
-Fernando Lobo Martins,33.00,45.00,123,71.5,194.5
-Matheus Frej Lemos Cavalcanti,36.00,33.00,102,92.5,194.5
 Alexandre Rodrigues Gomes,29.00,35.00,99,95.5,194.5
 Bruno Leite Calazans Costa,31.00,34.00,99,95.5,194.5
 Enzo Schetine Fernandes,35.00,32.00,99,95.5,194.5
 Guilherme Bastos de Oliveira,27.00,36.00,99,95.5,194.5
 Juan Carlos Lima dos Santos,23.00,38.00,99,95.5,194.5
 Mateus Manuel Rodrigues Bezerra,29.00,35.00,99,95.5,194.5
-Leticia Pasdiora,37.00,41.00,119,75.17,194.17
+Matheus Frej Lemos Cavalcanti,36.00,33.00,102,92.5,194.5
+Fernando Lobo Martins,33.00,45.00,123,71.5,194.5
+Mauricio Gruhn Sanches,32.00,36.00,104,90.17,194.17
 Evandro Pereira de Lacerda,24.00,44.00,112,82.17,194.17
 Gabriel Horst Montoanelli,32.00,40.00,112,82.17,194.17
-Mauricio Gruhn Sanches,32.00,36.00,104,90.17,194.17
-Kleisson Augusto Muchinski,28.00,48.00,124,70,194
-Diogo da Costa Colem,35.00,38.00,111,83,194
-Gabriel Holanda de Araujo,23.00,43.00,109,85,194
-Caique Porto Lira,42.00,32.00,106,88,194
-Joao Lucas Reis,37.00,33.00,103,91,194
-Ana Luiza Tezoto Figueiroa,34.00,34.00,102,92,194
+Leticia Pasdiora,37.00,41.00,119,75.17,194.17
 Evandro Lovato Krzyzanovski,22.00,36.00,94,100,194
 Ewerton Matheus Bezerra Ramos,30.00,32.00,94,100,194
 Felipe Edgar Rivas Oliveira,34.00,30.00,94,100,194
 Francisco Mateus Franco Rodrigues,30.00,32.00,94,100,194
 Mateus Lima de Souza,28.00,33.00,94,100,194
 Philipp Bernardino Costa,24.00,35.00,94,100,194
-Cleiton Marques Bittencourt,33.00,43.00,119,74.67,193.67
+Ana Luiza Tezoto Figueiroa,34.00,34.00,102,92,194
+Joao Lucas Reis,37.00,33.00,103,91,194
+Caique Porto Lira,42.00,32.00,106,88,194
+Gabriel Holanda de Araujo,23.00,43.00,109,85,194
+Diogo da Costa Colem,35.00,38.00,111,83,194
+Kleisson Augusto Muchinski,28.00,48.00,124,70,194
 Caio Gomes de Oliveira Menezes,27.00,36.00,99,94.67,193.67
-Ricardo de Araujo Coelho,34.00,41.00,116,77.5,193.5
-Breno de Lima Galves,38.00,34.00,106,87.5,193.5
-Bruno Nobre Zisman,34.00,36.00,106,87.5,193.5
+Cleiton Marques Bittencourt,33.00,43.00,119,74.67,193.67
+David Willamy Bezerra dos Santos,36.00,31.00,98,95.5,193.5
+Euclydes Gregorio de Melo,22.00,38.00,98,95.5,193.5
 Dennis Ferreira Silva,23.00,39.00,101,92.5,193.5
 Fabio Ferreira Tepedino Martins,33.00,34.00,101,92.5,193.5
 Marcos Amorim Rossi de Carvalho,37.00,32.00,101,92.5,193.5
-David Willamy Bezerra dos Santos,36.00,31.00,98,95.5,193.5
-Euclydes Gregorio de Melo,22.00,38.00,98,95.5,193.5
+Breno de Lima Galves,38.00,34.00,106,87.5,193.5
+Bruno Nobre Zisman,34.00,36.00,106,87.5,193.5
+Ricardo de Araujo Coelho,34.00,41.00,116,77.5,193.5
 Vinicius de Medeiros Soares,36.00,42.00,120,73.33,193.33
-Leandro Yamachita da Costa,33.00,46.00,125,68,193
-Isabella Coimbra Garcia Portella,35.00,44.00,123,70,193
-Carlos Alberto Athenesi,21.00,42.00,105,88,193
-Tiago Barabasz,31.00,36.00,103,90,193
-Felipe Arquelau Teixeira Pinto,26.00,38.00,102,91,193
 Cristiane Naves Cardoso,27.00,33.00,93,100,193
 Felipe Vieira Cortes,31.00,31.00,93,100,193
 Guilherme Tomazi Klein,33.00,30.00,93,100,193
@@ -454,87 +449,86 @@ Matheus Cunha Simoes,31.00,31.00,93,100,193
 Matheus Lisboa Cardoch Valdes,31.00,31.00,93,100,193
 Michelli Ingrid dos Santos Silva,33.00,30.00,93,100,193
 Tadeu Arias Villares,29.00,32.00,93,100,193
+Felipe Arquelau Teixeira Pinto,26.00,38.00,102,91,193
+Tiago Barabasz,31.00,36.00,103,90,193
+Carlos Alberto Athenesi,21.00,42.00,105,88,193
+Isabella Coimbra Garcia Portella,35.00,44.00,123,70,193
+Leandro Yamachita da Costa,33.00,46.00,125,68,193
 Kaue Vetorazi,36.00,53.00,142,50.83,192.83
-Andre Chinvelski,33.00,41.00,115,77.67,192.67
-Tulio Galdencio de Resende,31.00,40.00,111,81.67,192.67
-Raphael Cunha Fontoura,34.00,38.00,110,82.67,192.67
-Franklin de Jesus Santos,32.00,37.00,106,86.67,192.67
-Jose Victor Sa Santos,22.00,42.00,106,86.67,192.67
 Bruno Meneses Cabral,34.00,32.00,98,94.67,192.67
 Daniel Barros Sales,40.00,29.00,98,94.67,192.67
 Fabio Neves de Souza,32.00,33.00,98,94.67,192.67
 Isaac Pinheiro,30.00,34.00,98,94.67,192.67
 Renan Guedes de Pinho,32.00,33.00,98,94.67,192.67
-Italo Della Garza Silva,32.00,42.00,116,76.5,192.5
-Fernando Augusto de Morais,35.00,35.00,105,87.5,192.5
+Franklin de Jesus Santos,32.00,37.00,106,86.67,192.67
+Jose Victor Sa Santos,22.00,42.00,106,86.67,192.67
+Raphael Cunha Fontoura,34.00,38.00,110,82.67,192.67
+Tulio Galdencio de Resende,31.00,40.00,111,81.67,192.67
+Andre Chinvelski,33.00,41.00,115,77.67,192.67
+Kenad Wanderson Araujo Silva,27.00,35.00,97,95.5,192.5
 Alexandre Brito Cardias Junior,24.00,38.00,100,92.5,192.5
 Bruce Lucien Santos Notario,28.00,36.00,100,92.5,192.5
 Simone Kimihe Kawasaki,34.00,33.00,100,92.5,192.5
-Kenad Wanderson Araujo Silva,27.00,35.00,97,95.5,192.5
-Rafael Augusto de Almeida Mohedano,38.00,39.00,116,76.33,192.33
+Fernando Augusto de Morais,35.00,35.00,105,87.5,192.5
+Italo Della Garza Silva,32.00,42.00,116,76.5,192.5
 Abraao Silveira de Andrade,37.00,33.00,103,89.33,192.33
-Joao Victor Fernandes e Silva,29.00,42.00,113,79.17,192.17
+Rafael Augusto de Almeida Mohedano,38.00,39.00,116,76.33,192.33
 Igor da Silva Rodrigues,34.00,34.00,102,90.17,192.17
-Manasses Ferreira Neto,32.00,38.00,108,84,192
-Augusto Schlickmann Rottgers da Silva,33.00,37.00,107,85,192
-Thiago Tallison Araujo Fernandes,35.00,33.00,101,91,192
-Lucas Rocha Muniz,34.00,33.00,100,92,192
-Herbert Silva Melo de Lima,27.00,35.00,97,95,192
-Lucio Martins Silva,29.00,34.00,97,95,192
+Joao Victor Fernandes e Silva,29.00,42.00,113,79.17,192.17
 Carlos Botelho de Paula Filho,28.00,32.00,92,100,192
 Felipe Renato Alvarenga Batalha,28.00,32.00,92,100,192
 Joao Vitor Chaves de Oliveira,30.00,31.00,92,100,192
 Lucas Garcia de Araujo Martins,20.00,36.00,92,100,192
 Marcos do Nascimento Portela,24.00,34.00,92,100,192
 Paulo Henrique Franqueira e Silva,32.00,30.00,92,100,192
+Herbert Silva Melo de Lima,27.00,35.00,97,95,192
+Lucio Martins Silva,29.00,34.00,97,95,192
+Lucas Rocha Muniz,34.00,33.00,100,92,192
+Thiago Tallison Araujo Fernandes,35.00,33.00,101,91,192
+Augusto Schlickmann Rottgers da Silva,33.00,37.00,107,85,192
+Manasses Ferreira Neto,32.00,38.00,108,84,192
 Matheus Silva Araujo,42.00,38.00,118,73.83,191.83
 Felipe dos Santos Souza Junior,19.00,39.00,97,94.67,191.67
 Jose Rafael de Santana,19.00,39.00,97,94.67,191.67
-Andre Guaraldo Caires,16.00,44.00,104,87.5,191.5
-Vitor Pastuch Lazarotto,18.00,42.00,102,89.5,191.5
-Yllan Vinicius Ferreira Gurgel,32.00,35.00,102,89.5,191.5
-Caio Tomas de Paula,35.00,32.00,99,92.5,191.5
 Bernardo Rodrigo Fernandes Vieira Dauer,28.00,34.00,96,95.5,191.5
 Joao Vitor Oliveira Batista,38.00,29.00,96,95.5,191.5
-Thiago Barroso Maciel,37.00,40.00,117,74.17,191.17
+Caio Tomas de Paula,35.00,32.00,99,92.5,191.5
+Vitor Pastuch Lazarotto,18.00,42.00,102,89.5,191.5
+Yllan Vinicius Ferreira Gurgel,32.00,35.00,102,89.5,191.5
+Andre Guaraldo Caires,16.00,44.00,104,87.5,191.5
 Mateus Passos Soares Cardoso,35.00,39.00,113,78.17,191.17
-Matheus Gomes de Sousa,37.00,43.00,123,68,191
-Valeria da Cruz Silva Morais,28.00,40.00,108,83,191
-Vitor Cardoso Xoteslem,31.00,36.00,103,88,191
-Guilherme Siqueira Brandao,25.00,37.00,99,92,191
-Draylson Micael de Souza,32.00,32.00,96,95,191
-Evandro Kondrat,24.00,36.00,96,95,191
-Rafael Sausen Bahr,28.00,34.00,96,95,191
+Thiago Barroso Maciel,37.00,40.00,117,74.17,191.17
 Caique de Camargo,35.00,28.00,91,100,191
 Gabriela de Carvalho Barros Bezerra,31.00,30.00,91,100,191
 Henrique Torres de Lima,37.00,27.00,91,100,191
 Leandro de Mello Iglezias,31.00,30.00,91,100,191
 Mateus Freitas Cavalcanti,37.00,27.00,91,100,191
 Ricson Luiz Oliveira Vilaca,29.00,31.00,91,100,191
-Felipe Carolino Machado,32.00,40.00,112,78.67,190.67
-Jardson Thome de Oliveira,34.00,35.00,104,86.67,190.67
-Vinicius Torres de Macedo,29.00,36.00,101,89.67,190.67
+Draylson Micael de Souza,32.00,32.00,96,95,191
+Evandro Kondrat,24.00,36.00,96,95,191
+Rafael Sausen Bahr,28.00,34.00,96,95,191
+Guilherme Siqueira Brandao,25.00,37.00,99,92,191
+Vitor Cardoso Xoteslem,31.00,36.00,103,88,191
+Valeria da Cruz Silva Morais,28.00,40.00,108,83,191
+Matheus Gomes de Sousa,37.00,43.00,123,68,191
 Andre Luiz Silva dos Santos,22.00,37.00,96,94.67,190.67
 Charline Barboza Rocha,28.00,34.00,96,94.67,190.67
 Fernando Morais Nassar,20.00,38.00,96,94.67,190.67
 Joao Paulo Gomes Siqueira,32.00,32.00,96,94.67,190.67
 Lucas Petit de Aragao,20.00,38.00,96,94.67,190.67
-Arthur Diego Dias Rocha,40.00,40.00,120,70.5,190.5
-Yvan Pereira dos Santos Brito,38.00,35.00,108,82.5,190.5
-Asaph Teixeira e Souza,34.00,36.00,106,84.5,190.5
-Lucio Dias da Ilva,41.00,31.00,103,87.5,190.5
+Vinicius Torres de Macedo,29.00,36.00,101,89.67,190.67
+Jardson Thome de Oliveira,34.00,35.00,104,86.67,190.67
+Felipe Carolino Machado,32.00,40.00,112,78.67,190.67
+Vitor Pereira Tavares da Costa,37.00,29.00,95,95.5,190.5
 Alan Michel Franco,28.00,35.00,98,92.5,190.5
 Jaqueline Batista Martins Teixeira,34.00,32.00,98,92.5,190.5
-Vitor Pereira Tavares da Costa,37.00,29.00,95,95.5,190.5
+Lucio Dias da Ilva,41.00,31.00,103,87.5,190.5
+Asaph Teixeira e Souza,34.00,36.00,106,84.5,190.5
+Yvan Pereira dos Santos Brito,38.00,35.00,108,82.5,190.5
+Arthur Diego Dias Rocha,40.00,40.00,120,70.5,190.5
 Joao Paulo Brasil de Araujo,43.00,44.00,131,59.33,190.33
-Fabricio Silva Melo,26.00,50.00,126,64.17,190.17
 Victor Queiroga Crescencio da Costa,28.00,44.00,116,74.17,190.17
-Daniel Fiuza Cordeiro de Moraes,33.00,41.00,115,75,190
-Henrique Santos Gaspar Ribeiro,21.00,42.00,105,85,190
-Wiliam Kaster,33.00,36.00,105,85,190
-Manoel de Souza Silva Lima,34.00,35.00,104,86,190
-Uisleandro Costa dos Santos,36.00,33.00,102,88,190
-Andre Oliveira Macedo,32.00,34.00,100,90,190
+Fabricio Silva Melo,26.00,50.00,126,64.17,190.17
 Adrian Jose da Silva,30.00,30.00,90,100,190
 Anne Elisa Leal Caselato,36.00,27.00,90,100,190
 Carlos Henrique Bravo Serrado,30.00,30.00,90,100,190
@@ -544,571 +538,580 @@ Eduardo Tesser Filho,26.00,32.00,90,100,190
 Joao Pedro Fidelis Belluzzo,24.00,33.00,90,100,190
 Lucas Barros de Assis,30.00,30.00,90,100,190
 Ricardo Pagoto Marinho,26.00,32.00,90,100,190
+Andre Oliveira Macedo,32.00,34.00,100,90,190
+Uisleandro Costa dos Santos,36.00,33.00,102,88,190
+Manoel de Souza Silva Lima,34.00,35.00,104,86,190
+Henrique Santos Gaspar Ribeiro,21.00,42.00,105,85,190
+Wiliam Kaster,33.00,36.00,105,85,190
+Daniel Fiuza Cordeiro de Moraes,33.00,41.00,115,75,190
 Denis Evangelista Sanches,29.00,37.00,103,86.83,189.83
-Rafael Alexandre Pardini Guedes,32.00,38.00,108,81.67,189.67
-Roland dos Santos Goncalves Sobrinho,35.00,36.00,107,82.67,189.67
-Nicolas Chagas Souza,35.00,34.00,103,86.67,189.67
-Lucas de Souza Siqueira,28.00,36.00,100,89.67,189.67
 Joao Paulo Lemos Leite,33.00,31.00,95,94.67,189.67
-Humberto Henrique Campos Pinheiro,30.00,52.00,134,55.5,189.5
-Guilherme Maia Batista,38.00,34.00,106,83.5,189.5
-Joao Francisco Baiochi,29.00,34.00,97,92.5,189.5
-Leonardo Sampaio de Sousa,31.00,33.00,97,92.5,189.5
-Victor de Almeida Bombarda,33.00,32.00,97,92.5,189.5
+Lucas de Souza Siqueira,28.00,36.00,100,89.67,189.67
+Nicolas Chagas Souza,35.00,34.00,103,86.67,189.67
+Roland dos Santos Goncalves Sobrinho,35.00,36.00,107,82.67,189.67
+Rafael Alexandre Pardini Guedes,32.00,38.00,108,81.67,189.67
 Alex Vicente Barbosa,24.00,35.00,94,95.5,189.5
 Bruno Sousa Cavalcante Barroso,28.00,33.00,94,95.5,189.5
 Mayke da Rosa Herbst,20.00,37.00,94,95.5,189.5
 Thaina Franca Chaves Damasio,28.00,33.00,94,95.5,189.5
 Vitor Augusto Correa Cortez Almeida,32.00,31.00,94,95.5,189.5
+Joao Francisco Baiochi,29.00,34.00,97,92.5,189.5
+Leonardo Sampaio de Sousa,31.00,33.00,97,92.5,189.5
+Victor de Almeida Bombarda,33.00,32.00,97,92.5,189.5
+Guilherme Maia Batista,38.00,34.00,106,83.5,189.5
+Humberto Henrique Campos Pinheiro,30.00,52.00,134,55.5,189.5
 Alexandre de Jesus Oliveira,22.00,40.00,102,87.17,189.17
 Glaucio de Oliveira Almeida,26.00,38.00,102,87.17,189.17
-Louise Fernandes Pietrovski,30.00,38.00,106,83,189
 Alan Werlen Souza,33.00,28.00,89,100,189
 Guilherme Meinlschmiedt Abdo,27.00,31.00,89,100,189
 Marina Pinho Garcia,35.00,27.00,89,100,189
 Matheus Gomes Inacio,25.00,32.00,89,100,189
-Everton Murilo Vieira,26.00,41.00,108,80.67,188.67
-Marcelo Antonio Alves Alencar,22.00,40.00,102,86.67,188.67
-Gabriel Andre Camargo Pimentel de Barros,33.00,33.00,99,89.67,188.67
+Louise Fernandes Pietrovski,30.00,38.00,106,83,189
 Bruno Esteves Campoi,20.00,37.00,94,94.67,188.67
 Bruno Mota Soares,22.00,36.00,94,94.67,188.67
 Carlos Wilker Nogueira Santana,28.00,33.00,94,94.67,188.67
 Fernando Antonio Alves,28.00,33.00,94,94.67,188.67
 Julian Fernando Nino Gamboa,28.00,33.00,94,94.67,188.67
 Marcelo Ferraz de Oliveira,30.00,32.00,94,94.67,188.67
-Marilia Aline Correia Santiago,28.00,44.00,116,72.5,188.5
-Luisa Caetano Correia,36.00,35.00,106,82.5,188.5
-Vinicius Venancio Silva,45.00,30.00,105,83.5,188.5
+Gabriel Andre Camargo Pimentel de Barros,33.00,33.00,99,89.67,188.67
+Marcelo Antonio Alves Alencar,22.00,40.00,102,86.67,188.67
+Everton Murilo Vieira,26.00,41.00,108,80.67,188.67
 Inacio Americo Gomes Slompo,32.00,32.00,96,92.5,188.5
 Leonardo Altair Kronbauer Machado,16.00,40.00,96,92.5,188.5
-Juliana Souza de Melo,31.00,40.00,111,77.17,188.17
-Luis Lourenco de Oliveira Filho,35.00,37.00,109,79.17,188.17
+Vinicius Venancio Silva,45.00,30.00,105,83.5,188.5
+Luisa Caetano Correia,36.00,35.00,106,82.5,188.5
+Marilia Aline Correia Santiago,28.00,44.00,116,72.5,188.5
+Rafael Martins Fijos Aquino,28.00,34.00,96,92.17,188.17
 Carine Casa Grande,18.00,44.00,106,82.17,188.17
 Leandro Santiago da Silva,18.00,44.00,106,82.17,188.17
-Rafael Martins Fijos Aquino,28.00,34.00,96,92.17,188.17
-Edvan Mamona Cunha,31.00,40.00,111,77,188
-Carlos Alberto Kochhann dos Santos,37.00,34.00,105,83,188
-Joao Pedro da Silva Lima,31.00,37.00,105,83,188
-Joao Pedro Bach Dotta,32.00,33.00,98,90,188
-Douglas Cardoso Nogueira,24.00,36.00,96,92,188
-Mateus Michelon Bisognin,28.00,34.00,96,92,188
-Alexandre de Quadros Moreno Filho,33.00,30.00,93,95,188
+Luis Lourenco de Oliveira Filho,35.00,37.00,109,79.17,188.17
+Juliana Souza de Melo,31.00,40.00,111,77.17,188.17
 Asclepiades Jose dos Santos Neto,28.00,30.00,88,100,188
 Bruna Ishida,32.00,28.00,88,100,188
 Guerder Miranda Vieira,24.00,32.00,88,100,188
 Juan Xabier Esteban de Aquino Calles,38.00,25.00,88,100,188
 Thiago Marques Viana,32.00,28.00,88,100,188
-Eduardo Amaral de Paula,34.00,38.00,110,77.5,187.5
-Rennan Araujo Soares Costa,32.00,39.00,110,77.5,187.5
-Mateus Felipe Alves Rosas do Nascimento,36.00,36.00,108,79.5,187.5
+Alexandre de Quadros Moreno Filho,33.00,30.00,93,95,188
+Douglas Cardoso Nogueira,24.00,36.00,96,92,188
+Mateus Michelon Bisognin,28.00,34.00,96,92,188
+Joao Pedro Bach Dotta,32.00,33.00,98,90,188
+Carlos Alberto Kochhann dos Santos,37.00,34.00,105,83,188
+Joao Pedro da Silva Lima,31.00,37.00,105,83,188
+Edvan Mamona Cunha,31.00,40.00,111,77,188
+Felipe Silva Araujo,24.00,34.00,92,95.5,187.5
+Alison Viana Campos,29.00,33.00,95,92.5,187.5
+Henrique Cesar Jose da Silva,25.00,35.00,95,92.5,187.5
 Felipe Bernard de Oliveira Soares Diniz,23.00,41.00,105,82.5,187.5
 Marco Tulio Lemes Oliveira,31.00,37.00,105,82.5,187.5
 Mauro Enrique de Souza Munoz,27.00,39.00,105,82.5,187.5
-Alison Viana Campos,29.00,33.00,95,92.5,187.5
-Henrique Cesar Jose da Silva,25.00,35.00,95,92.5,187.5
-Felipe Silva Araujo,24.00,34.00,92,95.5,187.5
+Mateus Felipe Alves Rosas do Nascimento,36.00,36.00,108,79.5,187.5
+Eduardo Amaral de Paula,34.00,38.00,110,77.5,187.5
+Rennan Araujo Soares Costa,32.00,39.00,110,77.5,187.5
 Francisco Xavier dos Santos,20.00,43.00,106,81.33,187.33
-Cleirton Monte de Sousa,23.00,46.00,115,72.17,187.17
-Sergio Endrigo de Barros Bezerra Ferreira,26.00,42.00,110,77.17,187.17
-Fernando Garcia Ramos Lusvarghi,29.00,38.00,105,82.17,187.17
 Alison de Miranda Peres,36.00,32.00,100,87.17,187.17
 Marcos Luiz Lins Filho,26.00,37.00,100,87.17,187.17
-Marcilio Batista Rocha,26.00,44.00,114,73,187
-Carlos Victor Santana Brito,34.00,35.00,104,83,187
-Eder Santiago Carneiro,39.00,28.00,95,92,187
-Iglos Silva do Livramento,33.00,30.00,93,94,187
-Felipe Iago Moreira da Cruz,24.00,34.00,92,95,187
-Rodrigo Barreto,22.00,35.00,92,95,187
+Fernando Garcia Ramos Lusvarghi,29.00,38.00,105,82.17,187.17
+Sergio Endrigo de Barros Bezerra Ferreira,26.00,42.00,110,77.17,187.17
+Cleirton Monte de Sousa,23.00,46.00,115,72.17,187.17
 Andrey Yuzo Takii,31.00,28.00,87,100,187
 Gabriel Kristian Queiroz de Souza Jales,33.00,27.00,87,100,187
 Marcelo de Padua Fadini,31.00,28.00,87,100,187
 Nicolas Correia Nascimento,25.00,31.00,87,100,187
 Vinicius George Carlos Nunes,31.00,28.00,87,100,187
-Gabriel Almeida Rocha,22.00,43.00,108,78.67,186.67
-Joao Victor Sampaio da Silva,22.00,39.00,100,86.67,186.67
-Leonardo Goslar Oto,28.00,36.00,100,86.67,186.67
-Sergio Jose dos Santos Junior,32.00,34.00,100,86.67,186.67
+Felipe Iago Moreira da Cruz,24.00,34.00,92,95,187
+Rodrigo Barreto,22.00,35.00,92,95,187
+Iglos Silva do Livramento,33.00,30.00,93,94,187
+Eder Santiago Carneiro,39.00,28.00,95,92,187
+Carlos Victor Santana Brito,34.00,35.00,104,83,187
+Marcilio Batista Rocha,26.00,44.00,114,73,187
 Andrei Lima Queiroz,34.00,29.00,92,94.67,186.67
 Erika de Almeida Segatto,24.00,34.00,92,94.67,186.67
 Marco Aurelio da Costa Carlos,28.00,32.00,92,94.67,186.67
-Newton Wagner Amaral Martins,26.00,38.00,102,84.5,186.5
+Joao Victor Sampaio da Silva,22.00,39.00,100,86.67,186.67
+Leonardo Goslar Oto,28.00,36.00,100,86.67,186.67
+Sergio Jose dos Santos Junior,32.00,34.00,100,86.67,186.67
+Gabriel Almeida Rocha,22.00,43.00,108,78.67,186.67
 Emerson Perez,34.00,30.00,94,92.5,186.5
 Leonardo Muller Marroque,32.00,31.00,94,92.5,186.5
 Lucas Chagas de Brito Guimaraes,38.00,28.00,94,92.5,186.5
 Raissa Queiroz Frota,30.00,32.00,94,92.5,186.5
 Rian Koja,34.00,30.00,94,92.5,186.5
+Newton Wagner Amaral Martins,26.00,38.00,102,84.5,186.5
 Wesley Azevedo Souza,26.00,42.00,110,76.33,186.33
-Matheus Phelipe Alves Pinto,34.00,35.00,104,82.17,186.17
 Marcus Lucas Abreu de Araujo Falcao,36.00,30.00,96,90.17,186.17
-Luis Augusto Siqueira Mourao Soares,36.00,40.00,116,70,186
-Edvan Joaquim Soares Junior,23.00,40.00,103,83,186
-Rodrigo Eufrasio Daniel,27.00,36.00,99,87,186
-Pedro Henrique Braga Moraes,34.00,32.00,98,88,186
+Matheus Phelipe Alves Pinto,34.00,35.00,104,82.17,186.17
 Andre Marques Amarante,26.00,30.00,86,100,186
 Gabriel Guimaraes de Almeida,30.00,28.00,86,100,186
 Gabriel Mareco Batista de Souto,26.00,30.00,86,100,186
 Inacio Gomes Medeiros,28.00,29.00,86,100,186
 Laercio Jorge de Oliveira,34.00,26.00,86,100,186
 Mateus Wesley Medeiros de Macedo,26.00,30.00,86,100,186
-Cleodir dos Santos Barros,25.00,37.00,99,86.67,185.67
-Matheus Costa Andrade,31.00,34.00,99,86.67,185.67
-Matheus Procopio Nascimento,24.00,36.00,96,89.67,185.67
-Ricardo Lopes de Lima,30.00,33.00,96,89.67,185.67
+Pedro Henrique Braga Moraes,34.00,32.00,98,88,186
+Rodrigo Eufrasio Daniel,27.00,36.00,99,87,186
+Edvan Joaquim Soares Junior,23.00,40.00,103,83,186
+Luis Augusto Siqueira Mourao Soares,36.00,40.00,116,70,186
 Antonio Carlos Souza Ferreira Junior,25.00,33.00,91,94.67,185.67
 Gabriel Azevedo Batalha,35.00,28.00,91,94.67,185.67
-Lua de Barros Zanatta,32.00,42.00,116,69.5,185.5
-Anderson Jose Silva de Oliveira,28.00,37.00,102,83.5,185.5
-Caio Alexandre Nascimento da Silva,22.00,40.00,102,83.5,185.5
-Diego Jose Barbosa de Sa Leitao,19.00,41.00,101,84.5,185.5
-Salomao Polegar Alves Silva,22.00,38.00,98,87.5,185.5
-Fabio Jose Homann Cordeiro,23.00,35.00,93,92.5,185.5
+Matheus Procopio Nascimento,24.00,36.00,96,89.67,185.67
+Ricardo Lopes de Lima,30.00,33.00,96,89.67,185.67
+Cleodir dos Santos Barros,25.00,37.00,99,86.67,185.67
+Matheus Costa Andrade,31.00,34.00,99,86.67,185.67
 Eronides Felisberto da Silva Neto,22.00,34.00,90,95.5,185.5
 Paulo Victor de Almeida Vasconcelos,26.00,32.00,90,95.5,185.5
+Fabio Jose Homann Cordeiro,23.00,35.00,93,92.5,185.5
+Salomao Polegar Alves Silva,22.00,38.00,98,87.5,185.5
+Diego Jose Barbosa de Sa Leitao,19.00,41.00,101,84.5,185.5
+Anderson Jose Silva de Oliveira,28.00,37.00,102,83.5,185.5
+Caio Alexandre Nascimento da Silva,22.00,40.00,102,83.5,185.5
+Lua de Barros Zanatta,32.00,42.00,116,69.5,185.5
 Nanderson da Silva Rodrigues,32.00,32.00,96,89.33,185.33
+Geraldo de Figueiredo Junior,20.00,39.00,98,87.17,185.17
+Leonardo Costa Passos,33.00,35.00,103,82.17,185.17
 Camilo Lelis Assis Goncalves,30.00,43.00,116,69.17,185.17
 Marcos Gabriel Barboza Dure Diaz,38.00,39.00,116,69.17,185.17
-Leonardo Costa Passos,33.00,35.00,103,82.17,185.17
-Geraldo de Figueiredo Junior,20.00,39.00,98,87.17,185.17
-Guilherme da Luz Saldanha,32.00,40.00,112,73,185
-Gefferson Rodrigo Librelato,29.00,40.00,109,76,185
-Hercules da Silva Souza,31.00,38.00,107,78,185
-Murilo Vitoria da Silva,31.00,37.00,105,80,185
-Joao Marcos Barbosa Silva,25.00,36.00,97,88,185
-Lucas Ursulino Boaventura,23.00,37.00,97,88,185
-Matheus Tavares Silva,29.00,34.00,97,88,185
-Eduardo Freitas Mangeli de Brito,33.00,31.00,95,90,185
-Marivaldo Pinto Fraga Junior,31.00,31.00,93,92,185
-Caio Rodrigues Fernandes,28.00,31.00,90,95,185
-Leandro Ribeiro Ramos,26.00,32.00,90,95,185
-Luis Eduardo Luz Silva,26.00,32.00,90,95,185
 Joao Paulo Dias de Almeida,27.00,29.00,85,100,185
 Jose Vinicius Dantas Paranhos,35.00,25.00,85,100,185
 Marcelo Guimaraes Pinto,27.00,29.00,85,100,185
+Caio Rodrigues Fernandes,28.00,31.00,90,95,185
+Leandro Ribeiro Ramos,26.00,32.00,90,95,185
+Luis Eduardo Luz Silva,26.00,32.00,90,95,185
+Marivaldo Pinto Fraga Junior,31.00,31.00,93,92,185
+Eduardo Freitas Mangeli de Brito,33.00,31.00,95,90,185
+Joao Marcos Barbosa Silva,25.00,36.00,97,88,185
+Lucas Ursulino Boaventura,23.00,37.00,97,88,185
+Matheus Tavares Silva,29.00,34.00,97,88,185
+Murilo Vitoria da Silva,31.00,37.00,105,80,185
+Hercules da Silva Souza,31.00,38.00,107,78,185
+Gefferson Rodrigo Librelato,29.00,40.00,109,76,185
+Guilherme da Luz Saldanha,32.00,40.00,112,73,185
+Elane Santos Pereira,28.00,31.00,90,94.67,184.67
+Yanisley Mora Ritchie,28.00,31.00,90,94.67,184.67
 Anderson Silveira Laurindo,30.00,34.00,98,86.67,184.67
 Guilherme Medeiros Mergulhao,22.00,38.00,98,86.67,184.67
 Homero Luiz Drews Felix,28.00,35.00,98,86.67,184.67
-Elane Santos Pereira,28.00,31.00,90,94.67,184.67
-Yanisley Mora Ritchie,28.00,31.00,90,94.67,184.67
-Ferdinan de Oliveira Nascimento,23.00,46.00,115,69.5,184.5
-Lucas Mesquita Rodrigues Ferreira,34.00,39.00,112,72.5,184.5
-Artur Ribeiro de Aquino,38.00,34.00,106,78.5,184.5
-Gabriel Menezes Gaia,38.00,33.00,104,80.5,184.5
-Carine Bertagnolli Bathaglini,27.00,35.00,97,87.5,184.5
-Josue Filipe Pontes Nery,27.00,35.00,97,87.5,184.5
+Gustavo Correa Rodrigues,29.00,30.00,89,95.5,184.5
+Luiz Magno Nascimento Ferreira,31.00,29.00,89,95.5,184.5
 Bruno Santos Abdalla,24.00,34.00,92,92.5,184.5
 Fabricio Oliveira Liborio,24.00,34.00,92,92.5,184.5
 Wallace Labarba de Souza,24.00,34.00,92,92.5,184.5
-Gustavo Correa Rodrigues,29.00,30.00,89,95.5,184.5
-Luiz Magno Nascimento Ferreira,31.00,29.00,89,95.5,184.5
+Carine Bertagnolli Bathaglini,27.00,35.00,97,87.5,184.5
+Josue Filipe Pontes Nery,27.00,35.00,97,87.5,184.5
+Gabriel Menezes Gaia,38.00,33.00,104,80.5,184.5
+Artur Ribeiro de Aquino,38.00,34.00,106,78.5,184.5
+Lucas Mesquita Rodrigues Ferreira,34.00,39.00,112,72.5,184.5
+Ferdinan de Oliveira Nascimento,23.00,46.00,115,69.5,184.5
+Samuel Lucas Irene Dionisio de Moraes,23.00,37.00,97,87.17,184.17
 Gustavo Claudio Karl Couto,40.00,31.00,102,82.17,184.17
 Samuel de Souza Ferraz,14.00,44.00,102,82.17,184.17
-Samuel Lucas Irene Dionisio de Moraes,23.00,37.00,97,87.17,184.17
-Daniel Reis de Medeiros Guimaraes,35.00,32.00,99,85,184
-Antonio Savio Nascimento Cavalcante,22.00,37.00,96,88,184
-Rafael do Nascimento Dessuy,34.00,31.00,96,88,184
-Attila Lima Guerrera,25.00,32.00,89,95,184
 Bruno Vinicios Cunha de Sa,28.00,28.00,84,100,184
 Douglas de Moura Cavalcante,28.00,28.00,84,100,184
 Nando Jose da Luz Sousa,30.00,27.00,84,100,184
 Vitor Ribeiro Guimaraes Gomes,32.00,26.00,84,100,184
-Marcelo Kleber Felisberto,39.00,40.00,119,64.67,183.67
-Flavio Medeiros Rangel,36.00,39.00,114,69.67,183.67
-Henrique Augusto Richter,21.00,44.00,109,74.67,183.67
-Pedro Henrique Tenorio Santana,16.00,46.00,108,75.67,183.67
-Felipe Pires Morandini,30.00,36.00,102,81.67,183.67
-Doalsen Thomaz Machado,21.00,38.00,97,86.67,183.67
+Attila Lima Guerrera,25.00,32.00,89,95,184
+Antonio Savio Nascimento Cavalcante,22.00,37.00,96,88,184
+Rafael do Nascimento Dessuy,34.00,31.00,96,88,184
+Daniel Reis de Medeiros Guimaraes,35.00,32.00,99,85,184
 Diego Ribeiro de Almeida,34.00,30.00,94,89.67,183.67
-Igor Machado das Neves,30.00,44.00,118,65.5,183.5
-Alexander Moreira de Morais,17.00,44.00,105,78.5,183.5
-Carlos Yujiro Hagio,40.00,32.00,104,79.5,183.5
-Victor Hugo Corpas dos Santos Guarana,33.00,34.00,101,82.5,183.5
-Jose Junior Malheiros Barros,14.00,43.00,100,83.5,183.5
+Doalsen Thomaz Machado,21.00,38.00,97,86.67,183.67
+Felipe Pires Morandini,30.00,36.00,102,81.67,183.67
+Pedro Henrique Tenorio Santana,16.00,46.00,108,75.67,183.67
+Henrique Augusto Richter,21.00,44.00,109,74.67,183.67
+Flavio Medeiros Rangel,36.00,39.00,114,69.67,183.67
+Marcelo Kleber Felisberto,39.00,40.00,119,64.67,183.67
+Gustavo Henrique Stahl Muller,28.00,30.00,88,95.5,183.5
+Adyelson Felix Loureiro,29.00,31.00,91,92.5,183.5
+Carlos Alberto Santos de Souza,25.00,33.00,91,92.5,183.5
 Adler Melgaco Ferreira,32.00,32.00,96,87.5,183.5
 Halisson Souza Gomides,32.00,32.00,96,87.5,183.5
 Joao Filipe Cavichiolo Storrer,28.00,34.00,96,87.5,183.5
-Adyelson Felix Loureiro,29.00,31.00,91,92.5,183.5
-Carlos Alberto Santos de Souza,25.00,33.00,91,92.5,183.5
-Gustavo Henrique Stahl Muller,28.00,30.00,88,95.5,183.5
+Jose Junior Malheiros Barros,14.00,43.00,100,83.5,183.5
+Victor Hugo Corpas dos Santos Guarana,33.00,34.00,101,82.5,183.5
+Carlos Yujiro Hagio,40.00,32.00,104,79.5,183.5
+Alexander Moreira de Morais,17.00,44.00,105,78.5,183.5
+Igor Machado das Neves,30.00,44.00,118,65.5,183.5
 Jose Augusto de Paiva Neto,30.00,44.00,118,65.33,183.33
-Joao Victor Barros da Silva,44.00,37.00,118,65.17,183.17
 Ricardo Valerio Teixeira de Medeiros Silva,28.00,34.00,96,87.17,183.17
 Rodrigo Dantas de Andrade,30.00,33.00,96,87.17,183.17
-Rafael Correia Bezerra de Menezes,35.00,39.00,113,70,183
-Silvio Luiz Barbosa,29.00,41.00,111,72,183
-Ronan Ermida da Costa,34.00,38.00,110,73,183
-Daniel da Silva Correa,26.00,37.00,100,83,183
-Thiago Carvalho da Silva,22.00,38.00,98,85,183
+Joao Victor Barros da Silva,44.00,37.00,118,65.17,183.17
 Marcelo Lopes de Macedo Ferreira Candido,33.00,30.00,93,90,183
-Fernando Ghinzelli,29.00,42.00,113,69.67,182.67
-Ian Conde Collares,32.00,38.00,108,74.67,182.67
-Yuri Tadeu de Souza Carvalho,24.00,40.00,104,78.67,182.67
-Jhonatam de Souza Medina,22.00,37.00,96,86.67,182.67
-Sandro Seiya Okazachi,26.00,35.00,96,86.67,182.67
+Thiago Carvalho da Silva,22.00,38.00,98,85,183
+Daniel da Silva Correa,26.00,37.00,100,83,183
+Ronan Ermida da Costa,34.00,38.00,110,73,183
+Silvio Luiz Barbosa,29.00,41.00,111,72,183
+Rafael Correia Bezerra de Menezes,35.00,39.00,113,70,183
 Felipe Xavier Barbosa da Silva,32.00,28.00,88,94.67,182.67
 Kelvin Silva Bezerra,24.00,32.00,88,94.67,182.67
 Paulo Palmuti Sigiani Neto,36.00,26.00,88,94.67,182.67
-Elton Rodrigues Homem,32.00,40.00,112,70.5,182.5
-Jefferson de Oliveira Santos,23.00,41.00,105,77.5,182.5
-Cesar Augusto de Carvalho,34.00,34.00,102,80.5,182.5
-Bruno Oliveira de Melo,31.00,35.00,101,81.5,182.5
-Felipe Henrique Bastos e Bastos,30.00,34.00,98,84.5,182.5
-Danilo Felipe Ferreira Venancio de Araujo,21.00,37.00,95,87.5,182.5
-Gustavo Ide Maciel,29.00,33.00,95,87.5,182.5
-Samir Coutinho Costa,26.00,33.00,92,90.5,182.5
+Jhonatam de Souza Medina,22.00,37.00,96,86.67,182.67
+Sandro Seiya Okazachi,26.00,35.00,96,86.67,182.67
+Yuri Tadeu de Souza Carvalho,24.00,40.00,104,78.67,182.67
+Ian Conde Collares,32.00,38.00,108,74.67,182.67
+Fernando Ghinzelli,29.00,42.00,113,69.67,182.67
 Victor Camara Lessa,24.00,33.00,90,92.5,182.5
 Vitor Augusto Lazarini Forreque,36.00,27.00,90,92.5,182.5
 Winstein Caldeira Martins,24.00,33.00,90,92.5,182.5
+Samir Coutinho Costa,26.00,33.00,92,90.5,182.5
+Danilo Felipe Ferreira Venancio de Araujo,21.00,37.00,95,87.5,182.5
+Gustavo Ide Maciel,29.00,33.00,95,87.5,182.5
+Felipe Henrique Bastos e Bastos,30.00,34.00,98,84.5,182.5
+Bruno Oliveira de Melo,31.00,35.00,101,81.5,182.5
+Cesar Augusto de Carvalho,34.00,34.00,102,80.5,182.5
+Jefferson de Oliveira Santos,23.00,41.00,105,77.5,182.5
+Elton Rodrigues Homem,32.00,40.00,112,70.5,182.5
 Lucas Rocha da Costa,34.00,40.00,114,68.33,182.33
-Dorgival da Rocha Filho,36.00,41.00,118,64.17,182.17
-Bruno Perdigao de Oliveira,34.00,33.00,100,82.17,182.17
-Felipe Rosa,23.00,36.00,95,87.17,182.17
 Santiago Pacheco Heuer,30.00,31.00,92,90.17,182.17
-Allan Juan Silva Araujo,32.00,44.00,120,62,182
-Amanda Macedo Jaria,32.00,36.00,104,78,182
-Bruno Baldoino Brasil,30.00,37.00,104,78,182
-Thiago Meyer Ribeiro,32.00,36.00,104,78,182
-Luan Ferreira Reis de Jesus,34.00,32.00,98,84,182
-Marcelo de Castro Pereira,25.00,36.00,97,85,182
-Paulo Roberto Silva dos Reis,30.00,32.00,94,88,182
-Elias Flavio de Paiva,35.00,27.00,89,93,182
+Felipe Rosa,23.00,36.00,95,87.17,182.17
+Bruno Perdigao de Oliveira,34.00,33.00,100,82.17,182.17
+Dorgival da Rocha Filho,36.00,41.00,118,64.17,182.17
 Guilherme Marcelino de Oliveira,32.00,25.00,82,100,182
 Paulilio Ferreira Castello Branco,38.00,22.00,82,100,182
 Rodrigo da Motta Trindade,32.00,25.00,82,100,182
-Joao Pedro Henrique Santos Duarte,32.00,38.00,108,73.67,181.67
-Diego Rodrigues de Sousa Silva,31.00,34.00,99,82.67,181.67
-Caio Vieira Coelho,33.00,31.00,95,86.67,181.67
-Paulo Ricardo Alves de Lima,37.00,29.00,95,86.67,181.67
+Elias Flavio de Paiva,35.00,27.00,89,93,182
+Paulo Roberto Silva dos Reis,30.00,32.00,94,88,182
+Marcelo de Castro Pereira,25.00,36.00,97,85,182
+Luan Ferreira Reis de Jesus,34.00,32.00,98,84,182
+Amanda Macedo Jaria,32.00,36.00,104,78,182
+Bruno Baldoino Brasil,30.00,37.00,104,78,182
+Thiago Meyer Ribeiro,32.00,36.00,104,78,182
+Allan Juan Silva Araujo,32.00,44.00,120,62,182
 Gabriel Rattacaso Carvalho,27.00,30.00,87,94.67,181.67
 Rafael Espindola Comin Nunes,27.00,30.00,87,94.67,181.67
-Aline Firmino Brito,33.00,43.00,119,62.5,181.5
-Bernardo Costa de Araujo,27.00,36.00,99,82.5,181.5
-Otavio Azevedo de Carvalho Kamel Barbosa,31.00,34.00,99,82.5,181.5
+Caio Vieira Coelho,33.00,31.00,95,86.67,181.67
+Paulo Ricardo Alves de Lima,37.00,29.00,95,86.67,181.67
+Diego Rodrigues de Sousa Silva,31.00,34.00,99,82.67,181.67
+Joao Pedro Henrique Santos Duarte,32.00,38.00,108,73.67,181.67
+Iago de Araujo Galvao,30.00,28.00,86,95.5,181.5
+Danilo Luiz Ebihara Barbosa,29.00,30.00,89,92.5,181.5
 Andre Luiz de Paula Machado,26.00,36.00,98,83.5,181.5
 Marcio Luiz da Silva Filho,22.00,38.00,98,83.5,181.5
-Danilo Luiz Ebihara Barbosa,29.00,30.00,89,92.5,181.5
-Iago de Araujo Galvao,30.00,28.00,86,95.5,181.5
+Bernardo Costa de Araujo,27.00,36.00,99,82.5,181.5
+Otavio Azevedo de Carvalho Kamel Barbosa,31.00,34.00,99,82.5,181.5
+Aline Firmino Brito,33.00,43.00,119,62.5,181.5
 Jose Victor Pereira Lima,26.00,46.00,118,63.33,181.33
-Jonas Ricardo e Silva Campos,26.00,34.00,94,87.17,181.17
 Romualdo Almeida Rodrigues,23.00,34.00,91,90.17,181.17
-Pedro Henrique Fernandes Rendeiro,37.00,32.00,101,80,181
+Jonas Ricardo e Silva Campos,26.00,34.00,94,87.17,181.17
+Marton Paulo dos Santos Silva,28.00,29.00,86,95,181
+Cesar Lemos Rodrigues,27.00,31.00,89,92,181
+Caio Monturil Rego Calvalcanti,36.00,27.00,90,91,181
+Roberto Bello Barbosa de Oliveira,39.00,27.00,93,88,181
 Guilherme Goncalves Horta Jardim Bastos,24.00,36.00,96,85,181
 Joir Antonio de Souza Neto,24.00,36.00,96,85,181
 Willingmax de Araujo Apolinario,20.00,38.00,96,85,181
-Roberto Bello Barbosa de Oliveira,39.00,27.00,93,88,181
-Caio Monturil Rego Calvalcanti,36.00,27.00,90,91,181
-Cesar Lemos Rodrigues,27.00,31.00,89,92,181
-Marton Paulo dos Santos Silva,28.00,29.00,86,95,181
-Jeferson Henrique Fiorindo,34.00,48.00,130,50.83,180.83
+Pedro Henrique Fernandes Rendeiro,37.00,32.00,101,80,181
 Francisco Gerardo Medeiros Neto,32.00,40.00,112,68.83,180.83
-Guilherme Alvarenga Torres,35.00,38.00,111,69.67,180.67
-Leonardo Gargitter,33.00,33.00,99,81.67,180.67
-Anderson Luiz Alves,28.00,33.00,94,86.67,180.67
-Hernandes Erick de Sousa Rodrigues,18.00,38.00,94,86.67,180.67
-Maria Eulalia Marques Gomes dos Reis Aires,38.00,28.00,94,86.67,180.67
-Lucas Farias de Moura,33.00,29.00,91,89.67,180.67
-Victor Honda Cristinni,33.00,29.00,91,89.67,180.67
+Jeferson Henrique Fiorindo,34.00,48.00,130,50.83,180.83
 Cesar Augusto Rodrigues,26.00,30.00,86,94.67,180.67
 Jefferson Leandro da Silva,26.00,30.00,86,94.67,180.67
 Lucas Santos Escolastico do Nascimento,30.00,28.00,86,94.67,180.67
-Gustavo da Silva Pereira,20.00,40.00,100,80.5,180.5
-Kamila Vieira da Silva Almeida,25.00,34.00,93,87.5,180.5
-Andre Luiz Machado de Souza,29.00,31.00,91,89.5,180.5
+Lucas Farias de Moura,33.00,29.00,91,89.67,180.67
+Victor Honda Cristinni,33.00,29.00,91,89.67,180.67
+Anderson Luiz Alves,28.00,33.00,94,86.67,180.67
+Hernandes Erick de Sousa Rodrigues,18.00,38.00,94,86.67,180.67
+Maria Eulalia Marques Gomes dos Reis Aires,38.00,28.00,94,86.67,180.67
+Leonardo Gargitter,33.00,33.00,99,81.67,180.67
+Guilherme Alvarenga Torres,35.00,38.00,111,69.67,180.67
+Jonathan Gabriel Lima da Costa,41.00,22.00,85,95.5,180.5
 Luan Vasco Cavalcante,24.00,32.00,88,92.5,180.5
 Vitor Hugo Araujo Pinto,24.00,32.00,88,92.5,180.5
-Jonathan Gabriel Lima da Costa,41.00,22.00,85,95.5,180.5
-Alessandro Damiani Mota,31.00,39.00,109,71.17,180.17
-Giulian Goncalves Vivan,26.00,40.00,106,74.17,180.17
+Andre Luiz Machado de Souza,29.00,31.00,91,89.5,180.5
+Kamila Vieira da Silva Almeida,25.00,34.00,93,87.5,180.5
+Gustavo da Silva Pereira,20.00,40.00,100,80.5,180.5
 Carlos Adriano Gama Cerqueira,34.00,28.00,90,90.17,180.17
-Joao Gabriel Rudolf,26.00,46.00,118,62,180
-Bruna Correa Gomes Amorim,21.00,37.00,95,85,180
-Francisco Hiago Teixeira Chagas,28.00,32.00,92,88,180
-Renato da Costa Castelo,36.00,28.00,92,88,180
-Agnes Rodrigues Maciel,28.00,30.00,88,92,180
-Cesar Eduardo Motta Vianna,30.00,29.00,88,92,180
+Giulian Goncalves Vivan,26.00,40.00,106,74.17,180.17
+Alessandro Damiani Mota,31.00,39.00,109,71.17,180.17
 Jacson Passold,32.00,24.00,80,100,180
 Jose Rodolfo Mendes dos Reis,32.00,24.00,80,100,180
-William Luiz Korte de Azevedo,19.00,48.00,115,64.67,179.67
-Lana Beatriz Medeiros de Mesquita,24.00,41.00,106,73.67,179.67
+Agnes Rodrigues Maciel,28.00,30.00,88,92,180
+Cesar Eduardo Motta Vianna,30.00,29.00,88,92,180
+Francisco Hiago Teixeira Chagas,28.00,32.00,92,88,180
+Renato da Costa Castelo,36.00,28.00,92,88,180
+Bruna Correa Gomes Amorim,21.00,37.00,95,85,180
+Joao Gabriel Rudolf,26.00,46.00,118,62,180
+Gustavo Freire da Silva,27.00,29.00,85,94.67,179.67
+Francisco Edmar Vieira Costa Junior,27.00,33.00,93,86.67,179.67
 Erik Teixeira de Sousa,24.00,37.00,98,81.67,179.67
 Gustavo Monti Rocha,26.00,36.00,98,81.67,179.67
 Matheus Schmitz Oliveira,34.00,32.00,98,81.67,179.67
-Francisco Edmar Vieira Costa Junior,27.00,33.00,93,86.67,179.67
-Gustavo Freire da Silva,27.00,29.00,85,94.67,179.67
-Felipe Veras Correia de Araujo,28.00,43.00,114,65.5,179.5
-Andrei Johann,32.00,35.00,102,77.5,179.5
-Daniel Renato Norato de Souza,22.00,36.00,94,85.5,179.5
-Tallys Augusto Goncalves Cordeiro,32.00,30.00,92,87.5,179.5
+Lana Beatriz Medeiros de Mesquita,24.00,41.00,106,73.67,179.67
+William Luiz Korte de Azevedo,19.00,48.00,115,64.67,179.67
 Cassiano Medeiros Vieira Junior,29.00,29.00,87,92.5,179.5
+Tallys Augusto Goncalves Cordeiro,32.00,30.00,92,87.5,179.5
+Daniel Renato Norato de Souza,22.00,36.00,94,85.5,179.5
+Andrei Johann,32.00,35.00,102,77.5,179.5
+Felipe Veras Correia de Araujo,28.00,43.00,114,65.5,179.5
 John Hunhoff,26.00,40.00,106,73.33,179.33
-Vitor Nadjim Mota Ouabdelkader,46.00,34.00,114,65.17,179.17
-Mariana Carnauba Duque,30.00,40.00,110,69.17,179.17
-Dioggo Venson,20.00,41.00,102,77.17,179.17
-Joao Paulo Silva Martins,40.00,30.00,100,79.17,179.17
-Cesar Meira de Souza,37.00,31.00,99,80.17,179.17
 Felipe Mantovanelli Barros,25.00,36.00,97,82.17,179.17
-Julia Tiemi Alkmim Morishita,34.00,36.00,106,73,179
+Cesar Meira de Souza,37.00,31.00,99,80.17,179.17
+Joao Paulo Silva Martins,40.00,30.00,100,79.17,179.17
+Dioggo Venson,20.00,41.00,102,77.17,179.17
+Mariana Carnauba Duque,30.00,40.00,110,69.17,179.17
+Vitor Nadjim Mota Ouabdelkader,46.00,34.00,114,65.17,179.17
 Diego Felipe Berg Mauricio Pardin,30.00,32.00,94,85,179
 Gustavo Spohr Plentz,36.00,29.00,94,85,179
 Liubliana de Araujo Stolz,30.00,32.00,94,85,179
+Julia Tiemi Alkmim Morishita,34.00,36.00,106,73,179
 Marilia Nayara Clemente de Almeida Lima,27.00,40.00,107,71.83,178.83
-Deywerson da Silva Pereira,22.00,35.00,92,86.67,178.67
 Andre Henrique Nakano,32.00,26.00,84,94.67,178.67
 Daniel Magalhaes Bicalho,28.00,28.00,84,94.67,178.67
-Jackson Pinheiro,28.00,35.00,98,80.5,178.5
-Mateus Ramos Pimentel Silva,34.00,30.00,94,84.5,178.5
-Patrick Dantas Silva Sa Teles,33.00,30.00,93,85.5,178.5
-Aecio Fernandes Galiza Magalhaes,27.00,32.00,91,87.5,178.5
+Deywerson da Silva Pereira,22.00,35.00,92,86.67,178.67
+Pedro Costa Barros,31.00,26.00,83,95.5,178.5
 Igor Paladino Gomes da Costa,34.00,26.00,86,92.5,178.5
 Tiago Matos Santos,28.00,29.00,86,92.5,178.5
-Pedro Costa Barros,31.00,26.00,83,95.5,178.5
+Aecio Fernandes Galiza Magalhaes,27.00,32.00,91,87.5,178.5
+Patrick Dantas Silva Sa Teles,33.00,30.00,93,85.5,178.5
+Mateus Ramos Pimentel Silva,34.00,30.00,94,84.5,178.5
+Jackson Pinheiro,28.00,35.00,98,80.5,178.5
 Guilherme Dias,39.00,37.00,113,65.33,178.33
-Ricardo Bizerra de Lima Filho,24.00,42.00,108,70.17,178.17
-Lucas Romagnoli,39.00,30.00,99,79.17,178.17
-Warley Cabral Marins,20.00,38.00,96,82.17,178.17
-Pedro Elias Valadares Castanheira,41.00,26.00,93,85.17,178.17
 Ayrton Oliveira Ouriques,29.00,31.00,91,87.17,178.17
 Jonathan Lucas Moreira de Freitas,31.00,30.00,91,87.17,178.17
-Neander Mendes Menezes,39.00,42.00,123,55,178
-Matheus Dutra Moraes,40.00,34.00,108,70,178
+Pedro Elias Valadares Castanheira,41.00,26.00,93,85.17,178.17
+Warley Cabral Marins,20.00,38.00,96,82.17,178.17
+Lucas Romagnoli,39.00,30.00,99,79.17,178.17
+Ricardo Bizerra de Lima Filho,24.00,42.00,108,70.17,178.17
 Joao Pedro Gandarela de Souza,28.00,28.00,84,94,178
+Matheus Dutra Moraes,40.00,34.00,108,70,178
+Neander Mendes Menezes,39.00,42.00,123,55,178
 Ademir Sousa Lopes,34.00,31.00,96,81.83,177.83
-Edgar Matsui Kaizawa,22.00,43.00,108,69.67,177.67
+Kleber Araujo San Galo Curvelo,37.00,23.00,83,94.67,177.67
+Mathews Edwirds Gomes Almeida,30.00,29.00,88,89.67,177.67
 Mateus Moreira Lima,21.00,37.00,95,82.67,177.67
 Roberta Rodrigues de Lima,27.00,34.00,95,82.67,177.67
-Mathews Edwirds Gomes Almeida,30.00,29.00,88,89.67,177.67
-Kleber Araujo San Galo Curvelo,37.00,23.00,83,94.67,177.67
-Pedro Guerra Lourenco,40.00,30.00,100,77.5,177.5
-Thiago Machado Coelho,25.00,35.00,95,82.5,177.5
-Guilherme Henrique dos Reis,29.00,32.00,93,84.5,177.5
-Robson Lopes Soares,24.00,32.00,88,89.5,177.5
+Edgar Matsui Kaizawa,22.00,43.00,108,69.67,177.67
 Lucas Goncalves Temponi Soares,31.00,27.00,85,92.5,177.5
 Luis Gustavo Bonifacio Gomes,29.00,28.00,85,92.5,177.5
 Luiz Henrique Magalhaes Passos,33.00,26.00,85,92.5,177.5
+Robson Lopes Soares,24.00,32.00,88,89.5,177.5
+Guilherme Henrique dos Reis,29.00,32.00,93,84.5,177.5
+Thiago Machado Coelho,25.00,35.00,95,82.5,177.5
+Pedro Guerra Lourenco,40.00,30.00,100,77.5,177.5
 Francisco Jorge Monteiro Junior,38.00,33.00,104,73.33,177.33
 Guilherme Pereira Albino da Silva,32.00,36.00,104,73.33,177.33
-Adriano Leal Spinola,30.00,39.00,108,69.17,177.17
-Felipe Luiz da Silva Brandao,28.00,40.00,108,69.17,177.17
-Jonatha Salles Menezes,36.00,34.00,104,73.17,177.17
-Jorge Renato Rottschaefer,26.00,36.00,98,79.17,177.17
-Daniel Nunes do Nascimento,33.00,31.00,95,82.17,177.17
 Caio Victor Sampaio Mota Santos,30.00,30.00,90,87.17,177.17
 Carlos Eduardo Abreu Macieski Magalhaes,38.00,26.00,90,87.17,177.17
 Joao Marcos Pena Gouveia,30.00,30.00,90,87.17,177.17
 Josafa Braga Marengo,30.00,30.00,90,87.17,177.17
 Rodolfo Moacir Seabra Junior,30.00,30.00,90,87.17,177.17
-Paulo Edson Misokami Oliveira,33.00,40.00,113,64,177
-Alexandre Silva Sousa,37.00,35.00,107,70,177
-Roberto Bressan,25.00,41.00,107,70,177
-Everton Gadea Prazeres,27.00,36.00,99,78,177
-Ivan Luis Vitorio Arantes,28.00,33.00,94,83,177
-Eduardo Maia Santos,29.00,27.00,83,94,177
+Daniel Nunes do Nascimento,33.00,31.00,95,82.17,177.17
+Jorge Renato Rottschaefer,26.00,36.00,98,79.17,177.17
+Jonatha Salles Menezes,36.00,34.00,104,73.17,177.17
+Adriano Leal Spinola,30.00,39.00,108,69.17,177.17
+Felipe Luiz da Silva Brandao,28.00,40.00,108,69.17,177.17
 Rafael Coelho Gondim de Oliveira Lima,38.00,22.00,82,95,177
 Valteci Marcelino Coelho Junior,32.00,25.00,82,95,177
-Natalia de Almeida Mayer,34.00,43.00,120,56.83,176.83
+Eduardo Maia Santos,29.00,27.00,83,94,177
+Ivan Luis Vitorio Arantes,28.00,33.00,94,83,177
+Everton Gadea Prazeres,27.00,36.00,99,78,177
+Alexandre Silva Sousa,37.00,35.00,107,70,177
+Roberto Bressan,25.00,41.00,107,70,177
+Paulo Edson Misokami Oliveira,33.00,40.00,113,64,177
 Tiago Andre Silva Lima Lopes,30.00,36.00,102,74.83,176.83
-Camila Lucena Germano,33.00,35.00,103,73.67,176.67
-Ailton da Silva Cordeiro,20.00,41.00,102,74.67,176.67
+Natalia de Almeida Mayer,34.00,43.00,120,56.83,176.83
 Anderson Juliano Azambuja Guiera,24.00,33.00,90,86.67,176.67
-Pedro Moreira Grisolia,34.00,34.00,102,74.5,176.5
-Douglas Oliveira Donin,32.00,34.00,100,76.5,176.5
-Edgar Barcellos Junior,32.00,34.00,100,76.5,176.5
-Gabriel Oliveira Santos,31.00,30.00,91,85.5,176.5
-Diego Renan Santin,23.00,33.00,89,87.5,176.5
+Ailton da Silva Cordeiro,20.00,41.00,102,74.67,176.67
+Camila Lucena Germano,33.00,35.00,103,73.67,176.67
+Bruno Campello Torres de Azevedo Teles,35.00,23.00,81,95.5,176.5
 Caio Lima Potter,28.00,28.00,84,92.5,176.5
 Eduardo de Mendonca Mesquita,32.00,26.00,84,92.5,176.5
-Bruno Campello Torres de Azevedo Teles,35.00,23.00,81,95.5,176.5
-Danielle de Sena Araujo,30.00,40.00,110,66.33,176.33
+Diego Renan Santin,23.00,33.00,89,87.5,176.5
+Gabriel Oliveira Santos,31.00,30.00,91,85.5,176.5
+Douglas Oliveira Donin,32.00,34.00,100,76.5,176.5
+Edgar Barcellos Junior,32.00,34.00,100,76.5,176.5
+Pedro Moreira Grisolia,34.00,34.00,102,74.5,176.5
 Joao Gabriel Gouveia de Souza Brito,34.00,31.00,96,80.33,176.33
-Jadiel Costa Santos Junior,28.00,40.00,108,68.17,176.17
-Giovanni Arcari Pereira,42.00,32.00,106,70.17,176.17
+Danielle de Sena Araujo,30.00,40.00,110,66.33,176.33
 Joao Felipe Resende Nacer,27.00,37.00,101,75.17,176.17
-Vinicius Pereira Mateus Borges,38.00,38.00,114,62,176
-Paula Maiumi Rubel,37.00,34.00,105,71,176
-Wallefy Matheus Otaviani Rocha,33.00,35.00,103,73,176
-Rafael de Moraes Costa,26.00,35.00,96,80,176
-Joao Marcos Viana Silva,31.00,31.00,93,83,176
-Luan Silva Barreto,27.00,32.00,91,85,176
-Thiago de Oliveira Cassel,34.00,27.00,88,88,176
+Giovanni Arcari Pereira,42.00,32.00,106,70.17,176.17
+Jadiel Costa Santos Junior,28.00,40.00,108,68.17,176.17
 Joao Carlos Rodrigues Couto,28.00,29.00,86,90,176
 Luiz Felipe Lima e Silva,36.00,25.00,86,90,176
-Bruno Lira Budal Arins,29.00,46.00,121,54.67,175.67
-Elnata de Oliveira Souza,25.00,43.00,111,64.67,175.67
-Leonardo Sarraff Nunes de Moraes,30.00,34.00,98,77.67,175.67
-Joao Victor Ribeiro Rodrigues,32.00,29.00,90,85.67,175.67
-Victor Hugo Chimilovsk Ribeiro,26.00,32.00,90,85.67,175.67
+Thiago de Oliveira Cassel,34.00,27.00,88,88,176
+Luan Silva Barreto,27.00,32.00,91,85,176
+Joao Marcos Viana Silva,31.00,31.00,93,83,176
+Rafael de Moraes Costa,26.00,35.00,96,80,176
+Wallefy Matheus Otaviani Rocha,33.00,35.00,103,73,176
+Paula Maiumi Rubel,37.00,34.00,105,71,176
+Vinicius Pereira Mateus Borges,38.00,38.00,114,62,176
 Leticia Campello de Oliveira Soares Basto,37.00,22.00,81,94.67,175.67
 Marcelo Gervazoni Carbonera,37.00,22.00,81,94.67,175.67
-Joao Pedro de Almeida Leite Maciel,34.00,32.00,98,77.5,175.5
-Alex Dias Aleluia,25.00,35.00,95,80.5,175.5
-Juliano Duarte Seus,22.00,34.00,90,85.5,175.5
+Joao Victor Ribeiro Rodrigues,32.00,29.00,90,85.67,175.67
+Victor Hugo Chimilovsk Ribeiro,26.00,32.00,90,85.67,175.67
+Leonardo Sarraff Nunes de Moraes,30.00,34.00,98,77.67,175.67
+Elnata de Oliveira Souza,25.00,43.00,111,64.67,175.67
+Bruno Lira Budal Arins,29.00,46.00,121,54.67,175.67
+Joao Pedro de Souza Jardim da Costa,38.00,21.00,80,95.5,175.5
+Gabriel Ligoski,31.00,26.00,83,92.5,175.5
+Adriano Aragao dos Santos,28.00,29.00,86,89.5,175.5
 Marcia Andrea Tozi Magalhaes,26.00,31.00,88,87.5,175.5
 Victor Barcelos Melazo,32.00,28.00,88,87.5,175.5
-Adriano Aragao dos Santos,28.00,29.00,86,89.5,175.5
-Gabriel Ligoski,31.00,26.00,83,92.5,175.5
-Joao Pedro de Souza Jardim da Costa,38.00,21.00,80,95.5,175.5
-Matos Alem Dias de Oliveira,16.00,46.00,108,67.17,175.17
-Eduardo Galileu Oliveira Amorim,35.00,34.00,103,72.17,175.17
-Gabriel Longatti,25.00,39.00,103,72.17,175.17
+Juliano Duarte Seus,22.00,34.00,90,85.5,175.5
+Alex Dias Aleluia,25.00,35.00,95,80.5,175.5
+Joao Pedro de Almeida Leite Maciel,34.00,32.00,98,77.5,175.5
 Gabriel Sana Ferreira da Silva,24.00,32.00,88,87.17,175.17
 Lucas Dalle Rocha,32.00,28.00,88,87.17,175.17
-Rafael Lassance de Oliveira Alonso Martinez,41.00,30.00,101,74,175
-Pedro Henrique Pires Egler,40.00,26.00,92,83,175
+Eduardo Galileu Oliveira Amorim,35.00,34.00,103,72.17,175.17
+Gabriel Longatti,25.00,39.00,103,72.17,175.17
+Matos Alem Dias de Oliveira,16.00,46.00,108,67.17,175.17
 Lourenco Bruno da Cunha Neto,38.00,21.00,80,95,175
-Gabriel Bargelesi Fritzen,24.00,42.00,108,66.83,174.83
-Danillo Alves da Silva Maciel,21.00,40.00,101,73.83,174.83
+Pedro Henrique Pires Egler,40.00,26.00,92,83,175
+Rafael Lassance de Oliveira Alonso Martinez,41.00,30.00,101,74,175
 Edilson Costa de Castro,24.00,37.00,98,76.83,174.83
-Vinicius Brenner Moreira da Silva,36.00,34.00,104,70.67,174.67
-Victor Coelho Lima,29.00,34.00,97,77.67,174.67
+Danillo Alves da Silva Maciel,21.00,40.00,101,73.83,174.83
+Gabriel Bargelesi Fritzen,24.00,42.00,108,66.83,174.83
 Andre de Souza Andrade,34.00,27.00,88,86.67,174.67
 Jessica Massumi Takara,32.00,28.00,88,86.67,174.67
-Jeferson Andrade de Jesus,25.00,36.00,97,77.5,174.5
+Victor Coelho Lima,29.00,34.00,97,77.67,174.67
+Vinicius Brenner Moreira da Silva,36.00,34.00,104,70.67,174.67
 Mathias Coelho Batista,30.00,26.00,82,92.5,174.5
 Rodrigo Hikaro Inoue da Silva,30.00,26.00,82,92.5,174.5
+Jeferson Andrade de Jesus,25.00,36.00,97,77.5,174.5
 Bruno Victor da Silva,20.00,40.00,100,74.33,174.33
-Paulo Eduardo Dutra,30.00,37.00,104,70.17,174.17
+Thomas Anderson Feitosa Monteiro,20.00,36.00,92,82.17,174.17
+Danilo Pacheco Lima,31.00,31.00,93,81.17,174.17
+Davi Carlos da Silva,24.00,35.00,94,80.17,174.17
 Maycon Rogers Ribeiro Alves,24.00,39.00,102,72.17,174.17
 Rafael William Furlan Fim,30.00,36.00,102,72.17,174.17
-Davi Carlos da Silva,24.00,35.00,94,80.17,174.17
-Danilo Pacheco Lima,31.00,31.00,93,81.17,174.17
-Thomas Anderson Feitosa Monteiro,20.00,36.00,92,82.17,174.17
-Lucas Felipe de Oliveira Freitas,35.00,33.00,101,73,174
-Israel Rodrigues Soares,32.00,33.00,98,76,174
-Roberto Medeiros de Moraes e Castro,34.00,32.00,98,76,174
-Julia Dartora Craide,34.00,30.00,94,80,174
+Paulo Eduardo Dutra,30.00,37.00,104,70.17,174.17
+Gustavo Alves Silveira,29.00,29.00,87,87,174
 Gabriel Oliveira dos Santos,20.00,36.00,92,82,174
 Willian Henrique de Abreu Pereira,22.00,35.00,92,82,174
-Gustavo Alves Silveira,29.00,29.00,87,87,174
+Julia Dartora Craide,34.00,30.00,94,80,174
+Israel Rodrigues Soares,32.00,33.00,98,76,174
+Roberto Medeiros de Moraes e Castro,34.00,32.00,98,76,174
+Lucas Felipe de Oliveira Freitas,35.00,33.00,101,73,174
 Oton Crispim Braga,26.00,33.00,92,81.83,173.83
-Filipe Antonio dos Santos Viegas Ribeiro,31.00,39.00,109,64.67,173.67
-Cleverson Rene Machado,26.00,39.00,104,69.67,173.67
-Lucas Lima Simoes,33.00,35.00,103,70.67,173.67
-Kauan Maxwel Ponte Mocelin,25.00,32.00,89,84.67,173.67
 Deives Olympio Portugal,25.00,31.00,87,86.67,173.67
 Hugo Faria Melo,33.00,27.00,87,86.67,173.67
-Andrei Silva Santos,25.00,48.00,121,52.5,173.5
-Sephora Cristina de Carvalho Marques,37.00,30.00,97,76.5,173.5
-Marcel Henrique da Silva Mendes,28.00,32.00,92,81.5,173.5
-Jairo Romulo Franca Alves da Silva,23.00,34.00,91,82.5,173.5
+Kauan Maxwel Ponte Mocelin,25.00,32.00,89,84.67,173.67
+Lucas Lima Simoes,33.00,35.00,103,70.67,173.67
+Cleverson Rene Machado,26.00,39.00,104,69.67,173.67
+Filipe Antonio dos Santos Viegas Ribeiro,31.00,39.00,109,64.67,173.67
 Lucca Bortoloso Radtke Barreto,26.00,30.00,86,87.5,173.5
-Leonardo Machado Cavalcanti,42.00,31.00,104,69.17,173.17
+Jairo Romulo Franca Alves da Silva,23.00,34.00,91,82.5,173.5
+Marcel Henrique da Silva Mendes,28.00,32.00,92,81.5,173.5
+Sephora Cristina de Carvalho Marques,37.00,30.00,97,76.5,173.5
+Andrei Silva Santos,25.00,48.00,121,52.5,173.5
 Ayrton Barros de Lira,38.00,24.00,86,87.17,173.17
 Carolina Bastos Almeida,32.00,27.00,86,87.17,173.17
 Felipe Gomes Paradas,32.00,27.00,86,87.17,173.17
 Pedro Kempter Brant,38.00,24.00,86,87.17,173.17
 William Castro dos Santos,38.00,24.00,86,87.17,173.17
-Josenalde Barbosa de Oliveira,29.00,37.00,103,70,173
-Jamisson Santana de Freitas,29.00,34.00,97,76,173
-Osnir Jose de Melo Basilio,24.00,35.00,94,79,173
+Leonardo Machado Cavalcanti,42.00,31.00,104,69.17,173.17
 Rai Emanuel Tavares de Freitas,22.00,34.00,90,83,173
-Giovanni Alves Ribeiro Duarte,35.00,41.00,117,55.83,172.83
-Antonio Augusto de Faria Guimaraes Melo Pertence,31.00,39.00,109,63.83,172.83
-Matheus Pereira dos Santos,22.00,42.00,106,66.83,172.83
+Osnir Jose de Melo Basilio,24.00,35.00,94,79,173
+Jamisson Santana de Freitas,29.00,34.00,97,76,173
+Josenalde Barbosa de Oliveira,29.00,37.00,103,70,173
 Leandro Augusto de Oliveira,31.00,30.00,91,81.83,172.83
-Jean Luc Antoine Olivier Fobe,28.00,34.00,96,76.67,172.67
-Alan Rabelo Martins,28.00,33.00,94,78.67,172.67
+Matheus Pereira dos Santos,22.00,42.00,106,66.83,172.83
+Antonio Augusto de Faria Guimaraes Melo Pertence,31.00,39.00,109,63.83,172.83
+Giovanni Alves Ribeiro Duarte,35.00,41.00,117,55.83,172.83
 Vasco Rodrigues Monteiro Neto,28.00,30.00,88,84.67,172.67
+Alan Rabelo Martins,28.00,33.00,94,78.67,172.67
+Jean Luc Antoine Olivier Fobe,28.00,34.00,96,76.67,172.67
+Tiago Fernandes Viana,28.00,30.00,88,84.5,172.5
+Guilherme Brito Vilas Boas,25.00,35.00,95,77.5,172.5
+Sayonara Santos Araujo,26.00,35.00,96,76.5,172.5
+Erica Xavier,21.00,38.00,97,75.5,172.5
+Rodrigo Cavalcanti Ferraz,31.00,35.00,101,71.5,172.5
 Eduardo Lins Ramos e Sousa,28.00,38.00,104,68.5,172.5
 Jose Vinicius Protano Silva,32.00,36.00,104,68.5,172.5
 Rodrigo Menchio Faria Filho,28.00,38.00,104,68.5,172.5
-Rodrigo Cavalcanti Ferraz,31.00,35.00,101,71.5,172.5
-Erica Xavier,21.00,38.00,97,75.5,172.5
-Sayonara Santos Araujo,26.00,35.00,96,76.5,172.5
-Guilherme Brito Vilas Boas,25.00,35.00,95,77.5,172.5
-Tiago Fernandes Viana,28.00,30.00,88,84.5,172.5
-Rodrigo Figueiredo Melo,33.00,40.00,113,59.17,172.17
-Ricardo Luis Vaz Silva,37.00,34.00,105,67.17,172.17
 Fernando Lopes da Silveira,26.00,32.00,90,82.17,172.17
 Isaque Profeta dos Reis,30.00,30.00,90,82.17,172.17
+Ricardo Luis Vaz Silva,37.00,34.00,105,67.17,172.17
+Rodrigo Figueiredo Melo,33.00,40.00,113,59.17,172.17
+Otavio Lafaiete Guimaraes,26.00,33.00,92,80,172
+Patricia de Sousa Paula,27.00,36.00,99,73,172
 Alessandro Rogerio Anunciacao Araujo,22.00,40.00,102,70,172
 Rodrigo Ribeiro Oliveira,40.00,31.00,102,70,172
-Patricia de Sousa Paula,27.00,36.00,99,73,172
-Otavio Lafaiete Guimaraes,26.00,33.00,92,80,172
-Giuliano Fujimoto Suetugo,32.00,44.00,120,51.67,171.67
-Lucas Floro e Silva,29.00,38.00,105,66.67,171.67
-Anderson Juan Rocha Menezes,17.00,41.00,99,72.67,171.67
-Caio Cesar Felix Caldeira,26.00,34.00,94,77.67,171.67
-Gabriel Candido Rocha Correa Lima,24.00,34.00,92,79.67,171.67
 Aline Lima Costa Miranda,31.00,27.00,85,86.67,171.67
 Hywre Cesar de Brito Pinto,29.00,28.00,85,86.67,171.67
-Guilherme Crespo Gomes dos Santos,40.00,38.00,116,55.5,171.5
+Gabriel Candido Rocha Correa Lima,24.00,34.00,92,79.67,171.67
+Caio Cesar Felix Caldeira,26.00,34.00,94,77.67,171.67
+Anderson Juan Rocha Menezes,17.00,41.00,99,72.67,171.67
+Lucas Floro e Silva,29.00,38.00,105,66.67,171.67
+Giuliano Fujimoto Suetugo,32.00,44.00,120,51.67,171.67
+Joao Carlos Elias Dias,27.00,31.00,89,82.5,171.5
 Alessandro Avelino Braga,24.00,39.00,102,69.5,171.5
 Francisco Martins Hoffmann,30.00,36.00,102,69.5,171.5
-Joao Carlos Elias Dias,27.00,31.00,89,82.5,171.5
+Guilherme Crespo Gomes dos Santos,40.00,38.00,116,55.5,171.5
 Mateus Neves Mercon,34.00,34.00,102,69.33,171.33
-Mauro Cezar Pereira Paz Filho,44.00,28.00,100,71.17,171.17
-Luiz Alberto Guimaraes Viana,38.00,28.00,94,77.17,171.17
+Heitor Mendes Pereira,28.00,28.00,84,87.17,171.17
+Guilherme Ferreira Vieira,33.00,28.00,89,82.17,171.17
 Bruno Ricardo Machado,28.00,32.00,92,79.17,171.17
 Edivaldo Soares Sacramento Junior,20.00,36.00,92,79.17,171.17
-Guilherme Ferreira Vieira,33.00,28.00,89,82.17,171.17
-Heitor Mendes Pereira,28.00,28.00,84,87.17,171.17
-Jean Leles da Silva,29.00,45.00,119,52,171
-Guilherme Teles da Mota,42.00,38.00,118,53,171
+Luiz Alberto Guimaraes Viana,38.00,28.00,94,77.17,171.17
+Mauro Cezar Pereira Paz Filho,44.00,28.00,100,71.17,171.17
 Heitor Gomes Pereira,28.00,30.00,88,83,171
 Pedro Vieira Rocha Trogo,24.00,32.00,88,83,171
+Guilherme Teles da Mota,42.00,38.00,118,53,171
+Jean Leles da Silva,29.00,45.00,119,52,171
 Diego Rodrigues Ferreira,31.00,29.00,89,81.83,170.83
-Marcelo Lachi,39.00,31.00,101,69.67,170.67
-Haroldo Albuquerque Maranhao de Oliveira,28.00,34.00,96,74.67,170.67
+Henrique Finger Zimerman,36.00,20.00,76,94.67,170.67
+Charlis Saraiva Aristimunha,28.00,30.00,88,82.67,170.67
 Matheus Lisboa Oliveira dos Santos,28.00,32.00,92,78.67,170.67
 Nikolas Lacerda Santos,22.00,35.00,92,78.67,170.67
-Charlis Saraiva Aristimunha,28.00,30.00,88,82.67,170.67
-Henrique Finger Zimerman,36.00,20.00,76,94.67,170.67
-Otavio Guilherme Xavier da Silva,33.00,41.00,115,55.5,170.5
-Renan Bastos de Moura,36.00,36.00,108,62.5,170.5
-Joao Victor de Oliveira Matos,33.00,30.00,93,77.5,170.5
-Gustavo Henrique Galindo Costa e Silva,36.00,26.00,88,82.5,170.5
+Haroldo Albuquerque Maranhao de Oliveira,28.00,34.00,96,74.67,170.67
+Marcelo Lachi,39.00,31.00,101,69.67,170.67
 Caio Souza dos Reis,30.00,28.00,86,84.5,170.5
-Jair Rocha de Oliveira Neto,32.00,50.00,132,38.33,170.33
+Gustavo Henrique Galindo Costa e Silva,36.00,26.00,88,82.5,170.5
+Joao Victor de Oliveira Matos,33.00,30.00,93,77.5,170.5
+Renan Bastos de Moura,36.00,36.00,108,62.5,170.5
+Otavio Guilherme Xavier da Silva,33.00,41.00,115,55.5,170.5
 Rebeka Rodrigues Lobo,30.00,36.00,102,68.33,170.33
-Tadeu Andre Oliveira,18.00,42.00,102,68.17,170.17
-Jamily Naiane Santiago Ribeiro,31.00,30.00,91,79.17,170.17
-Roberto Storch,26.00,31.00,88,82.17,170.17
+Jair Rocha de Oliveira Neto,32.00,50.00,132,38.33,170.33
 Rafael Martins Pereira Chianca,35.00,24.00,83,87.17,170.17
-Rohgi Toshio Meneses Chikushi,20.00,45.00,110,60,170
-Reinaldo de Carvalho Silva,32.00,34.00,100,70,170
-Davi Pinheiro,30.00,34.00,98,72,170
-Luiz Nunes Junior,27.00,34.00,95,75,170
-Rodrigo Tetsuya Yamashiro Ota,30.00,32.00,94,76,170
-Mario Silva Ribeiro,30.00,31.00,92,78,170
-Francisco Jose Silveira Correa,37.00,27.00,91,79,170
-Renan Delgado Cavalcante Alves Mendes,29.00,29.00,87,83,170
+Roberto Storch,26.00,31.00,88,82.17,170.17
+Jamily Naiane Santiago Ribeiro,31.00,30.00,91,79.17,170.17
+Tadeu Andre Oliveira,18.00,42.00,102,68.17,170.17
 Lucas Correa Boaventura,32.00,25.00,82,88,170
+Renan Delgado Cavalcante Alves Mendes,29.00,29.00,87,83,170
+Francisco Jose Silveira Correa,37.00,27.00,91,79,170
+Mario Silva Ribeiro,30.00,31.00,92,78,170
+Rodrigo Tetsuya Yamashiro Ota,30.00,32.00,94,76,170
+Luiz Nunes Junior,27.00,34.00,95,75,170
+Davi Pinheiro,30.00,34.00,98,72,170
+Reinaldo de Carvalho Silva,32.00,34.00,100,70,170
+Rohgi Toshio Meneses Chikushi,20.00,45.00,110,60,170
 Leonardo Betto Sueoka,30.00,43.00,116,53.83,169.83
-Leonardo Jorge Quemello,30.00,35.00,100,69.67,169.67
-Marcelo Rodrigo Moreira da Silva,30.00,35.00,100,69.67,169.67
 Bruno Cipriano Minhaqui da Silva,34.00,32.00,98,71.67,169.67
 Marcos Narciso Lopes,22.00,38.00,98,71.67,169.67
-Marcos Cardoso Fernandes,34.00,44.00,122,47.5,169.5
+Leonardo Jorge Quemello,30.00,35.00,100,69.67,169.67
+Marcelo Rodrigo Moreira da Silva,30.00,35.00,100,69.67,169.67
+Allan Santos de Freitas,24.00,34.00,92,77.5,169.5
 Fabio Trindade Ramos,24.00,37.00,98,71.5,169.5
 Henrique de Oliveira Boiteux,20.00,39.00,98,71.5,169.5
-Allan Santos de Freitas,24.00,34.00,92,77.5,169.5
+Marcos Cardoso Fernandes,34.00,44.00,122,47.5,169.5
 Ariel Roque Inacio Luz,24.00,36.00,96,73.33,169.33
-Gabriel de Amorim Maia,32.00,36.00,104,65.17,169.17
-Matheus Gaia da Costa Nunes,33.00,32.00,97,72.17,169.17
-Stefany Larissa Dantas Nascimento,27.00,34.00,95,74.17,169.17
-Kelson Sarmento Duarte,23.00,35.00,93,76.17,169.17
 Fred Vasquez Pinheiro Gomes,25.00,31.00,87,82.17,169.17
 Iago Interaminense Gomes,31.00,28.00,87,82.17,169.17
 Thiago Vasconcelos Braga,29.00,29.00,87,82.17,169.17
-Claudio Jakson Zini,29.00,40.00,109,60,169
-Antonio de Carvalho Gomes Filho,30.00,30.00,90,79,169
+Kelson Sarmento Duarte,23.00,35.00,93,76.17,169.17
+Stefany Larissa Dantas Nascimento,27.00,34.00,95,74.17,169.17
+Matheus Gaia da Costa Nunes,33.00,32.00,97,72.17,169.17
+Gabriel de Amorim Maia,32.00,36.00,104,65.17,169.17
 Leonardo Medeiros,30.00,28.00,86,83,169
 Luiz Antonio Heiy Junior,26.00,30.00,86,83,169
-Igor Neiva Freitas,32.00,36.00,104,64.67,168.67
-Edgar Peixoto Farrapo,39.00,30.00,99,69.67,168.67
+Antonio de Carvalho Gomes Filho,30.00,30.00,90,79,169
+Claudio Jakson Zini,29.00,40.00,109,60,169
 Maria Tatiane Medeiros dos Santos,29.00,30.00,89,79.67,168.67
 Rafael Kenedy da Silva Alves,29.00,30.00,89,79.67,168.67
-Joao Vitor Rodrigues Baptista,28.00,49.00,126,42.5,168.5
-Paulo Vitor Bettini de Paiva Lima,27.00,38.00,103,65.5,168.5
-Eduardo Oliveira de Almeida,26.00,33.00,92,76.5,168.5
-Alex de Abreu Tavares,29.00,31.00,91,77.5,168.5
+Edgar Peixoto Farrapo,39.00,30.00,99,69.67,168.67
+Igor Neiva Freitas,32.00,36.00,104,64.67,168.67
 Francisco Jose dos Santos Reis,28.00,29.00,86,82.5,168.5
 Klesley Goncalves Francisco,26.00,30.00,86,82.5,168.5
+Alex de Abreu Tavares,29.00,31.00,91,77.5,168.5
+Eduardo Oliveira de Almeida,26.00,33.00,92,76.5,168.5
+Paulo Vitor Bettini de Paiva Lima,27.00,38.00,103,65.5,168.5
+Joao Vitor Rodrigues Baptista,28.00,49.00,126,42.5,168.5
 Josias Oliveira da Cunha,32.00,34.00,100,68.33,168.33
-Felipe de Mattos Bracale,39.00,32.00,103,65.17,168.17
+Dayanne Cristina Pereira Gomes,34.00,26.00,86,82.17,168.17
 Gabriel Silveira,18.00,39.00,96,72.17,168.17
 Thiago Alexandria Sposito,32.00,32.00,96,72.17,168.17
-Dayanne Cristina Pereira Gomes,34.00,26.00,86,82.17,168.17
-Lucas Kishima dos Santos,30.00,35.00,100,68,168
+Felipe de Mattos Bracale,39.00,32.00,103,65.17,168.17
+Maicon Mauricio Goncalves da Silva,30.00,27.00,84,84,168
+Renato Henrique Alpes Sampaio,29.00,30.00,89,79,168
+Thauany Araujo Alves,21.00,35.00,91,77,168
+Thiago Cotta de Campos,35.00,29.00,93,75,168
 Antonio Albuquerque Guimaraes Neto,24.00,37.00,98,70,168
 Filipe de Jesus Lobato,26.00,36.00,98,70,168
 Paulo Ubirajara de Mattos Neto,28.00,35.00,98,70,168
@@ -1116,876 +1119,873 @@ Raul Alberto Kleemann,26.00,36.00,98,70,168
 Tiago Vinicius Volpato da Costa,38.00,30.00,98,70,168
 Tony Gelsy Sampaio,22.00,38.00,98,70,168
 Victor Thury Vieira Hauacche,34.00,32.00,98,70,168
-Thiago Cotta de Campos,35.00,29.00,93,75,168
-Thauany Araujo Alves,21.00,35.00,91,77,168
-Renato Henrique Alpes Sampaio,29.00,30.00,89,79,168
-Maicon Mauricio Goncalves da Silva,30.00,27.00,84,84,168
-Vinicius de Carvalho Canuto,27.00,41.00,109,58.83,167.83
-Joao Vitor Morandi Lemos,29.00,36.00,101,66.83,167.83
+Lucas Kishima dos Santos,30.00,35.00,100,68,168
 Helder Silva Lopes Moraes,34.00,26.00,86,81.83,167.83
-Lucas Guarise,35.00,40.00,115,52.67,167.67
-Adller Simas,31.00,39.00,109,58.67,167.67
+Joao Vitor Morandi Lemos,29.00,36.00,101,66.83,167.83
+Vinicius de Carvalho Canuto,27.00,41.00,109,58.83,167.83
+Bruno Simoes da Silva Ferreira,34.00,27.00,88,79.67,167.67
+Osvaldo Alves de Souza Junior,28.00,34.00,96,71.67,167.67
 Bruno Ferreira Machado,30.00,34.00,98,69.67,167.67
 Gustavo Xisto Britto Macedo,30.00,34.00,98,69.67,167.67
 Ramon Jose de Sousa Araujo,30.00,34.00,98,69.67,167.67
-Osvaldo Alves de Souza Junior,28.00,34.00,96,71.67,167.67
-Bruno Simoes da Silva Ferreira,34.00,27.00,88,79.67,167.67
-Tiago Hackbarth,30.00,40.00,110,57.5,167.5
-Kelton Melo de Oliveira Fonseca,27.00,37.00,101,66.5,167.5
+Adller Simas,31.00,39.00,109,58.67,167.67
+Lucas Guarise,35.00,40.00,115,52.67,167.67
+Kleidson Alves Corea,27.00,29.00,85,82.5,167.5
+Matheus Lima da Silva,24.00,32.00,88,79.5,167.5
 Igor Miranda Moreira,30.00,30.00,90,77.5,167.5
 Joao Pedro Geraldo de Oliveira,30.00,30.00,90,77.5,167.5
-Matheus Lima da Silva,24.00,32.00,88,79.5,167.5
-Kleidson Alves Corea,27.00,29.00,85,82.5,167.5
-Frederico Lima Vasconcelos Lira,29.00,33.00,95,72.17,167.17
+Kelton Melo de Oliveira Fonseca,27.00,37.00,101,66.5,167.5
+Tiago Hackbarth,30.00,40.00,110,57.5,167.5
+Iuri Cabral Pava,29.00,28.00,85,82.17,167.17
 Danilo Vieira Rocha,26.00,31.00,88,79.17,167.17
 Gabriel Fonte Pereira,32.00,28.00,88,79.17,167.17
 Sergio da Silveira Santos,30.00,29.00,88,79.17,167.17
-Iuri Cabral Pava,29.00,28.00,85,82.17,167.17
+Frederico Lima Vasconcelos Lira,29.00,33.00,95,72.17,167.17
 Felipe Noll Frantz,28.00,28.00,84,83,167
-Gean Matheus Goncalves,34.00,32.00,98,68.67,166.67
-Eduardo Minakawa Sato,31.00,33.00,97,69.67,166.67
-Andrey Serra Pimenta,30.00,33.00,96,70.67,166.67
 Andre Ribeiro da Silva,22.00,34.00,90,76.67,166.67
-Giulia de Oliveira da Silva,28.00,33.00,94,72.5,166.5
+Andrey Serra Pimenta,30.00,33.00,96,70.67,166.67
+Eduardo Minakawa Sato,31.00,33.00,97,69.67,166.67
+Gean Matheus Goncalves,34.00,32.00,98,68.67,166.67
 Antonio Sebastian Fernandes Rabelo,27.00,31.00,89,77.5,166.5
 Marcus Vinicius Oliveira Silva,31.00,29.00,89,77.5,166.5
-Newton de Lima Carlini,24.00,37.00,98,68.33,166.33
+Giulia de Oliveira da Silva,28.00,33.00,94,72.5,166.5
+Gleiser Alvarez Arrojo,26.00,32.00,90,76.33,166.33
 Lucas Costa da Silva,28.00,32.00,92,74.33,166.33
 Sergio Santos Barros,36.00,28.00,92,74.33,166.33
-Gleiser Alvarez Arrojo,26.00,32.00,90,76.33,166.33
-Vinicius Fonseca de Oliveira,30.00,38.00,106,60.17,166.17
-Daniel Cardoso Coelho Alves de Oliveira,20.00,37.00,94,72.17,166.17
+Newton de Lima Carlini,24.00,37.00,98,68.33,166.33
+Dinarde Almeida Bezerra,28.00,28.00,84,82.17,166.17
 Fabricio Lisboa Franco,22.00,34.00,90,76.17,166.17
 Matheus Vilela Diniz Maia,26.00,32.00,90,76.17,166.17
-Dinarde Almeida Bezerra,28.00,28.00,84,82.17,166.17
-Jean Adam Calixto do Valle,38.00,36.00,110,56,166
-Bruna Logatti,34.00,31.00,96,70,166
-Felippe Mangueira da Silva Sposito Schneider,33.00,30.00,93,73,166
-Maxwell Rodrigues Gomes,28.00,29.00,86,80,166
+Daniel Cardoso Coelho Alves de Oliveira,20.00,37.00,94,72.17,166.17
+Vinicius Fonseca de Oliveira,30.00,38.00,106,60.17,166.17
 Livia Barreiros Pinto da Silva,34.00,22.00,78,88,166
+Maxwell Rodrigues Gomes,28.00,29.00,86,80,166
+Felippe Mangueira da Silva Sposito Schneider,33.00,30.00,93,73,166
+Bruna Logatti,34.00,31.00,96,70,166
+Jean Adam Calixto do Valle,38.00,36.00,110,56,166
 Amador Marcelino de Souza Neto,34.00,37.00,108,57.83,165.83
-Caio Henrique Farias de Novaes Cruz,20.00,38.00,96,69.67,165.67
+Maicon Francisco Strey,28.00,29.00,86,79.67,165.67
 Bruno Campera,26.00,31.00,88,77.67,165.67
 Evandro Sousa de Abreu,24.00,32.00,88,77.67,165.67
 Lucas Leal de Goes,30.00,29.00,88,77.67,165.67
-Maicon Francisco Strey,28.00,29.00,86,79.67,165.67
-Diego Cezar Gomes Magalhaes,40.00,44.00,128,37.5,165.5
-Germano Martins de Souza,34.00,44.00,122,43.5,165.5
-Andre Soares das Neves,29.00,33.00,95,70.5,165.5
-Saulo da Silva Velho,24.00,33.00,90,75.5,165.5
+Caio Henrique Farias de Novaes Cruz,20.00,38.00,96,69.67,165.67
+Rodrigo Vieira Gusmao,32.00,25.00,82,83.5,165.5
 Marcelo Clementino dos Santos,30.00,29.00,88,77.5,165.5
 Matheus Ferreira Messias Guedes,24.00,32.00,88,77.5,165.5
-Rodrigo Vieira Gusmao,32.00,25.00,82,83.5,165.5
-Leon Valentim Porto Trindade,32.00,37.00,106,59.33,165.33
+Saulo da Silva Velho,24.00,33.00,90,75.5,165.5
+Andre Soares das Neves,29.00,33.00,95,70.5,165.5
+Germano Martins de Souza,34.00,44.00,122,43.5,165.5
+Diego Cezar Gomes Magalhaes,40.00,44.00,128,37.5,165.5
 Ricardo Stegh Camati,31.00,33.00,97,68.33,165.33
-Luiz Sergio Samico Maciel Filho,32.00,42.00,116,49.17,165.17
-Andrea Mizuno Matsunaga,41.00,37.00,115,50.17,165.17
+Leon Valentim Porto Trindade,32.00,37.00,106,59.33,165.33
 Adriano Rocha Campos,26.00,36.00,98,67.17,165.17
+Andrea Mizuno Matsunaga,41.00,37.00,115,50.17,165.17
+Luiz Sergio Samico Maciel Filho,32.00,42.00,116,49.17,165.17
+Jano Guimaraes Rocha,27.00,32.00,91,73.83,164.83
+Jeferson Verdan Oliveira,22.00,35.00,92,72.83,164.83
+Matheus Neris Romeiro,31.00,31.00,93,71.83,164.83
 Lucas Maciel Lima,31.00,34.00,99,65.83,164.83
 Patrick Waldera da Silva,27.00,36.00,99,65.83,164.83
-Matheus Neris Romeiro,31.00,31.00,93,71.83,164.83
-Jeferson Verdan Oliveira,22.00,35.00,92,72.83,164.83
-Jano Guimaraes Rocha,27.00,32.00,91,73.83,164.83
-Felipe Damiani Goncales Marques,29.00,44.00,117,47.67,164.67
-Felipe Avelino Pantoja Rego,28.00,36.00,100,64.67,164.67
-Thais Gadiole Schontag,36.00,31.00,98,66.67,164.67
-Pedro Lucas Teixeira Dias,27.00,30.00,87,77.67,164.67
 Dario Gean da Silva,32.00,26.00,84,80.67,164.67
-Gustavo Lopes Rodrigues,34.00,36.00,106,58.5,164.5
-Rodrigo Garcia Pontes,26.00,38.00,102,62.5,164.5
+Pedro Lucas Teixeira Dias,27.00,30.00,87,77.67,164.67
+Thais Gadiole Schontag,36.00,31.00,98,66.67,164.67
+Felipe Avelino Pantoja Rego,28.00,36.00,100,64.67,164.67
+Felipe Damiani Goncales Marques,29.00,44.00,117,47.67,164.67
 Alex Coutinho Santos,34.00,24.00,82,82.5,164.5
+Rodrigo Garcia Pontes,26.00,38.00,102,62.5,164.5
+Gustavo Lopes Rodrigues,34.00,36.00,106,58.5,164.5
 Rodrigo Gomes da Rocha,33.00,26.00,85,79.33,164.33
 Thiago da Costa Gadelha,27.00,35.00,97,67.17,164.17
-Luciano Augusto Campagnoli da Silva,31.00,45.00,121,43,164
+Alvaro Souza Oliveira,25.00,33.00,91,73,164
+Samara Fernandes Pimentel,20.00,36.00,92,72,164
 Gabriel de Souza Martins,22.00,36.00,94,70,164
 Hellimateas Barros Chaves,22.00,36.00,94,70,164
 Leno Grazianny Fragoso de Moraes,22.00,36.00,94,70,164
 Victor Carvalho Capanema,26.00,34.00,94,70,164
-Samara Fernandes Pimentel,20.00,36.00,92,72,164
-Alvaro Souza Oliveira,25.00,33.00,91,73,164
-Andre de Souza Ferreira,34.00,37.00,108,55.83,163.83
-Andre Carnevale,37.00,34.00,105,58.83,163.83
-Osmar Felipe Goncalves Costa,27.00,38.00,103,60.83,163.83
+Luciano Augusto Campagnoli da Silva,31.00,45.00,121,43,164
 Gustavo Bender Raffi,30.00,34.00,98,65.83,163.83
-Mateus Silva Vasconcelos,20.00,38.00,96,67.67,163.67
+Osmar Felipe Goncalves Costa,27.00,38.00,103,60.83,163.83
+Andre Carnevale,37.00,34.00,105,58.83,163.83
+Andre de Souza Ferreira,34.00,37.00,108,55.83,163.83
 Andre Ribeiro Vieira,27.00,33.00,93,70.67,163.67
-Fernando Cesar da Costa Junior,30.00,46.00,122,41.5,163.5
-Yuri Christian de Lima Lessa,37.00,37.00,111,52.5,163.5
-Leonardo Medeiros Marques,26.00,42.00,110,53.5,163.5
-Rodrigo Cesar Perissini,30.00,38.00,106,57.5,163.5
+Mateus Silva Vasconcelos,20.00,38.00,96,67.67,163.67
+Susan Kaori Izawa,36.00,22.00,80,83.5,163.5
+Matheus Henrique Moura Bezerra,29.00,27.00,83,80.5,163.5
 Marley Adriano de Souza Silva,34.00,32.00,98,65.5,163.5
 Rogerio Chaves Barreto,22.00,38.00,98,65.5,163.5
-Matheus Henrique Moura Bezerra,29.00,27.00,83,80.5,163.5
-Susan Kaori Izawa,36.00,22.00,80,83.5,163.5
+Rodrigo Cesar Perissini,30.00,38.00,106,57.5,163.5
+Leonardo Medeiros Marques,26.00,42.00,110,53.5,163.5
+Yuri Christian de Lima Lessa,37.00,37.00,111,52.5,163.5
+Fernando Cesar da Costa Junior,30.00,46.00,122,41.5,163.5
 Hiago Natan Fernandes de Sousa,26.00,42.00,110,53.33,163.33
-Paulo Roberto Campos de Vasconcelos,28.00,37.00,102,61.17,163.17
-Davi Moreira de Freitas,35.00,32.00,99,64.17,163.17
-Daniel Amaral de Souza,28.00,34.00,96,67.17,163.17
 Paulo Pessoa de Carvalho Filho,23.00,35.00,93,70.17,163.17
-Willians Yutaka Yokoyama,31.00,40.00,111,52,163
+Daniel Amaral de Souza,28.00,34.00,96,67.17,163.17
+Davi Moreira de Freitas,35.00,32.00,99,64.17,163.17
+Paulo Roberto Campos de Vasconcelos,28.00,37.00,102,61.17,163.17
 Felipe Cardoso Lima Molinari,26.00,39.00,104,59,163
-Enio Fernando Villela,34.00,40.00,114,48.83,162.83
+Willians Yutaka Yokoyama,31.00,40.00,111,52,163
+Ricardo Kohler,23.00,33.00,89,73.83,162.83
 Julio Cesar Goncalves Sales,22.00,36.00,94,68.83,162.83
 Marcus Vinicius Oliveira Fortes,26.00,34.00,94,68.83,162.83
-Ricardo Kohler,23.00,33.00,89,73.83,162.83
-Josafa Santos dos Reis,28.00,39.00,106,56.67,162.67
-Washington Pereira Berbert,24.00,39.00,102,60.67,162.67
-Gisele Nair Conceicao Arcoverde,21.00,39.00,99,63.67,162.67
-Renato Gabriel Ferreira,27.00,35.00,97,65.67,162.67
+Enio Fernando Villela,34.00,40.00,114,48.83,162.83
 Lucas Alves Araujo Mortoni,29.00,30.00,89,73.67,162.67
-Guilherme Rocha Leite,35.00,36.00,107,55.5,162.5
-Andre Luis Hirschmann,16.00,43.00,102,60.5,162.5
-Giovana Vitor Dionisio Santana,31.00,35.00,101,61.5,162.5
-Felipe da Silva Ferreira,18.00,38.00,94,68.5,162.5
-Leonardo Braga Valim,35.00,26.00,87,75.5,162.5
+Renato Gabriel Ferreira,27.00,35.00,97,65.67,162.67
+Gisele Nair Conceicao Arcoverde,21.00,39.00,99,63.67,162.67
+Washington Pereira Berbert,24.00,39.00,102,60.67,162.67
+Josafa Santos dos Reis,28.00,39.00,106,56.67,162.67
 Luis Vinicius Capelletto,31.00,27.00,85,77.5,162.5
-Flavio Leandro Pereira,13.00,49.00,111,51.33,162.33
+Leonardo Braga Valim,35.00,26.00,87,75.5,162.5
+Felipe da Silva Ferreira,18.00,38.00,94,68.5,162.5
+Giovana Vitor Dionisio Santana,31.00,35.00,101,61.5,162.5
+Andre Luis Hirschmann,16.00,43.00,102,60.5,162.5
+Guilherme Rocha Leite,35.00,36.00,107,55.5,162.5
 Ana Bheatriz da Silva Chacon,26.00,34.00,94,68.33,162.33
 Victor Ximenes Carneiro de Oliveira,32.00,31.00,94,68.33,162.33
+Flavio Leandro Pereira,13.00,49.00,111,51.33,162.33
 Levy Marfim Fernandes de Menezes,30.00,30.00,90,72.17,162.17
-Victor Hugo Sena Mota da Silveira,32.00,40.00,112,50,162
-Ali Marques dos Santos,34.00,34.00,102,60,162
-Rafaela de Amorim Barbosa Silva,30.00,36.00,102,60,162
-Taina Amorim Esteves,30.00,35.00,100,62,162
-Jeysonn Isaac Balbinot,22.00,36.00,94,68,162
-Rodrigo Balonecker Arakaki,34.00,30.00,94,68,162
+Juliana Lima Garca,32.00,26.00,84,78,162
+Leonardo Vinicius de Almeida,32.00,29.00,90,72,162
 Jose Roberto Carvalho Lima,20.00,36.00,92,70,162
 Loraine Marques Pivatto,34.00,29.00,92,70,162
 Tomaz Vono Alvarez,20.00,36.00,92,70,162
-Leonardo Vinicius de Almeida,32.00,29.00,90,72,162
-Juliana Lima Garca,32.00,26.00,84,78,162
-Julio Ledo Santos,33.00,39.00,111,50.83,161.83
+Jeysonn Isaac Balbinot,22.00,36.00,94,68,162
+Rodrigo Balonecker Arakaki,34.00,30.00,94,68,162
+Taina Amorim Esteves,30.00,35.00,100,62,162
+Ali Marques dos Santos,34.00,34.00,102,60,162
+Rafaela de Amorim Barbosa Silva,30.00,36.00,102,60,162
+Victor Hugo Sena Mota da Silveira,32.00,40.00,112,50,162
 Bruno Machado Afonso,34.00,32.00,98,63.83,161.83
-Jardel Henrique Sousa Belisario,22.00,40.00,102,59.67,161.67
+Julio Ledo Santos,33.00,39.00,111,50.83,161.83
+Jonatan Andrei Haas,33.00,30.00,93,68.67,161.67
+Raquel Baccarin Ribeiro Cordioli,35.00,31.00,97,64.67,161.67
+Juliano de Souza Novacki,20.00,40.00,100,61.67,161.67
 Bruna da Silva,31.00,35.00,101,60.67,161.67
 Renan Costa Alencar,39.00,31.00,101,60.67,161.67
-Juliano de Souza Novacki,20.00,40.00,100,61.67,161.67
-Raquel Baccarin Ribeiro Cordioli,35.00,31.00,97,64.67,161.67
-Jonatan Andrei Haas,33.00,30.00,93,68.67,161.67
-Lucas Paquiela Gegenheimer,29.00,38.00,105,56.5,161.5
-William Hisao da Silva Doami,24.00,40.00,104,57.5,161.5
-Gustavo de Mello Brandao,32.00,32.00,96,65.5,161.5
-Gabriel Castilho Jorge,22.00,35.00,92,69.5,161.5
-Diego Luiz de Luca,29.00,29.00,87,74.5,161.5
+Jardel Henrique Sousa Belisario,22.00,40.00,102,59.67,161.67
 Gustavo Sasaki Roncaglia,28.00,28.00,84,77.5,161.5
-Iva de Meneses Sousa,26.00,42.00,110,51.33,161.33
+Diego Luiz de Luca,29.00,29.00,87,74.5,161.5
+Gabriel Castilho Jorge,22.00,35.00,92,69.5,161.5
+Gustavo de Mello Brandao,32.00,32.00,96,65.5,161.5
+William Hisao da Silva Doami,24.00,40.00,104,57.5,161.5
+Lucas Paquiela Gegenheimer,29.00,38.00,105,56.5,161.5
 Fabricio Bez da Silva,33.00,33.00,99,62.33,161.33
-Gustavo Lopes Ferraz,26.00,39.00,104,57.17,161.17
-Caio Henrique Pinto,26.00,36.00,98,63.17,161.17
-Felipe Augusto Scuissiatto,33.00,32.00,97,64.17,161.17
-Chrystian Portella da Silva,29.00,29.00,87,74.17,161.17
-Roberto Avelino Alves de Souza,30.00,28.00,86,75.17,161.17
+Iva de Meneses Sousa,26.00,42.00,110,51.33,161.33
 Bruno Longo,32.00,26.00,84,77.17,161.17
 Josue Gusman Alcantara Lobo,28.00,28.00,84,77.17,161.17
-Lucas Esteves de Castro,32.00,32.00,96,65,161
-Luiz Fernando Postingel Quirino,24.00,34.00,92,69,161
-Artur Hugo Cunha Pereira,31.00,30.00,91,70,161
-Tadeu Silva Parreiras,23.00,33.00,89,72,161
-Arcanjo Gabriel Rodrigues Arcanjo,24.00,32.00,88,73,161
+Roberto Avelino Alves de Souza,30.00,28.00,86,75.17,161.17
+Chrystian Portella da Silva,29.00,29.00,87,74.17,161.17
+Felipe Augusto Scuissiatto,33.00,32.00,97,64.17,161.17
+Caio Henrique Pinto,26.00,36.00,98,63.17,161.17
+Gustavo Lopes Ferraz,26.00,39.00,104,57.17,161.17
 Paulo Arthur Varassin Moreira,35.00,25.00,85,76,161
-Eric Ribeiro Augusto,39.00,37.00,113,47.5,160.5
+Arcanjo Gabriel Rodrigues Arcanjo,24.00,32.00,88,73,161
+Tadeu Silva Parreiras,23.00,33.00,89,72,161
+Artur Hugo Cunha Pereira,31.00,30.00,91,70,161
+Luiz Fernando Postingel Quirino,24.00,34.00,92,69,161
+Lucas Esteves de Castro,32.00,32.00,96,65,161
+Mateus Cavalcante da Fonseca,27.00,35.00,97,63.5,160.5
+Ruan Diego Bevilaqua,26.00,36.00,98,62.5,160.5
 Bruno Bento Barros de Araujo,33.00,36.00,105,55.5,160.5
 Danilo Palheta Meireles,37.00,34.00,105,55.5,160.5
-Ruan Diego Bevilaqua,26.00,36.00,98,62.5,160.5
-Mateus Cavalcante da Fonseca,27.00,35.00,97,63.5,160.5
+Eric Ribeiro Augusto,39.00,37.00,113,47.5,160.5
 Allysson Mastrangelo Teixeira Araujo de Fritas,25.00,38.00,101,59.33,160.33
 Deborah Medeiros do Nascimento,23.00,39.00,101,59.33,160.33
-Diogo Oliveira dos Santos,23.00,34.00,91,69.17,160.17
 Arthur Rogado Reis,30.00,28.00,86,74.17,160.17
 Jackson Pertusatti,26.00,30.00,86,74.17,160.17
 Pedro Aurelio Coelho de Almeida,26.00,30.00,86,74.17,160.17
-Leonardo Evangelista de Araujo,28.00,36.00,100,60,160
-Leonardo Augusto Melo Barbosa,22.00,34.00,90,70,160
-Marlon de Lima Castro,24.00,32.00,88,72,160
+Diogo Oliveira dos Santos,23.00,34.00,91,69.17,160.17
 Dalton Pessoa de Santana,35.00,23.00,81,79,160
+Marlon de Lima Castro,24.00,32.00,88,72,160
+Leonardo Augusto Melo Barbosa,22.00,34.00,90,70,160
+Leonardo Evangelista de Araujo,28.00,36.00,100,60,160
 Andrey Luis Tietbohl Palma,32.00,30.00,92,67.67,159.67
-Ailton Antonio de Araujo,24.00,45.00,114,45.5,159.5
+Augusto Souza Cavalcante,32.00,36.00,104,55.5,159.5
 Gustavo Delbon Soza,36.00,38.00,112,47.5,159.5
 Lucas Scarelli,24.00,44.00,112,47.5,159.5
-Augusto Souza Cavalcante,32.00,36.00,104,55.5,159.5
+Ailton Antonio de Araujo,24.00,45.00,114,45.5,159.5
 Miguel Augusto Martins Pedro,36.00,36.00,108,51.33,159.33
-Rafael Kovalenkovas Hartel,32.00,30.00,92,67.17,159.17
-Nicolas Josino Lima,30.00,29.00,88,71.17,159.17
-Guilherme Coelho Minervino,25.00,31.00,87,72.17,159.17
 Carlos Andre Soares Correia,32.00,25.00,82,77.17,159.17
-Marcus Eduardo Cabral Seabra,25.00,43.00,111,48,159
-Jair Guedes Ferreira Neto,31.00,34.00,99,60,159
-Daniel Davoli,29.00,34.00,97,62,159
-Rodrigo Oliveira de Miranda,31.00,29.00,89,70,159
+Guilherme Coelho Minervino,25.00,31.00,87,72.17,159.17
+Nicolas Josino Lima,30.00,29.00,88,71.17,159.17
+Rafael Kovalenkovas Hartel,32.00,30.00,92,67.17,159.17
 Tiago Ferreira Candido,26.00,30.00,86,73,159
-Anderson da Silva Theobaldo,26.00,45.00,116,42.83,158.83
+Rodrigo Oliveira de Miranda,31.00,29.00,89,70,159
+Daniel Davoli,29.00,34.00,97,62,159
+Jair Guedes Ferreira Neto,31.00,34.00,99,60,159
+Marcus Eduardo Cabral Seabra,25.00,43.00,111,48,159
 Vinicius Ferreira Bandeira Serra,40.00,30.00,100,58.83,158.83
-Luis Fernando Heckler,26.00,38.00,102,56.67,158.67
-Eduardo Righi Capanema de Almeida Xavier,31.00,35.00,101,57.67,158.67
-Tiago Baciotti Moreira,23.00,36.00,95,63.67,158.67
-Eduardo Garbin,24.00,35.00,94,64.67,158.67
-Breno Francisco dos Santos Moraes,33.00,29.00,91,67.67,158.67
+Anderson da Silva Theobaldo,26.00,45.00,116,42.83,158.83
 Matheus Stauffer Viana de Oliveira,32.00,25.00,82,76.67,158.67
-Edmilson Veloso Borges,31.00,36.00,103,55.5,158.5
-Antonio Soberano Junior,23.00,37.00,97,61.5,158.5
+Breno Francisco dos Santos Moraes,33.00,29.00,91,67.67,158.67
+Eduardo Garbin,24.00,35.00,94,64.67,158.67
+Tiago Baciotti Moreira,23.00,36.00,95,63.67,158.67
+Eduardo Righi Capanema de Almeida Xavier,31.00,35.00,101,57.67,158.67
+Luis Fernando Heckler,26.00,38.00,102,56.67,158.67
 Jonas Prado Soares,30.00,29.00,88,70.5,158.5
-Alan Kardec Lobato Sardinha de Melo,23.00,37.00,97,61.17,158.17
+Antonio Soberano Junior,23.00,37.00,97,61.5,158.5
+Edmilson Veloso Borges,31.00,36.00,103,55.5,158.5
 Patric de Oliveira Freitas,26.00,34.00,94,64.17,158.17
-Joao Victor Mendonca Diamantino,40.00,40.00,120,38,158
-Faahd Hassif Guerreiro Solano,36.00,30.00,96,62,158
-Layanne Sharon de Castro Oliveira,24.00,33.00,90,68,158
-Amanda Carrijo Viana Figur,25.00,31.00,87,71,158
+Alan Kardec Lobato Sardinha de Melo,23.00,37.00,97,61.17,158.17
 Duilio Rodrigo Torres Filho,30.00,28.00,86,72,158
+Amanda Carrijo Viana Figur,25.00,31.00,87,71,158
+Layanne Sharon de Castro Oliveira,24.00,33.00,90,68,158
+Faahd Hassif Guerreiro Solano,36.00,30.00,96,62,158
+Joao Victor Mendonca Diamantino,40.00,40.00,120,38,158
 Alysson Danyel Terto de Araujo,30.00,40.00,110,47.83,157.83
 Paulo Arakaki Junior,40.00,35.00,110,47.83,157.83
-Adalberto Bengaly Midon,27.00,37.00,101,56.67,157.67
-Claudionior de Avila Vasconcelos Junior,25.00,36.00,97,60.67,157.67
 Vito Odone Breda Neto,24.00,32.00,88,69.67,157.67
+Claudionior de Avila Vasconcelos Junior,25.00,36.00,97,60.67,157.67
+Adalberto Bengaly Midon,27.00,37.00,101,56.67,157.67
 Andreza Bona de Oliveira,26.00,31.00,88,69.5,157.5
-Matheus Fermino Duarte dos Santos,40.00,46.00,132,25.33,157.33
 Fernando Massaki Hagihara,22.00,40.00,102,55.33,157.33
-Eduardo Bruno de Freitas Uchoa,20.00,43.00,106,51.17,157.17
-Felipe Jose da Silva,28.00,34.00,96,61.17,157.17
+Matheus Fermino Duarte dos Santos,40.00,46.00,132,25.33,157.33
 Marcus Vinicius do Carmo Bastos,34.00,22.00,78,79.17,157.17
-Gleydson Alves de Brito,30.00,42.00,114,43,157
-Daniela de Castro Soares,28.00,34.00,96,61,157
-Leonardo Spuldar Braga,21.00,37.00,95,62,157
-Jonathan Trancozo da Silva,28.00,30.00,88,69,157
+Felipe Jose da Silva,28.00,34.00,96,61.17,157.17
+Eduardo Bruno de Freitas Uchoa,20.00,43.00,106,51.17,157.17
 Ivan Alisson Cavalcante Nunes de Lima,31.00,28.00,87,70,157
+Jonathan Trancozo da Silva,28.00,30.00,88,69,157
+Leonardo Spuldar Braga,21.00,37.00,95,62,157
+Daniela de Castro Soares,28.00,34.00,96,61,157
+Gleydson Alves de Brito,30.00,42.00,114,43,157
 Gabriel da Silva Alves,34.00,28.00,90,66.83,156.83
 Thales Araujo Cronemberger,36.00,27.00,90,66.83,156.83
 Diogo Telheiro do Nascimento,34.00,35.00,104,52.67,156.67
-Matheus Albuquerque Montenegro,35.00,39.00,113,43.5,156.5
-Juliana Ferreira dos Santos,20.00,42.00,104,52.5,156.5
-Marco Emilio Rodrigues Miranda,27.00,37.00,101,55.5,156.5
-Mauricio de Souza Fernandes,18.00,40.00,98,58.5,156.5
-Gabriel Baliza Rocha,30.00,32.00,94,62.5,156.5
-Luan Santos de Souza,25.00,33.00,91,65.5,156.5
 Steve Balbino Diniz,36.00,26.00,88,68.5,156.5
+Luan Santos de Souza,25.00,33.00,91,65.5,156.5
+Gabriel Baliza Rocha,30.00,32.00,94,62.5,156.5
+Mauricio de Souza Fernandes,18.00,40.00,98,58.5,156.5
+Marco Emilio Rodrigues Miranda,27.00,37.00,101,55.5,156.5
+Juliana Ferreira dos Santos,20.00,42.00,104,52.5,156.5
+Matheus Albuquerque Montenegro,35.00,39.00,113,43.5,156.5
 Eriberto Oliveira do Nascimento,28.00,34.00,96,60.33,156.33
 Luiza Reis Rodrigues de Abreu,16.00,40.00,96,60.33,156.33
-Renan Mercer Coblinski,32.00,30.00,92,64.17,156.17
 Higor Castilho Fidelis,29.00,30.00,89,67.17,156.17
-Vitor Mazal Krauss,28.00,39.00,106,50,156
-Lucas Felipe Ferraro Cardoso,32.00,32.00,96,60,156
+Renan Mercer Coblinski,32.00,30.00,92,64.17,156.17
 Elizeu Grosskopf Schlottfeldt Neto,30.00,28.00,86,70,156
 Leonardo da Silva Barbosa,34.00,26.00,86,70,156
-Luiz Felipe Folha Tavares,29.00,40.00,109,46.83,155.83
+Lucas Felipe Ferraro Cardoso,32.00,32.00,96,60,156
+Vitor Mazal Krauss,28.00,39.00,106,50,156
 Ygor Trocoli de Araujo,36.00,36.00,108,47.83,155.83
+Luiz Felipe Folha Tavares,29.00,40.00,109,46.83,155.83
+Rennan de Freitas Bezerra Marujo,28.00,28.00,84,71.67,155.67
 Luis Bernardo Souza Braga,27.00,32.00,91,64.67,155.67
 Patrick Eduardo Marchor Karvat,27.00,32.00,91,64.67,155.67
 Rafael Calassara Thiengo,33.00,29.00,91,64.67,155.67
-Rennan de Freitas Bezerra Marujo,28.00,28.00,84,71.67,155.67
-Gabriel Sanches de Almeida,36.00,41.00,118,37.5,155.5
-Nathan Benatti Silva,27.00,38.00,103,52.5,155.5
 Thiago Braga Nobre,18.00,38.00,94,61.5,155.5
+Nathan Benatti Silva,27.00,38.00,103,52.5,155.5
+Gabriel Sanches de Almeida,36.00,41.00,118,37.5,155.5
 Fernando Antonio de Oliveira,29.00,41.00,111,44.33,155.33
-Marcelo Nascimento Moutinho,35.00,34.00,103,52.17,155.17
-Gilberto Teixeira da Cunha Junior,31.00,32.00,95,60.17,155.17
 Paulo Henrique Gomes da Silva,30.00,26.00,82,73.17,155.17
-Rafael Cavallin Oliveira,18.00,40.00,98,57,155
-Daniel Henrique Rodrigues Costa,27.00,35.00,97,58,155
-Eduardo Vitor Vieira Torres,25.00,35.00,95,60,155
+Gilberto Teixeira da Cunha Junior,31.00,32.00,95,60.17,155.17
+Marcelo Nascimento Moutinho,35.00,34.00,103,52.17,155.17
 Rodrigo de Araujo,29.00,28.00,85,70,155
-Diemano Bruno Lima Nobrega,32.00,32.00,96,58.67,154.67
-Ivo Rafael Custodio,27.00,34.00,95,59.67,154.67
+Eduardo Vitor Vieira Torres,25.00,35.00,95,60,155
+Daniel Henrique Rodrigues Costa,27.00,35.00,97,58,155
+Rafael Cavallin Oliveira,18.00,40.00,98,57,155
 Natalia Cristina Martins Marcondes,26.00,32.00,90,64.67,154.67
 Thiago Lemos Pagliuca,38.00,26.00,90,64.67,154.67
-Fabiana Souza da Fonte,27.00,40.00,107,47.5,154.5
-Erick Vilaca de Miranda,34.00,26.00,86,68.5,154.5
+Ivo Rafael Custodio,27.00,34.00,95,59.67,154.67
+Diemano Bruno Lima Nobrega,32.00,32.00,96,58.67,154.67
 Vinicius Carvalho Gomes,34.00,23.00,80,74.5,154.5
+Erick Vilaca de Miranda,34.00,26.00,86,68.5,154.5
+Fabiana Souza da Fonte,27.00,40.00,107,47.5,154.5
 Luiz Henrique Rodrigues Pereira,28.00,40.00,108,46.33,154.33
-Marcele Montalvao Matos,34.00,34.00,102,52.17,154.17
-Allan Diego dos Santos Ribeiro,26.00,36.00,98,56.17,154.17
 Kevin Andrews Marques Silva,34.00,28.00,90,64.17,154.17
-Hermann Moraes Mirindiba,38.00,46.00,130,24,154
-Karina Pereira Passos,42.00,44.00,130,24,154
-Evanio Rodrigues Silva,24.00,42.00,108,46,154
-Klaus Dieter Kupper,32.00,34.00,100,54,154
-Igor Pino de Souza,28.00,33.00,94,60,154
-Ubiracy dos Santos Rego Junior,18.00,38.00,94,60,154
-Eduardo Figueiredo Goncalves,30.00,28.00,86,68,154
+Allan Diego dos Santos Ribeiro,26.00,36.00,98,56.17,154.17
+Marcele Montalvao Matos,34.00,34.00,102,52.17,154.17
 Bernardo Veloso de Resende,28.00,28.00,84,70,154
 Luis Fernando Sandes de Oliveira,28.00,28.00,84,70,154
-Axel Crispim e Medeiros,24.00,42.00,108,45.83,153.83
+Eduardo Figueiredo Goncalves,30.00,28.00,86,68,154
+Igor Pino de Souza,28.00,33.00,94,60,154
+Ubiracy dos Santos Rego Junior,18.00,38.00,94,60,154
+Klaus Dieter Kupper,32.00,34.00,100,54,154
+Evanio Rodrigues Silva,24.00,42.00,108,46,154
+Hermann Moraes Mirindiba,38.00,46.00,130,24,154
+Karina Pereira Passos,42.00,44.00,130,24,154
 Leonardo Davince Reis Porto,22.00,36.00,94,59.83,153.83
-Leonardo Araujo Calado da Costa,38.00,34.00,106,47.67,153.67
-Guilherme de Oliveira Amorim,32.00,36.00,104,49.67,153.67
-Rafael Fernandes Barbosa,31.00,34.00,99,54.67,153.67
-Kamila Rodrigues Serpa,31.00,28.00,87,66.67,153.67
+Axel Crispim e Medeiros,24.00,42.00,108,45.83,153.83
 Valquiria Pianheri Souza dos Santos,34.00,25.00,84,69.67,153.67
-Enise Cunha Resende,29.00,41.00,111,42.5,153.5
-Marcelo Reinke,22.00,42.00,106,47.5,153.5
-Alex Ferreira dos Santos,21.00,40.00,101,52.5,153.5
-Joao Vitor Maues Dias Carneiro,20.00,40.00,100,53.5,153.5
-Ramon Sales Cupertino,30.00,34.00,98,55.5,153.5
+Kamila Rodrigues Serpa,31.00,28.00,87,66.67,153.67
+Rafael Fernandes Barbosa,31.00,34.00,99,54.67,153.67
+Guilherme de Oliveira Amorim,32.00,36.00,104,49.67,153.67
+Leonardo Araujo Calado da Costa,38.00,34.00,106,47.67,153.67
 Hianka Rodrigues Souza,34.00,30.00,94,59.5,153.5
+Ramon Sales Cupertino,30.00,34.00,98,55.5,153.5
+Joao Vitor Maues Dias Carneiro,20.00,40.00,100,53.5,153.5
+Alex Ferreira dos Santos,21.00,40.00,101,52.5,153.5
+Marcelo Reinke,22.00,42.00,106,47.5,153.5
+Enise Cunha Resende,29.00,41.00,111,42.5,153.5
 Joao Paulo de Oliveira Costa,26.00,38.00,102,51.33,153.33
-Alexandre Faria de Oliveira Junior,26.00,37.00,100,53.17,153.17
-Marcus Davi Argolo Ribeiro,24.00,34.00,92,61.17,153.17
 Joao Paulo Ribeiro,33.00,28.00,89,64.17,153.17
-Rheidner Achiles Couto Silva,33.00,33.00,99,54,153
+Marcus Davi Argolo Ribeiro,24.00,34.00,92,61.17,153.17
+Alexandre Faria de Oliveira Junior,26.00,37.00,100,53.17,153.17
+Hygor Leal,31.00,31.00,93,60,153
 Guilherme Assencio,38.00,30.00,98,55,153
 Luis Gustavo Fernandes Costa,34.00,32.00,98,55,153
-Hygor Leal,31.00,31.00,93,60,153
-Evandro Cassio Cortiano,10.00,48.00,106,46.83,152.83
+Rheidner Achiles Couto Silva,33.00,33.00,99,54,153
 Caio Silveira de Santana,29.00,27.00,83,69.83,152.83
+Evandro Cassio Cortiano,10.00,48.00,106,46.83,152.83
 Rodrigo Oliveira Braga,38.00,40.00,118,34.67,152.67
-Bruno Caldas dos Santos Teodoro,23.00,41.00,105,47.5,152.5
 Ramiro Tavora Viana Filho,27.00,31.00,89,63.5,152.5
-Thiago de Freitas Bartels,26.00,31.00,88,64.17,152.17
+Bruno Caldas dos Santos Teodoro,23.00,41.00,105,47.5,152.5
 Diego Mattos Marinho Malta,35.00,24.00,83,69.17,152.17
-Jose Ivan Silva da Cruz Junior,21.00,45.00,111,41,152
-Rodrigo Moreira Cardoso,32.00,30.00,92,60,152
+Thiago de Freitas Bartels,26.00,31.00,88,64.17,152.17
 Thiago Rasseli Meirelles,32.00,26.00,84,68,152
+Rodrigo Moreira Cardoso,32.00,30.00,92,60,152
+Jose Ivan Silva da Cruz Junior,21.00,45.00,111,41,152
 Rafael Ribeiro Bento e Silva,32.00,34.00,100,51.67,151.67
-Rodrigo Stachlewski Palma,34.00,36.00,106,45.5,151.5
-Robinson Donizete da Silveira Santos,24.00,40.00,104,47.5,151.5
+Francis Henrique Fussiger,34.00,24.00,82,69.5,151.5
 Higor Carneiro Passos,26.00,35.00,96,55.5,151.5
 Romario Teles Pires,20.00,38.00,96,55.5,151.5
-Francis Henrique Fussiger,34.00,24.00,82,69.5,151.5
-Edson Heneman,32.00,43.00,118,33.33,151.33
-Victoria Granja Amorim dos Santos,33.00,30.00,93,58.33,151.33
+Robinson Donizete da Silveira Santos,24.00,40.00,104,47.5,151.5
+Rodrigo Stachlewski Palma,34.00,36.00,106,45.5,151.5
 Julio Cesar Lima da Silva,24.00,33.00,90,61.33,151.33
 Rafael Masashi Fukuda,30.00,30.00,90,61.33,151.33
-Marcus Vinicius Duarte Nunes,32.00,30.00,92,59.17,151.17
+Victoria Granja Amorim dos Santos,33.00,30.00,93,58.33,151.33
+Edson Heneman,32.00,43.00,118,33.33,151.33
 Rodrigo Maranhao Monteiro,30.00,29.00,88,63.17,151.17
-David Chalegre Soares,18.00,44.00,106,45,151
-William Bragagnollo Montini,30.00,37.00,104,47,151
-Arthur Nogueira Goncalves,28.00,34.00,96,55,151
-Gustavo Costa de Souza,38.00,29.00,96,55,151
-Thiago Kalleb Portela Barroso,31.00,32.00,95,56,151
+Marcus Vinicius Duarte Nunes,32.00,30.00,92,59.17,151.17
 Lucas Moreira Pires,25.00,33.00,91,60,151
 Mariane Regina Sponchiado Cassenote,25.00,33.00,91,60,151
-Wendel David Lobato Bueres,24.00,42.00,108,42.83,150.83
-Gabriel de Sena Guerra,35.00,34.00,103,47.83,150.83
-Felipe Goncalves Gutierrez,18.00,42.00,102,48.83,150.83
-Kaio Marx Alves Pereira,19.00,39.00,97,53.83,150.83
-Gabriel Mello Gomes,28.00,28.00,84,66.83,150.83
+Thiago Kalleb Portela Barroso,31.00,32.00,95,56,151
+Arthur Nogueira Goncalves,28.00,34.00,96,55,151
+Gustavo Costa de Souza,38.00,29.00,96,55,151
+William Bragagnollo Montini,30.00,37.00,104,47,151
+David Chalegre Soares,18.00,44.00,106,45,151
 Joao Vitor Fonseca de Mendonca,33.00,23.00,79,71.83,150.83
-Edson Luiz Parisotto,24.00,40.00,104,46.67,150.67
-Danilo Jose Bispo Galvao,32.00,35.00,102,48.67,150.67
-Abel Pinheiro de Figueiredo,34.00,26.00,86,64.67,150.67
-Iago Tito Oliveira,35.00,25.00,85,65.67,150.67
+Gabriel Mello Gomes,28.00,28.00,84,66.83,150.83
+Kaio Marx Alves Pereira,19.00,39.00,97,53.83,150.83
+Felipe Goncalves Gutierrez,18.00,42.00,102,48.83,150.83
+Gabriel de Sena Guerra,35.00,34.00,103,47.83,150.83
+Wendel David Lobato Bueres,24.00,42.00,108,42.83,150.83
 Fernando Goncalves Augusto,30.00,26.00,82,68.67,150.67
-Frederico Ferreira Alves Pinto,36.00,38.00,112,38.5,150.5
+Iago Tito Oliveira,35.00,25.00,85,65.67,150.67
+Abel Pinheiro de Figueiredo,34.00,26.00,86,64.67,150.67
+Danilo Jose Bispo Galvao,32.00,35.00,102,48.67,150.67
+Edson Luiz Parisotto,24.00,40.00,104,46.67,150.67
+Yara de Lima Araujo,25.00,35.00,95,55.5,150.5
 Jardel Alves Barbosa Filho,30.00,34.00,98,52.5,150.5
 Kleison de Souza Dantas,30.00,34.00,98,52.5,150.5
-Yara de Lima Araujo,25.00,35.00,95,55.5,150.5
-Dailson Vago Lima,30.00,30.00,90,60.17,150.17
-Bruno Rafael de Oliveira Rodrigues,23.00,33.00,89,61.17,150.17
+Frederico Ferreira Alves Pinto,36.00,38.00,112,38.5,150.5
 Joao Antonio Freitas Furquim,26.00,30.00,86,64.17,150.17
+Bruno Rafael de Oliveira Rodrigues,23.00,33.00,89,61.17,150.17
+Dailson Vago Lima,30.00,30.00,90,60.17,150.17
+Caio Xavier Cabral,34.00,23.00,80,70,150
+Oliverio Costa Fernandes,26.00,32.00,90,60,150
 Barbara dos Santos Ferreira,26.00,38.00,102,48,150
 Bruno Bacelar de Souza,28.00,37.00,102,48,150
-Oliverio Costa Fernandes,26.00,32.00,90,60,150
-Caio Xavier Cabral,34.00,23.00,80,70,150
-Edino de Moura Rocha,34.00,35.00,104,45.83,149.83
-Jorge Luis de Holanda Santana,30.00,32.00,94,55.83,149.83
-Kelves Lopes de Bulhoes,27.00,33.00,93,56.83,149.83
 Alexandre Suehiro de Paula e Silva,32.00,28.00,88,61.83,149.83
+Kelves Lopes de Bulhoes,27.00,33.00,93,56.83,149.83
+Jorge Luis de Holanda Santana,30.00,32.00,94,55.83,149.83
+Edino de Moura Rocha,34.00,35.00,104,45.83,149.83
 Lincoln Silveira dos Santos,29.00,29.00,87,62.67,149.67
-Matheus Luis Teixeira Rosa,28.00,42.00,112,37.5,149.5
-Fernando Morais Peixoto,22.00,41.00,104,45.5,149.5
-Germano Fernandes Leite,26.00,38.00,102,47.5,149.5
+Luan Silveira Franco,32.00,24.00,80,69.5,149.5
+Lucas de Oliveira Carvalho,30.00,27.00,84,65.5,149.5
+Luciano Mariano Pinto,26.00,35.00,96,53.5,149.5
+Felipe Edson Pereira Tamanqueira,29.00,34.00,97,52.5,149.5
 Matheus Balduino Goncalves dos Reis,27.00,36.00,99,50.5,149.5
 Roberto de Urzeda Paiva,29.00,35.00,99,50.5,149.5
-Felipe Edson Pereira Tamanqueira,29.00,34.00,97,52.5,149.5
-Luciano Mariano Pinto,26.00,35.00,96,53.5,149.5
-Lucas de Oliveira Carvalho,30.00,27.00,84,65.5,149.5
-Luan Silveira Franco,32.00,24.00,80,69.5,149.5
-Eusebio Pizutti,18.00,44.00,106,43.33,149.33
+Germano Fernandes Leite,26.00,38.00,102,47.5,149.5
+Fernando Morais Peixoto,22.00,41.00,104,45.5,149.5
+Matheus Luis Teixeira Rosa,28.00,42.00,112,37.5,149.5
 Patrick Cristofferson de Moura Souza Coe,30.00,34.00,98,51.33,149.33
 Rafael Marcus Silva Marques,26.00,36.00,98,51.33,149.33
-Rodrigo Barreiros Muniz,16.00,42.00,100,49.17,149.17
-Rodrigo Fernando Queiroz de Oliveira,27.00,36.00,99,50.17,149.17
-Tadeu Martines,24.00,34.00,92,57.17,149.17
-Felipe Ismael Barth,27.00,31.00,89,60.17,149.17
+Eusebio Pizutti,18.00,44.00,106,43.33,149.33
 Felipe Louzada Mingote,28.00,30.00,88,61.17,149.17
-Anderson Mariano Pereira Estumano,32.00,42.00,116,33,149
-Peterson Vasconcelos Teixeira de Freitas,32.00,37.00,106,43,149
-Diogo de Souza Farias Pinto,29.00,37.00,103,46,149
+Felipe Ismael Barth,27.00,31.00,89,60.17,149.17
+Tadeu Martines,24.00,34.00,92,57.17,149.17
+Rodrigo Fernando Queiroz de Oliveira,27.00,36.00,99,50.17,149.17
+Rodrigo Barreiros Muniz,16.00,42.00,100,49.17,149.17
 Leonardo Dalvi Alvarenga,33.00,33.00,99,50,149
+Diogo de Souza Farias Pinto,29.00,37.00,103,46,149
+Peterson Vasconcelos Teixeira de Freitas,32.00,37.00,106,43,149
+Anderson Mariano Pereira Estumano,32.00,42.00,116,33,149
+Vinicius Cesar Vianna,23.00,34.00,91,57.83,148.83
 Fernando Petry Saraiva,29.00,32.00,93,55.83,148.83
 Isabel Valderrama Atta,23.00,35.00,93,55.83,148.83
 Rodrigo Parzianello Portelinha,35.00,29.00,93,55.83,148.83
-Vinicius Cesar Vianna,23.00,34.00,91,57.83,148.83
-Mateus Noronha Lapadula,33.00,32.00,97,51.67,148.67
-Lucas Augusto Rocini,36.00,30.00,96,52.67,148.67
+Alvaro Henrique Figueiredo Nunes,33.00,25.00,83,65.67,148.67
+Rafael Meliani Velloso,40.00,22.00,84,64.67,148.67
 Marcos Antenor de Souza Morais,32.00,31.00,94,54.67,148.67
 Moacyr da Silva Pinheiro,26.00,34.00,94,54.67,148.67
 Sadraque Rodrigues da Silva,18.00,38.00,94,54.67,148.67
-Rafael Meliani Velloso,40.00,22.00,84,64.67,148.67
-Alvaro Henrique Figueiredo Nunes,33.00,25.00,83,65.67,148.67
-Cristiano Antonio de Souza,26.00,41.00,108,40.5,148.5
-Carlos Henrique Peixoto Correia,32.00,33.00,98,50.5,148.5
-Fausto Bernard Melo Soares,20.00,38.00,96,52.5,148.5
+Lucas Augusto Rocini,36.00,30.00,96,52.67,148.67
+Mateus Noronha Lapadula,33.00,32.00,97,51.67,148.67
 Diego Simoes Vieira Laurentino,33.00,26.00,85,63.5,148.5
+Fausto Bernard Melo Soares,20.00,38.00,96,52.5,148.5
+Carlos Henrique Peixoto Correia,32.00,33.00,98,50.5,148.5
+Cristiano Antonio de Souza,26.00,41.00,108,40.5,148.5
 Willian Baunier de Melo,33.00,36.00,105,43.33,148.33
-Sidnei Souza Silva,34.00,29.00,92,56.17,148.17
-Cleiton Almeida dos Santos,27.00,32.00,91,57.17,148.17
 Thiago dos Santos Costa,32.00,26.00,84,64.17,148.17
-Luiz Eduardo Langkammer Murta,30.00,34.00,98,50,148
-Abilio Nehme,24.00,35.00,94,54,148
-Daniel Junio Lemos Ferreira,19.00,37.00,93,55,148
-Douglas Braatz de Souza,29.00,32.00,93,55,148
+Cleiton Almeida dos Santos,27.00,32.00,91,57.17,148.17
+Sidnei Souza Silva,34.00,29.00,92,56.17,148.17
 Tadeu Augusto Dutra Pinto,26.00,31.00,88,60,148
 Thiago Nascimento de Lima,28.00,30.00,88,60,148
-Felipe Barreto da Silva,26.00,35.00,96,51.67,147.67
-Kleber Rodrigues de Arruda,28.00,34.00,96,51.67,147.67
+Daniel Junio Lemos Ferreira,19.00,37.00,93,55,148
+Douglas Braatz de Souza,29.00,32.00,93,55,148
+Abilio Nehme,24.00,35.00,94,54,148
+Luiz Eduardo Langkammer Murta,30.00,34.00,98,50,148
+Joao Philipe Cardoso das Neves Silva,28.00,30.00,88,59.67,147.67
 Aecio Mendes Brito,21.00,35.00,91,56.67,147.67
 Nathan Montel Stabille,25.00,33.00,91,56.67,147.67
-Joao Philipe Cardoso das Neves Silva,28.00,30.00,88,59.67,147.67
-Andre Vinicius Nascimento da Costa,27.00,39.00,105,42.5,147.5
-Marcos Vinicius Rissatto Ramos,28.00,36.00,100,47.5,147.5
-Pedro Ricardo Vasques Pereira,21.00,38.00,97,50.5,147.5
-Danilo Candido dos Santos,36.00,24.00,84,63.5,147.5
+Felipe Barreto da Silva,26.00,35.00,96,51.67,147.67
+Kleber Rodrigues de Arruda,28.00,34.00,96,51.67,147.67
 Carlos Daniel Barros Pereira,30.00,26.00,82,65.5,147.5
 Filipe Silva dos Santos,30.00,26.00,82,65.5,147.5
-Jefferson Cesario Tenorio Gomes,29.00,40.00,109,38.33,147.33
+Danilo Candido dos Santos,36.00,24.00,84,63.5,147.5
+Pedro Ricardo Vasques Pereira,21.00,38.00,97,50.5,147.5
+Marcos Vinicius Rissatto Ramos,28.00,36.00,100,47.5,147.5
+Andre Vinicius Nascimento da Costa,27.00,39.00,105,42.5,147.5
 Leo Akira Abe Barros,36.00,30.00,96,51.33,147.33
-Vitor Garcez Morigi,21.00,39.00,99,48.17,147.17
+Jefferson Cesario Tenorio Gomes,29.00,40.00,109,38.33,147.33
 Paulo Roberto Menezes Junior,22.00,38.00,98,49.17,147.17
-Eduardo Martins Paulico,32.00,40.00,112,35,147
-Jose Nilton dos Santos Oliveira,29.00,39.00,107,40,147
+Vitor Garcez Morigi,21.00,39.00,99,48.17,147.17
 Johannes Lima Pordeus Cavalcante,31.00,28.00,87,60,147
 Rafael Dantas Araujo,27.00,30.00,87,60,147
 Renato Prado da Silva,25.00,31.00,87,60,147
+Jose Nilton dos Santos Oliveira,29.00,39.00,107,40,147
+Eduardo Martins Paulico,32.00,40.00,112,35,147
 Gustavo Coelho Finger,27.00,33.00,93,53.83,146.83
-Paulo Henrique de Oliveira Silva,26.00,32.00,90,56.67,146.67
 Jose Maria da Silva Junior,34.00,24.00,82,64.67,146.67
-Allan Rodrigo dos Santos Araujo,40.00,42.00,124,22.5,146.5
-Alex Franco Oliveira,21.00,44.00,109,37.5,146.5
-Marisa Sel Franco,44.00,32.00,108,38.5,146.5
-Lucas Malacarne Astore,32.00,36.00,104,42.5,146.5
+Paulo Henrique de Oliveira Silva,26.00,32.00,90,56.67,146.67
+Guilherme Alves Puiatti,39.00,22.00,83,63.5,146.5
 Antonio Diermison Rosa da Silva,26.00,34.00,94,52.5,146.5
 Vinicius Gondo Pastrelo,28.00,33.00,94,52.5,146.5
-Guilherme Alves Puiatti,39.00,22.00,83,63.5,146.5
-Ido Ferreira Melo,35.00,37.00,109,37.33,146.33
-Sanzio Marcos de Oliveira Barros,22.00,42.00,106,40.33,146.33
-John William de Araujo Mesquita,28.00,38.00,104,42.33,146.33
+Lucas Malacarne Astore,32.00,36.00,104,42.5,146.5
+Marisa Sel Franco,44.00,32.00,108,38.5,146.5
+Alex Franco Oliveira,21.00,44.00,109,37.5,146.5
+Allan Rodrigo dos Santos Araujo,40.00,42.00,124,22.5,146.5
 Felipe Cavalcante Mattos Carvalho,23.00,36.00,95,51.33,146.33
-Jonathan Castro Alves Martins,21.00,37.00,95,51.17,146.17
+John William de Araujo Mesquita,28.00,38.00,104,42.33,146.33
+Sanzio Marcos de Oliveira Barros,22.00,42.00,106,40.33,146.33
+Ido Ferreira Melo,35.00,37.00,109,37.33,146.33
 Gabriel Figueiredo dos Santos,23.00,34.00,91,55.17,146.17
-Matheus Meneses Mendonca,34.00,41.00,116,30,146
-Thomaz Carrico dos Santos Lopes,36.00,40.00,116,30,146
-Augusto Cesar Freitas da Silva,31.00,41.00,113,33,146
-Elves Lucio Romao,26.00,36.00,98,48,146
-Gilson Dutra Borges,32.00,30.00,92,54,146
-Eduardo Arthur Gomes Lima,30.00,28.00,86,60,146
+Jonathan Castro Alves Martins,21.00,37.00,95,51.17,146.17
 Marcos Sacco Diniz Teixeira,32.00,26.00,84,62,146
 Tiago Pires Nepomuceno,36.00,24.00,84,62,146
+Eduardo Arthur Gomes Lima,30.00,28.00,86,60,146
+Gilson Dutra Borges,32.00,30.00,92,54,146
+Elves Lucio Romao,26.00,36.00,98,48,146
+Augusto Cesar Freitas da Silva,31.00,41.00,113,33,146
+Matheus Meneses Mendonca,34.00,41.00,116,30,146
+Thomaz Carrico dos Santos Lopes,36.00,40.00,116,30,146
 Pedro de Souza Rajao Marques,24.00,32.00,88,57.83,145.83
-Jose Antonio Fernandes Correia,33.00,32.00,97,48.67,145.67
 Carlos Marx Novais Assuncao,32.00,27.00,86,59.67,145.67
-Saul dos Anjos Oliveira,32.00,38.00,108,37.5,145.5
-Allan Rodrigo Santana,29.00,37.00,103,42.5,145.5
-Danielle Mendonca Gonzalez Alves,32.00,34.00,100,45.5,145.5
-Luana Pereira de Oliveira,38.00,28.00,94,51.5,145.5
+Jose Antonio Fernandes Correia,33.00,32.00,97,48.67,145.67
 Jessica do Carmo Soares Veras,28.00,32.00,92,53.5,145.5
-Maryanne de Carvalho Xavier,34.00,34.00,102,43.33,145.33
+Luana Pereira de Oliveira,38.00,28.00,94,51.5,145.5
+Danielle Mendonca Gonzalez Alves,32.00,34.00,100,45.5,145.5
+Allan Rodrigo Santana,29.00,37.00,103,42.5,145.5
+Saul dos Anjos Oliveira,32.00,38.00,108,37.5,145.5
 Iuri Queiroz Cavalcante,36.00,22.00,80,65.33,145.33
-Pedro Mario Damasceno Maciel Pereira Correia,34.00,24.00,82,63.17,145.17
+Maryanne de Carvalho Xavier,34.00,34.00,102,43.33,145.33
 Mathias Matos de Oliveira,31.00,25.00,81,64.17,145.17
-Juscelino Barbosa da Silva Neto,30.00,36.00,102,43,145
+Pedro Mario Damasceno Maciel Pereira Correia,34.00,24.00,82,63.17,145.17
 Savio Evaristo de Souza Santos,36.00,29.00,94,51,145
-Suzerlly Vanderley Lopes Pires,30.00,37.00,104,40.83,144.83
-Eduardo da Motta Figueredo,31.00,30.00,91,53.83,144.83
+Juscelino Barbosa da Silva Neto,30.00,36.00,102,43,145
 Romulo Jose Lyra Leite,27.00,31.00,89,55.83,144.83
+Eduardo da Motta Figueredo,31.00,30.00,91,53.83,144.83
+Suzerlly Vanderley Lopes Pires,30.00,37.00,104,40.83,144.83
 Roney Vieira Silva,26.00,32.00,90,54.67,144.67
-Gabriel Pinheiro dos Santos,23.00,42.00,107,37.5,144.5
-Victor Bastos Imbrosio Oliveira,30.00,36.00,102,42.5,144.5
+Henrique Cesar Teixeira Hermogenes,35.00,24.00,83,61.5,144.5
+Italo Ramos Pinto da Conceicao,23.00,33.00,89,55.5,144.5
+Lourenco Moura Sana,23.00,34.00,91,53.5,144.5
 Leandro Vieira Cerqueira,28.00,32.00,92,52.5,144.5
 Thiago de Albuquerque Gomes,26.00,33.00,92,52.5,144.5
-Lourenco Moura Sana,23.00,34.00,91,53.5,144.5
-Italo Ramos Pinto da Conceicao,23.00,33.00,89,55.5,144.5
-Henrique Cesar Teixeira Hermogenes,35.00,24.00,83,61.5,144.5
-Larissa Bianca Oliveira da Silva Lima,18.00,39.00,96,48.33,144.33
+Victor Bastos Imbrosio Oliveira,30.00,36.00,102,42.5,144.5
+Gabriel Pinheiro dos Santos,23.00,42.00,107,37.5,144.5
 Matheus Souto Bastos,26.00,31.00,88,56.33,144.33
-Amanda Leonel Nascimento,30.00,36.00,102,42.17,144.17
+Larissa Bianca Oliveira da Silva Lima,18.00,39.00,96,48.33,144.33
 Bernardo Andrade Monteiro Zacaron,27.00,30.00,87,57.17,144.17
-Rodrigo Medeiros de Andrade,34.00,36.00,106,38,144
-Jeison Leandro Ruckert,28.00,38.00,104,40,144
-Elisa Camillo,28.00,34.00,96,48,144
+Amanda Leonel Nascimento,30.00,36.00,102,42.17,144.17
 Francisco Edilvo Nunes Lima Filho,30.00,28.00,86,58,144
-Alexandre Larangeira Abdalla,23.00,42.00,107,36.5,143.5
-Marcia Luiza do Prado Gava,42.00,32.00,106,37.5,143.5
-Afonso Henrique Oliveira,23.00,39.00,101,42.5,143.5
-Nathan Alvarez Silva Baldez,31.00,34.00,99,44.5,143.5
-Carlos Eduardo Antonio Ferreira,26.00,35.00,96,47.5,143.5
+Elisa Camillo,28.00,34.00,96,48,144
+Jeison Leandro Ruckert,28.00,38.00,104,40,144
+Rodrigo Medeiros de Andrade,34.00,36.00,106,38,144
 Renan de Freitas Leite,28.00,30.00,88,55.5,143.5
+Carlos Eduardo Antonio Ferreira,26.00,35.00,96,47.5,143.5
+Nathan Alvarez Silva Baldez,31.00,34.00,99,44.5,143.5
+Afonso Henrique Oliveira,23.00,39.00,101,42.5,143.5
+Marcia Luiza do Prado Gava,42.00,32.00,106,37.5,143.5
+Alexandre Larangeira Abdalla,23.00,42.00,107,36.5,143.5
+Francisco Monte Sousa Sobrinho,30.00,26.00,82,61.33,143.33
 Newton Yamaguti,34.00,33.00,100,43.33,143.33
 Rafael Garcia de Lima,30.00,35.00,100,43.33,143.33
-Francisco Monte Sousa Sobrinho,30.00,26.00,82,61.33,143.33
-Alexandre Fernandes Lopes,28.00,38.00,104,39.17,143.17
 Paulo Fernando Rodrigues,26.00,34.00,94,49.17,143.17
-Waldson Andrade Lima,35.00,36.00,107,36,143
+Alexandre Fernandes Lopes,28.00,38.00,104,39.17,143.17
+William Pires Pereira,31.00,26.00,83,60,143
+Caio Felipe de Moura Peixoto,32.00,28.00,88,55,143
+Gabriel Frederico Barbosa,35.00,27.00,89,54,143
+Douglas Pereira Neves,22.00,38.00,98,45,143
 Carlos Gabriel Vilas Novas Soares,34.00,33.00,100,43,143
 Douglas Barbosa da Fonseca,36.00,32.00,100,43,143
 Giovane Kochhann,32.00,34.00,100,43,143
-Douglas Pereira Neves,22.00,38.00,98,45,143
-Gabriel Frederico Barbosa,35.00,27.00,89,54,143
-Caio Felipe de Moura Peixoto,32.00,28.00,88,55,143
-William Pires Pereira,31.00,26.00,83,60,143
+Waldson Andrade Lima,35.00,36.00,107,36,143
 Andressa Silva de Souza,30.00,28.00,86,56.83,142.83
-Laerte Souza Costa Neto,21.00,37.00,95,47.67,142.67
 Bruna Carolina Nani,35.00,27.00,89,53.67,142.67
-Thiago Rodrigues Carvalho,34.00,34.00,102,40.5,142.5
-Guilherme Lima Matos Leal,24.00,38.00,100,42.5,142.5
-Flaudizio Barbosa Santos Filho,31.00,32.00,95,47.5,142.5
-Augusto Correa Fonseca Magalhaes e Ribeiro,24.00,34.00,92,50.5,142.5
-Robson Araujo Lima,30.00,30.00,90,52.5,142.5
+Laerte Souza Costa Neto,21.00,37.00,95,47.67,142.67
 Alyson Jose do Carmo Silva,31.00,28.00,87,55.5,142.5
-Reyso Cunha Teixeira,22.00,46.00,114,28,142
-Christiana Couto,32.00,36.00,104,38,142
-Lucas Almada Gabriel,34.00,34.00,102,40,142
-Victor Augusto Rodrigues de Oliveira,33.00,32.00,97,45,142
+Robson Araujo Lima,30.00,30.00,90,52.5,142.5
+Augusto Correa Fonseca Magalhaes e Ribeiro,24.00,34.00,92,50.5,142.5
+Flaudizio Barbosa Santos Filho,31.00,32.00,95,47.5,142.5
+Guilherme Lima Matos Leal,24.00,38.00,100,42.5,142.5
+Thiago Rodrigues Carvalho,34.00,34.00,102,40.5,142.5
 Elizabete Maria da Silva,23.00,36.00,95,47,142
+Victor Augusto Rodrigues de Oliveira,33.00,32.00,97,45,142
+Lucas Almada Gabriel,34.00,34.00,102,40,142
+Christiana Couto,32.00,36.00,104,38,142
+Reyso Cunha Teixeira,22.00,46.00,114,28,142
 Jeanyson Barbosa Campos,30.00,34.00,98,43.83,141.83
-Anderson Jose Laia Gama,30.00,34.00,98,43.67,141.67
-Maiko Elias Akagui Duarte,26.00,30.00,86,55.67,141.67
 Felipe Martins Carreiro,27.00,29.00,85,56.67,141.67
-Victor Alexandre Santos de Carvalho,39.00,35.00,109,32.5,141.5
-Jonathan dos Santos Lessa,32.00,36.00,104,37.5,141.5
-Viviane de Mattos Matioli,38.00,33.00,104,37.5,141.5
-Gabriel Souza Farias,29.00,35.00,99,42.5,141.5
+Maiko Elias Akagui Duarte,26.00,30.00,86,55.67,141.67
+Anderson Jose Laia Gama,30.00,34.00,98,43.67,141.67
+Joao Flavio Cardoso Pinheiro,27.00,29.00,85,56.5,141.5
+Gabriel Augusto Martins Rodrigues,35.00,27.00,89,52.5,141.5
 Alexandre Schviderski,22.00,36.00,94,47.5,141.5
 Eric Luiz Rodrigues de Franca,30.00,32.00,94,47.5,141.5
-Gabriel Augusto Martins Rodrigues,35.00,27.00,89,52.5,141.5
-Joao Flavio Cardoso Pinheiro,27.00,29.00,85,56.5,141.5
-Felipe Villani,26.00,42.00,110,31.33,141.33
+Gabriel Souza Farias,29.00,35.00,99,42.5,141.5
+Jonathan dos Santos Lessa,32.00,36.00,104,37.5,141.5
+Viviane de Mattos Matioli,38.00,33.00,104,37.5,141.5
+Victor Alexandre Santos de Carvalho,39.00,35.00,109,32.5,141.5
 Wanderpaulo Lazaro da Silva Santos,26.00,32.00,90,51.33,141.33
+Felipe Villani,26.00,42.00,110,31.33,141.33
 Marco Koichiro Fujii,32.00,27.00,86,55.17,141.17
-Thiago Eugenio Hubes,32.00,38.00,108,33,141
-Daniele Patricia Santos Nascimento,31.00,36.00,103,38,141
 Andre Luiz Jerba,26.00,35.00,96,45,141
 Clayton Queiroz de Oliveira,30.00,33.00,96,45,141
 Itallo de Sousa Silva,36.00,30.00,96,45,141
+Daniele Patricia Santos Nascimento,31.00,36.00,103,38,141
+Thiago Eugenio Hubes,32.00,38.00,108,33,141
+Anna Paula Araujo Dutra,36.00,27.00,90,50.83,140.83
 Joao Pedro Lourenco Affonso,24.00,37.00,98,42.83,140.83
 Marco Antonio Bittencourt Grutzmann,26.00,36.00,98,42.83,140.83
-Anna Paula Araujo Dutra,36.00,27.00,90,50.83,140.83
-Joao Carlos Soares da Silva,24.00,39.00,102,38.67,140.67
-Pedro Henrique Braga e Silva,21.00,36.00,93,47.67,140.67
 Felipe Pinto Marinho,32.00,30.00,92,48.67,140.67
-Vania Maria de Paula Braga,28.00,40.00,108,32.5,140.5
-Paulo Henrique Castro Rodrigues Viana Lima,31.00,35.00,101,39.5,140.5
-Andre Cantarin do Rosario,18.00,38.00,94,46.5,140.5
+Pedro Henrique Braga e Silva,21.00,36.00,93,47.67,140.67
+Joao Carlos Soares da Silva,24.00,39.00,102,38.67,140.67
 Levi Cordeiro Carvalho,27.00,29.00,85,55.5,140.5
-Alisson Pessanha Quintanilha,26.00,37.00,100,40.33,140.33
+Andre Cantarin do Rosario,18.00,38.00,94,46.5,140.5
+Paulo Henrique Castro Rodrigues Viana Lima,31.00,35.00,101,39.5,140.5
+Vania Maria de Paula Braga,28.00,40.00,108,32.5,140.5
 Roger Vinicius da Silva Costa,36.00,26.00,88,52.33,140.33
-Italo Andre da Silva Simoes,31.00,30.00,91,49.17,140.17
+Alisson Pessanha Quintanilha,26.00,37.00,100,40.33,140.33
 Luis Augusto Maciel Cavalheiro,28.00,30.00,88,52.17,140.17
-Erico Augusto Morais,38.00,36.00,110,30,140
+Italo Andre da Silva Simoes,31.00,30.00,91,49.17,140.17
 Kelion Fernandes Aquino,17.00,39.00,95,45,140
+Erico Augusto Morais,38.00,36.00,110,30,140
 Leandro Jeronimo da Silva,24.00,34.00,92,47.83,139.83
 Vinicius Almeida de Morais,24.00,36.00,96,43.67,139.67
-Frederico Dal Grande,30.00,36.00,102,37.5,139.5
-Andre Roberto Bronca,28.00,31.00,90,49.5,139.5
-Danilo Carneiro Christensen,27.00,30.00,87,52.5,139.5
 Naiara Andrade Camelo,30.00,27.00,84,55.5,139.5
+Danilo Carneiro Christensen,27.00,30.00,87,52.5,139.5
+Andre Roberto Bronca,28.00,31.00,90,49.5,139.5
+Frederico Dal Grande,30.00,36.00,102,37.5,139.5
 Vanderson da Silva Rodrigues,23.00,34.00,91,48.17,139.17
+Fiama Santos,26.00,36.00,98,41,139
+Igor Mariano de Souza,23.00,41.00,105,34,139
 Luciana Bahia Wakabayashi Fabri,29.00,40.00,109,30,139
 Luiza Gontijo Sant Anna Martins,31.00,39.00,109,30,139
 Raphael de Oliveira Versiani,31.00,39.00,109,30,139
-Igor Mariano de Souza,23.00,41.00,105,34,139
-Fiama Santos,26.00,36.00,98,41,139
-Gabriel Bezerra Pratini,40.00,30.00,100,38.83,138.83
 Francilandio Lima Serafim,36.00,26.00,88,50.83,138.83
+Gabriel Bezerra Pratini,40.00,30.00,100,38.83,138.83
 Diego Frederico de Sousa Silva,29.00,29.00,87,51.67,138.67
-Lucas Soares Sant Anna,27.00,37.00,101,37.5,138.5
-Pedro Cecilio da Cruz Neto,25.00,38.00,101,37.5,138.5
-Matheus Henrique da Silva Santos,26.00,35.00,96,42.5,138.5
-Matheus Girardi,31.00,31.00,93,45.5,138.5
-Danielson Raimundo Alves dos Santos Junior,36.00,26.00,88,50.5,138.5
 Antonio Lucas Ribeiro Ferreira da Silva,26.00,30.00,86,52.5,138.5
 Igor de Souza Goncalves,34.00,26.00,86,52.5,138.5
 Wilson Luiz da Silva Farias,26.00,30.00,86,52.5,138.5
-Matheus Clemente Carvalho de Azevedo,39.00,28.00,95,43.33,138.33
+Danielson Raimundo Alves dos Santos Junior,36.00,26.00,88,50.5,138.5
+Matheus Girardi,31.00,31.00,93,45.5,138.5
+Matheus Henrique da Silva Santos,26.00,35.00,96,42.5,138.5
+Lucas Soares Sant Anna,27.00,37.00,101,37.5,138.5
+Pedro Cecilio da Cruz Neto,25.00,38.00,101,37.5,138.5
 Pedro Henrique de A Gomes,33.00,25.00,83,55.33,138.33
+Matheus Clemente Carvalho de Azevedo,39.00,28.00,95,43.33,138.33
 Luiz Manoel Santos Santana,30.00,28.00,86,52.17,138.17
-Renato Silva Moura,26.00,36.00,98,40,138
-Andrei Freitas Costa Nunes dos Santos,24.00,32.00,88,50,138
 Roberto Lorenzoni Tome,40.00,18.00,76,62,138
+Andrei Freitas Costa Nunes dos Santos,24.00,32.00,88,50,138
+Renato Silva Moura,26.00,36.00,98,40,138
 Paulo Alberto Gomes Junior,36.00,33.00,102,35.83,137.83
-Diego Fernandes dos Santos,26.00,34.00,94,43.67,137.67
-Walter Paes Monteiro Junior,28.00,30.00,88,49.67,137.67
 Daniele Souza de Araujo,31.00,25.00,81,56.67,137.67
-Danilo Oliveira Santos,14.00,46.00,106,31.5,137.5
-Lucas Moreira de Souza,23.00,41.00,105,32.5,137.5
-Nilsiane de Holanda Almeida,35.00,35.00,105,32.5,137.5
-Izabela Bastos Noe,19.00,42.00,103,34.5,137.5
-Yuri Rodrigues de Alencar Lopes,36.00,28.00,92,45.5,137.5
+Walter Paes Monteiro Junior,28.00,30.00,88,49.67,137.67
+Diego Fernandes dos Santos,26.00,34.00,94,43.67,137.67
+Paulo Jonas Alves da Silva,37.00,22.00,81,56.5,137.5
+Eduardo Bacelar Jacobi,27.00,29.00,85,52.5,137.5
+Giorgio Onofre Limeira,27.00,29.00,85,52.5,137.5
+Gleice Kelly dos Santos Moura,33.00,26.00,85,52.5,137.5
+Stefano Ramos Baptista,26.00,30.00,86,51.5,137.5
 Andre Luis Dantas Gadelha,38.00,26.00,90,47.5,137.5
 Eric Cunha Caldeira Mesquita,34.00,28.00,90,47.5,137.5
 Marcos Laercio de Peder,30.00,30.00,90,47.5,137.5
 Matheus Eduardo Rodrigues da Silva,30.00,30.00,90,47.5,137.5
-Stefano Ramos Baptista,26.00,30.00,86,51.5,137.5
-Eduardo Bacelar Jacobi,27.00,29.00,85,52.5,137.5
-Giorgio Onofre Limeira,27.00,29.00,85,52.5,137.5
-Gleice Kelly dos Santos Moura,33.00,26.00,85,52.5,137.5
-Paulo Jonas Alves da Silva,37.00,22.00,81,56.5,137.5
-Gustavo Guimaraes de Castro,30.00,34.00,98,39.33,137.33
+Yuri Rodrigues de Alencar Lopes,36.00,28.00,92,45.5,137.5
+Izabela Bastos Noe,19.00,42.00,103,34.5,137.5
+Lucas Moreira de Souza,23.00,41.00,105,32.5,137.5
+Nilsiane de Holanda Almeida,35.00,35.00,105,32.5,137.5
+Danilo Oliveira Santos,14.00,46.00,106,31.5,137.5
 Regina de Cassia Nandi Zanette,21.00,35.00,91,46.33,137.33
-Eugenio Luis de Sousa Pessoa,34.00,32.00,98,39.17,137.17
-Adriana Silva Santana,26.00,33.00,92,45.17,137.17
-Nicolas Teixeira Guerra Garcia,22.00,34.00,90,47.17,137.17
+Gustavo Guimaraes de Castro,30.00,34.00,98,39.33,137.33
 Renan Siman Claudino,29.00,29.00,87,50.17,137.17
-Matheus Gomes Reis Pinto,30.00,40.00,110,27,137
-Roberio Bezerra Severino,24.00,41.00,106,31,137
-Andre Henrique de Almeida Comar,33.00,32.00,97,40,137
-Marlon Conrado da Silva Salman,16.00,40.00,96,41,137
-Marcio Nunes de Souza,24.00,34.00,92,45,137
+Nicolas Teixeira Guerra Garcia,22.00,34.00,90,47.17,137.17
+Adriana Silva Santana,26.00,33.00,92,45.17,137.17
+Eugenio Luis de Sousa Pessoa,34.00,32.00,98,39.17,137.17
 Carlos Cesar Oliveira Almeida,29.00,30.00,89,48,137
-Alexandre Alessi,23.00,47.00,117,19.83,136.83
+Marcio Nunes de Souza,24.00,34.00,92,45,137
+Marlon Conrado da Silva Salman,16.00,40.00,96,41,137
+Andre Henrique de Almeida Comar,33.00,32.00,97,40,137
+Roberio Bezerra Severino,24.00,41.00,106,31,137
+Matheus Gomes Reis Pinto,30.00,40.00,110,27,137
 Sarah Ferreira Pimentel,22.00,36.00,94,42.83,136.83
+Alexandre Alessi,23.00,47.00,117,19.83,136.83
+Luciano da Silva Lisboa,28.00,30.00,88,48.67,136.67
 Natanael Santos Batista,18.00,44.00,106,30.67,136.67
 Walter Pidluznyj,26.00,40.00,106,30.67,136.67
-Luciano da Silva Lisboa,28.00,30.00,88,48.67,136.67
-Thiago da Fonseca Duarte,32.00,40.00,112,24.5,136.5
-Leticia dos Santos Paes,35.00,35.00,105,31.5,136.5
-Renan Jose de Souza Linhares,27.00,36.00,99,37.5,136.5
-Kristiany Kukert Zamai,28.00,34.00,96,40.5,136.5
-Alexandre Jose Ferreira,25.00,35.00,95,41.5,136.5
+Marcelo Araujo Batista,31.00,25.00,81,55.5,136.5
+Raquel de Alcantara Cerqueira,23.00,34.00,91,45.5,136.5
 Diego Pereira Gonzalez Natalo,30.00,32.00,94,42.5,136.5
 Willians Ferreira da Silva,18.00,38.00,94,42.5,136.5
-Raquel de Alcantara Cerqueira,23.00,34.00,91,45.5,136.5
-Marcelo Araujo Batista,31.00,25.00,81,55.5,136.5
+Alexandre Jose Ferreira,25.00,35.00,95,41.5,136.5
+Kristiany Kukert Zamai,28.00,34.00,96,40.5,136.5
+Renan Jose de Souza Linhares,27.00,36.00,99,37.5,136.5
+Leticia dos Santos Paes,35.00,35.00,105,31.5,136.5
+Thiago da Fonseca Duarte,32.00,40.00,112,24.5,136.5
+Felipe Fernandes Almeida Manso,32.00,28.00,88,48,136
+Leonardo Stibich Lobao,26.00,36.00,98,38,136
+Uarles Santana Fogaca,29.00,37.00,103,33,136
 Daniela Dias Silva dos Reis,26.00,40.00,106,30,136
 Vanessa Carvalho do Nascimento,34.00,36.00,106,30,136
-Uarles Santana Fogaca,29.00,37.00,103,33,136
-Leonardo Stibich Lobao,26.00,36.00,98,38,136
-Felipe Fernandes Almeida Manso,32.00,28.00,88,48,136
-Pedro Henrique Mendes Ferreira,28.00,35.00,98,37.83,135.83
-Leonardo Emerson Andre Alves,32.00,30.00,92,43.83,135.83
 Rafael Lourenco Rodrigues,39.00,20.00,79,56.83,135.83
+Leonardo Emerson Andre Alves,32.00,30.00,92,43.83,135.83
+Pedro Henrique Mendes Ferreira,28.00,35.00,98,37.83,135.83
 Ryron Gabriel,35.00,26.00,87,48.67,135.67
+Alexandre Monassa Moreira,27.00,31.00,89,46.5,135.5
 Eduardo Caetano Sousa,18.00,40.00,98,37.5,135.5
 Pedro Henrique Indalecio Schiavom,32.00,33.00,98,37.5,135.5
-Alexandre Monassa Moreira,27.00,31.00,89,46.5,135.5
+Guilherme Braga Pinto,32.00,26.00,84,51.33,135.33
+Bruno Affonso Teixeira,30.00,31.00,92,43.33,135.33
 Jessica Gontijo de Aquino,34.00,33.00,100,35.33,135.33
 Wallison Junior Sousa da Silva,22.00,39.00,100,35.33,135.33
-Bruno Affonso Teixeira,30.00,31.00,92,43.33,135.33
-Guilherme Braga Pinto,32.00,26.00,84,51.33,135.33
-Luiz Henrique Oliveira Basilio de Lima,28.00,35.00,98,37.17,135.17
 Alexandre Martins da Cunha,20.00,38.00,96,39.17,135.17
-Cesar Barbosa Graciano,17.00,43.00,103,32,135
-Izabella Maria de Oliveira,16.00,43.00,102,33,135
+Luiz Henrique Oliveira Basilio de Lima,28.00,35.00,98,37.17,135.17
 Magno Mateus Almeida de Oliveira,31.00,32.00,95,40,135
-Leticia Torres Pereira,32.00,26.00,84,50.83,134.83
+Izabella Maria de Oliveira,16.00,43.00,102,33,135
+Cesar Barbosa Graciano,17.00,43.00,103,32,135
 Rubens Ribeiro Campos,40.00,17.00,74,60.83,134.83
-Marcos Paulo Santos de Camargo,41.00,40.00,121,13.5,134.5
-Edna Paula Alves de Oliveira,34.00,42.00,118,16.5,134.5
-Luciana Alves de Sousa Leite,26.00,46.00,118,16.5,134.5
-Emerson Rangel Braga,26.00,38.00,102,32.5,134.5
-Ricardo Henrique Souza Machado,32.00,34.00,100,34.5,134.5
-Eduardo de Sousa Santos,33.00,32.00,97,37.5,134.5
+Leticia Torres Pereira,32.00,26.00,84,50.83,134.83
+Lucas Neves de Melo,30.00,26.00,82,52.5,134.5
+Luis Fernando Feitosa,24.00,34.00,92,42.5,134.5
 Andre Alves Revoredo,30.00,32.00,94,40.5,134.5
 Danilo Victor Barbosa da Costa,24.00,35.00,94,40.5,134.5
-Luis Fernando Feitosa,24.00,34.00,92,42.5,134.5
-Lucas Neves de Melo,30.00,26.00,82,52.5,134.5
-Felipe de Siqueira Gomes,32.00,32.00,96,38.33,134.33
+Eduardo de Sousa Santos,33.00,32.00,97,37.5,134.5
+Ricardo Henrique Souza Machado,32.00,34.00,100,34.5,134.5
+Emerson Rangel Braga,26.00,38.00,102,32.5,134.5
+Edna Paula Alves de Oliveira,34.00,42.00,118,16.5,134.5
+Luciana Alves de Sousa Leite,26.00,46.00,118,16.5,134.5
+Marcos Paulo Santos de Camargo,41.00,40.00,121,13.5,134.5
 Mila Figueira Nozella,31.00,32.00,95,39.33,134.33
-Marcelo Henrique Magalhaes Franca Goncalves,26.00,36.00,98,36.17,134.17
+Felipe de Siqueira Gomes,32.00,32.00,96,38.33,134.33
 Assis Urtiga Moreira,26.00,33.00,92,42.17,134.17
-Lucas Freitas Silva,17.00,46.00,109,25,134
-Pedro Farias Wanderley,28.00,38.00,104,30,134
-Gabriel Ferreira Franco,18.00,40.00,98,36,134
-Oziel Pontes da Silva Filho,27.00,34.00,95,39,134
-Alexander Hugo Tartari,24.00,35.00,94,40,134
-Vitor Moura Ivo,35.00,28.00,91,43,134
-Marcio Sakamoto Shibao,34.00,28.00,90,44,134
+Marcelo Henrique Magalhaes Franca Goncalves,26.00,36.00,98,36.17,134.17
+Joao Alberto de Pontes Coelho Araujo Neto,32.00,26.00,84,50,134
 Frederico Andrade de Homobono Balieiro,29.00,30.00,89,45,134
 Lucas Hiago de Moura Vilela,23.00,33.00,89,45,134
 Romulo Ramos Lucena de Souza,29.00,30.00,89,45,134
-Joao Alberto de Pontes Coelho Araujo Neto,32.00,26.00,84,50,134
+Marcio Sakamoto Shibao,34.00,28.00,90,44,134
+Vitor Moura Ivo,35.00,28.00,91,43,134
+Alexander Hugo Tartari,24.00,35.00,94,40,134
+Oziel Pontes da Silva Filho,27.00,34.00,95,39,134
+Gabriel Ferreira Franco,18.00,40.00,98,36,134
+Pedro Farias Wanderley,28.00,38.00,104,30,134
+Lucas Freitas Silva,17.00,46.00,109,25,134
 Joao Gabriel Carneiro Medeiros,26.00,30.00,86,47.83,133.83
+Mayara Chew Marinho,32.00,27.00,86,47.5,133.5
+Djalma Dias de Deus Junior,24.00,32.00,88,45.5,133.5
+Joao Vitor dos Santos Tristao,34.00,27.00,88,45.5,133.5
+Jose Moreira da Silva Junior,25.00,34.00,93,40.5,133.5
 Augusto da Silva Brandao,22.00,37.00,96,37.5,133.5
 Davi Albuquerque Bitencourt,28.00,34.00,96,37.5,133.5
 Rodrigo Gemaque de Almeida,22.00,37.00,96,37.5,133.5
-Jose Moreira da Silva Junior,25.00,34.00,93,40.5,133.5
-Djalma Dias de Deus Junior,24.00,32.00,88,45.5,133.5
-Joao Vitor dos Santos Tristao,34.00,27.00,88,45.5,133.5
-Mayara Chew Marinho,32.00,27.00,86,47.5,133.5
-Ruben Santos de Almeida,24.00,41.00,106,27.33,133.33
 Mauricio Batista Neves Lima,23.00,38.00,99,34.33,133.33
-Bernardo Jales de Sales,26.00,34.00,94,39.17,133.17
+Ruben Santos de Almeida,24.00,41.00,106,27.33,133.33
 Bruno Araujo Soares,35.00,23.00,81,52.17,133.17
-Julyana Pereira Simas,28.00,42.00,112,21,133
+Bernardo Jales de Sales,26.00,34.00,94,39.17,133.17
 Euclides Pinheiro Pereira,25.00,34.00,93,40,133
+Julyana Pereira Simas,28.00,42.00,112,21,133
 Alvaro Frederico Lippel,24.00,34.00,92,40.67,132.67
-Eriko Vasconcelos Coelho,27.00,34.00,95,37.5,132.5
-Paloma Almeida Gama da Silva,21.00,37.00,95,37.5,132.5
+Thiago Batista Moreira,32.00,24.00,80,52.5,132.5
+Alanda Leote Pinto,24.00,33.00,90,42.5,132.5
 Lucas Assis Cavalcante,32.00,30.00,92,40.5,132.5
 Uriel Anderson de Oliveira Lasheras,28.00,32.00,92,40.5,132.5
-Alanda Leote Pinto,24.00,33.00,90,42.5,132.5
-Thiago Batista Moreira,32.00,24.00,80,52.5,132.5
+Eriko Vasconcelos Coelho,27.00,34.00,95,37.5,132.5
+Paloma Almeida Gama da Silva,21.00,37.00,95,37.5,132.5
 Sebastiao Soares Neto,28.00,32.00,92,40.33,132.33
-Giovanna Blasco Martin,34.00,38.00,110,22,132
-Jacques Yves Laniado,35.00,35.00,105,27,132
+Pedro Magno Xavier e Braga,29.00,30.00,89,43,132
+Gustavo Rafael Carvalho Clein,28.00,32.00,92,40,132
 Andre Jackson Gomes Bessa,30.00,36.00,102,30,132
 Maria Lina de Souza Jeannine Rocha,38.00,32.00,102,30,132
 Rayssa Mariana Silva Santana,18.00,42.00,102,30,132
-Gustavo Rafael Carvalho Clein,28.00,32.00,92,40,132
-Pedro Magno Xavier e Braga,29.00,30.00,89,43,132
+Jacques Yves Laniado,35.00,35.00,105,27,132
+Giovanna Blasco Martin,34.00,38.00,110,22,132
 Allessandro Oliveira dos Anjos,26.00,31.00,88,43.67,131.67
+Leno Matos Lisboa,31.00,25.00,81,50.5,131.5
 Marcelo Osnar Rodrigues de Abreu,36.00,29.00,94,37.5,131.5
 Marcos Vinicius Reis,30.00,32.00,94,37.5,131.5
 Rodrigo Campos Serra Domingues,34.00,30.00,94,37.5,131.5
 Tahinan Wilena Barbosa Napoleao,28.00,33.00,94,37.5,131.5
-Leno Matos Lisboa,31.00,25.00,81,50.5,131.5
-Celia Joana Figueroa dos Santos,30.00,44.00,118,13.33,131.33
-Talita de Cacia Sousa Travassos,28.00,37.00,102,29.33,131.33
-Renato Callegari Burkle,26.00,36.00,98,33.33,131.33
 Isaac de Souza Carlos do Nascimento,20.00,38.00,96,35.33,131.33
-Diego Tasso de Oliveira Lima,25.00,34.00,93,38.17,131.17
+Renato Callegari Burkle,26.00,36.00,98,33.33,131.33
+Talita de Cacia Sousa Travassos,28.00,37.00,102,29.33,131.33
+Celia Joana Figueroa dos Santos,30.00,44.00,118,13.33,131.33
 Fabiano Silva de Carvalho,36.00,26.00,88,43.17,131.17
-Marcos Vinicius Campos,28.00,44.00,116,15,131
+Diego Tasso de Oliveira Lima,25.00,34.00,93,38.17,131.17
 Paulo Henrique Tameirao Fonseca Araujo de Oliveira,29.00,31.00,91,40,131
 Raphael Gomes Pinheiro,27.00,32.00,91,40,131
-Luiz Paulo Soares de Lira,18.00,39.00,96,34.83,130.83
-Clara Fernanda Tavares Silva,30.00,32.00,94,36.83,130.83
+Marcos Vinicius Campos,28.00,44.00,116,15,131
 Filipe Ribeiro Moraes da Silva,24.00,32.00,88,42.83,130.83
-Marcos Sikora de Araujo,28.00,34.00,96,34.67,130.67
+Clara Fernanda Tavares Silva,30.00,32.00,94,36.83,130.83
+Luiz Paulo Soares de Lira,18.00,39.00,96,34.83,130.83
 Hugo Goncalves Lopes,40.00,20.00,80,50.67,130.67
-Gustavo Goncalves Cavichioli,24.00,42.00,108,22.5,130.5
-Matias Severino Ribeiro Neto,21.00,42.00,105,25.5,130.5
-Diego Lopes de Almeida,23.00,35.00,93,37.5,130.5
-Luis Eduardo Alkmin La Torre,30.00,30.00,90,40.5,130.5
+Marcos Sikora de Araujo,28.00,34.00,96,34.67,130.67
 Augusto Klippel Barbosa Gomes,23.00,33.00,89,41.5,130.5
-Marcos Santos de Souza Junior,36.00,26.00,88,42.33,130.33
+Luis Eduardo Alkmin La Torre,30.00,30.00,90,40.5,130.5
+Diego Lopes de Almeida,23.00,35.00,93,37.5,130.5
+Matias Severino Ribeiro Neto,21.00,42.00,105,25.5,130.5
+Gustavo Goncalves Cavichioli,24.00,42.00,108,22.5,130.5
 Marcelo Henrique dos Santos Moraes,29.00,29.00,87,43.33,130.33
-Kennedy Bezerra da Silva Lins,38.00,40.00,118,12,130
-Emanuela da Rocha Mascarenhas,24.00,41.00,106,24,130
-Leonardo Rogerio Ferreira,34.00,33.00,100,30,130
-Cirio Vieira,17.00,40.00,97,33,130
-Daniel Gustavo Pino Gomes,24.00,35.00,94,36,130
+Marcos Santos de Souza Junior,36.00,26.00,88,42.33,130.33
 Amanda Lima Santos,25.00,33.00,91,39,130
+Daniel Gustavo Pino Gomes,24.00,35.00,94,36,130
+Cirio Vieira,17.00,40.00,97,33,130
+Leonardo Rogerio Ferreira,34.00,33.00,100,30,130
+Emanuela da Rocha Mascarenhas,24.00,41.00,106,24,130
+Kennedy Bezerra da Silva Lins,38.00,40.00,118,12,130
 Rodrigo Ramos,18.00,38.00,94,35.83,129.83
-Ricardo Vasselai Paulino,26.00,38.00,102,27.5,129.5
-Iraline Nunes Simoes,33.00,32.00,97,32.5,129.5
-Maria Beatriz Ribeiro Falcao,24.00,34.00,92,37.5,129.5
 Jefferson Ferreira Ribeiro,36.00,24.00,84,45.5,129.5
+Maria Beatriz Ribeiro Falcao,24.00,34.00,92,37.5,129.5
+Iraline Nunes Simoes,33.00,32.00,97,32.5,129.5
+Ricardo Vasselai Paulino,26.00,38.00,102,27.5,129.5
 Lucas Miranda de Alcantara,31.00,26.00,83,46.17,129.17
-Luciano Arnobio da Silva e Silva,18.00,42.00,102,27,129
-Reinaldo Lepsch Neto,36.00,30.00,96,33,129
-Jose Joaquim Brandao Neto,18.00,38.00,94,35,129
 William Carlos Giovanetti Gomes,34.00,26.00,86,43,129
-Cleyton Lessa de Souza,28.00,35.00,98,30.83,128.83
+Jose Joaquim Brandao Neto,18.00,38.00,94,35,129
+Reinaldo Lepsch Neto,36.00,30.00,96,33,129
+Luciano Arnobio da Silva e Silva,18.00,42.00,102,27,129
 Danilo de Britto,26.00,32.00,90,38.83,128.83
-Moreno Marques Rocha,29.00,44.00,117,11.5,128.5
-Alberto de Lima Costa,28.00,35.00,98,30.5,128.5
-Reinaldo de Souza Reis,25.00,36.00,97,31.5,128.5
-Thiago Phillipe Bastos Pessanha,22.00,37.00,96,32.5,128.5
-Fabio Silva Pego,21.00,37.00,95,33.5,128.5
-Charlles Medeiros Leite,31.00,30.00,91,37.5,128.5
-Manoel Temoteo Bezerra de Carvalho,35.00,28.00,91,37.5,128.5
-Sandro Kleyton Rocha Diniz,37.00,27.00,91,37.5,128.5
-Antonio Augusto Guimaraes da Costa,34.00,28.00,90,38.5,128.5
-Brigida Farias Cardoso Oliveira,34.00,28.00,90,38.5,128.5
-Germano Pires de Carvalho,22.00,34.00,90,38.5,128.5
+Cleyton Lessa de Souza,28.00,35.00,98,30.83,128.83
 Paulo Henrique Nascimento de Souza,24.00,32.00,88,40.5,128.5
 Renan Freitas de Almeida,32.00,28.00,88,40.5,128.5
 Thiago Henrique Santos,32.00,28.00,88,40.5,128.5
-Anna Clara Nascimento Macedo Costa,31.00,31.00,93,35.33,128.33
+Antonio Augusto Guimaraes da Costa,34.00,28.00,90,38.5,128.5
+Brigida Farias Cardoso Oliveira,34.00,28.00,90,38.5,128.5
+Germano Pires de Carvalho,22.00,34.00,90,38.5,128.5
+Charlles Medeiros Leite,31.00,30.00,91,37.5,128.5
+Manoel Temoteo Bezerra de Carvalho,35.00,28.00,91,37.5,128.5
+Sandro Kleyton Rocha Diniz,37.00,27.00,91,37.5,128.5
+Fabio Silva Pego,21.00,37.00,95,33.5,128.5
+Thiago Phillipe Bastos Pessanha,22.00,37.00,96,32.5,128.5
+Reinaldo de Souza Reis,25.00,36.00,97,31.5,128.5
+Alberto de Lima Costa,28.00,35.00,98,30.5,128.5
+Moreno Marques Rocha,29.00,44.00,117,11.5,128.5
 Pedro Eugenio Guimaraes Carvalho,35.00,21.00,77,51.33,128.33
-Abraao Gomes Farah,29.00,35.00,99,29,128
+Anna Clara Nascimento Macedo Costa,31.00,31.00,93,35.33,128.33
+Marcelo Moreno Costa,24.00,32.00,88,40,128
+Gabriel Joseph Ramos Rafael,25.00,33.00,91,37,128
+Mauricio Dobke,20.00,36.00,92,36,128
 Ederson Luis Branco,24.00,37.00,98,30,128
 Lucas Werner,30.00,34.00,98,30,128
 Vera Lucia Silva da Gloria,26.00,36.00,98,30,128
-Mauricio Dobke,20.00,36.00,92,36,128
-Gabriel Joseph Ramos Rafael,25.00,33.00,91,37,128
-Marcelo Moreno Costa,24.00,32.00,88,40,128
-Lucas Fernandes da Silva,30.00,36.00,102,25.5,127.5
-Lucas Arthur Lermen,30.00,34.00,98,29.5,127.5
-Rodrigo Santos Costa,21.00,37.00,95,32.5,127.5
-Leonardo Souza Santos,23.00,34.00,91,36.5,127.5
+Abraao Gomes Farah,29.00,35.00,99,29,128
+Francisco Yuri Carvalho de Oliveira,27.00,29.00,85,42.5,127.5
 Ana Lais Duarte Aquino Dumont,22.00,34.00,90,37.5,127.5
 Gabriel Lima Prisco Madureira,24.00,33.00,90,37.5,127.5
 Uriel Merola Minage e Silva,30.00,30.00,90,37.5,127.5
 Vitor da Fonseca Souto,30.00,30.00,90,37.5,127.5
-Francisco Yuri Carvalho de Oliveira,27.00,29.00,85,42.5,127.5
-Diego Vale da Silva,28.00,32.00,92,35.33,127.33
-Fabio Pereira dos Santos,32.00,26.00,84,43.33,127.33
+Leonardo Souza Santos,23.00,34.00,91,36.5,127.5
+Rodrigo Santos Costa,21.00,37.00,95,32.5,127.5
+Lucas Arthur Lermen,30.00,34.00,98,29.5,127.5
+Lucas Fernandes da Silva,30.00,36.00,102,25.5,127.5
 Gabriel Serrat da Cunha Bento,35.00,23.00,81,46.33,127.33
+Fabio Pereira dos Santos,32.00,26.00,84,43.33,127.33
+Diego Vale da Silva,28.00,32.00,92,35.33,127.33
 Janio Cesar da Silva e Silva,24.00,36.00,96,31.17,127.17
-Diego Cadena de Almeida,29.00,36.00,101,26,127
-Daniel Freire Turmina,31.00,33.00,97,30,127
+Otalino Geraldino Soares Junior,24.00,34.00,92,35,127
 Arthur Rodrigues Jacomite,22.00,36.00,94,33,127
 Roger Curti,26.00,34.00,94,33,127
-Otalino Geraldino Soares Junior,24.00,34.00,92,35,127
-Roberto Goncalves Bezerra,22.00,40.00,102,24.83,126.83
+Daniel Freire Turmina,31.00,33.00,97,30,127
+Diego Cadena de Almeida,29.00,36.00,101,26,127
 Alissandra Castelo Branco Cabral,28.00,34.00,96,30.83,126.83
+Roberto Goncalves Bezerra,22.00,40.00,102,24.83,126.83
 Henrique Faria Freitas,24.00,40.00,104,22.67,126.67
-Diogo Borges da Silva,35.00,33.00,101,25.5,126.5
-Francisco Cleilton Rocha Viana,20.00,40.00,100,26.5,126.5
-Abimael Carlos da Costa,26.00,36.00,98,28.5,126.5
-Andrea Massumi Yamashita,30.00,32.00,94,32.5,126.5
-Bruno Lima de Araujo,31.00,31.00,93,33.5,126.5
 Gabriel Henrique Perin Vieira,32.00,26.00,84,42.5,126.5
-Paulo Henrique de Oliveira Mendes,24.00,37.00,98,28.33,126.33
+Bruno Lima de Araujo,31.00,31.00,93,33.5,126.5
+Andrea Massumi Yamashita,30.00,32.00,94,32.5,126.5
+Abimael Carlos da Costa,26.00,36.00,98,28.5,126.5
+Francisco Cleilton Rocha Viana,20.00,40.00,100,26.5,126.5
+Diogo Borges da Silva,35.00,33.00,101,25.5,126.5
 Wendel Neres da Cruz,29.00,31.00,91,35.33,126.33
-Luam Leiverton Pereira dos Santos,29.00,38.00,105,21,126
+Paulo Henrique de Oliveira Mendes,24.00,37.00,98,28.33,126.33
+Wellerson Clayton Braga Lisboa Reis,26.00,30.00,86,40,126
+Gabriel Henrique Alves Vieira,28.00,30.00,88,38,126
 Allynson Praxedes Soares,32.00,32.00,96,30,126
 Jairo Silva de Lima,22.00,37.00,96,30,126
 Josimar Tavares de Assumpcao Filho,30.00,33.00,96,30,126
-Gabriel Henrique Alves Vieira,28.00,30.00,88,38,126
-Wellerson Clayton Braga Lisboa Reis,26.00,30.00,86,40,126
+Luam Leiverton Pereira dos Santos,29.00,38.00,105,21,126
 Rogerio Pio Nunes,36.00,36.00,108,17.83,125.83
-Andre Ricardo Merat Junior,32.00,43.00,118,7.5,125.5
-Luis Carlos Kakimoto,34.00,40.00,114,11.5,125.5
-Lucas Manoel Rocha da Costa Magueta,28.00,40.00,108,17.5,125.5
-Andre Luis Leite Teixeira Costa,34.00,33.00,100,25.5,125.5
-Henrique Dias Freitas Oliveira,20.00,40.00,100,25.5,125.5
-Cesar de Sousa Arruda,32.00,32.00,96,29.5,125.5
 Adilson Souza Marques,26.00,31.00,88,37.5,125.5
 Carlos Augusto Gomes da Silva,24.00,32.00,88,37.5,125.5
-Alisson Viana Tome,34.00,38.00,110,15,125
-Danillo Jose Cezar Ribeiro,36.00,32.00,100,25,125
+Cesar de Sousa Arruda,32.00,32.00,96,29.5,125.5
+Andre Luis Leite Teixeira Costa,34.00,33.00,100,25.5,125.5
+Henrique Dias Freitas Oliveira,20.00,40.00,100,25.5,125.5
+Lucas Manoel Rocha da Costa Magueta,28.00,40.00,108,17.5,125.5
+Luis Carlos Kakimoto,34.00,40.00,114,11.5,125.5
+Andre Ricardo Merat Junior,32.00,43.00,118,7.5,125.5
+Bruno Jardim Pedrosa,34.00,24.00,82,43,125
+Marcio de Vasconcelos Xenofonte,24.00,32.00,88,37,125
+Joelson da Silva Dias,26.00,32.00,90,35,125
+Gustavo Arruda de Castro,32.00,30.00,92,33,125
 Alan Oliveira Baptista,29.00,33.00,95,30,125
 Michel Mendes Mello,23.00,36.00,95,30,125
-Gustavo Arruda de Castro,32.00,30.00,92,33,125
-Joelson da Silva Dias,26.00,32.00,90,35,125
-Marcio de Vasconcelos Xenofonte,24.00,32.00,88,37,125
-Bruno Jardim Pedrosa,34.00,24.00,82,43,125
-Caio Flavio Souza de Sena,22.00,38.00,98,26.67,124.67
+Danillo Jose Cezar Ribeiro,36.00,32.00,100,25,125
+Alisson Viana Tome,34.00,38.00,110,15,125
 Henrique de Abreu Piccolo,32.00,29.00,90,34.67,124.67
-Pablo Henrique Mendes Goncalves,28.00,37.00,102,22.5,124.5
-Claudio Roberto Celestino Junior,27.00,36.00,99,25.5,124.5
-Igor Alves Arantes,29.00,35.00,99,25.5,124.5
-Hender Larry Prato Caballero,32.00,30.00,92,32.5,124.5
+Caio Flavio Souza de Sena,22.00,38.00,98,26.67,124.67
+Ayllah Ahmad Lopes,30.00,26.00,82,42.5,124.5
+Hudson Costa Goncalves da Cruz,32.00,26.00,84,40.5,124.5
 Fernando Pinto Ferret,29.00,29.00,87,37.5,124.5
 Timeu Ferreira Oliveira,27.00,30.00,87,37.5,124.5
-Hudson Costa Goncalves da Cruz,32.00,26.00,84,40.5,124.5
-Ayllah Ahmad Lopes,30.00,26.00,82,42.5,124.5
-Leonardo Santiago Melgaco Silva,32.00,33.00,98,26.33,124.33
+Hender Larry Prato Caballero,32.00,30.00,92,32.5,124.5
+Claudio Roberto Celestino Junior,27.00,36.00,99,25.5,124.5
+Igor Alves Arantes,29.00,35.00,99,25.5,124.5
+Pablo Henrique Mendes Goncalves,28.00,37.00,102,22.5,124.5
 Leidiane do Nascimento Matias,36.00,26.00,88,36.33,124.33
-Lucas Duarte Soares,28.00,34.00,96,28,124
+Leonardo Santiago Melgaco Silva,32.00,33.00,98,26.33,124.33
+Danilo Gazoli Resende,30.00,27.00,84,40,124
 Adriana Pereira Rocha,28.00,33.00,94,30,124
 Bruno Saiki,22.00,36.00,94,30,124
 Camila Regina Furlan,28.00,33.00,94,30,124
 Rafael da Silva e Silva,26.00,34.00,94,30,124
-Danilo Gazoli Resende,30.00,27.00,84,40,124
-Frederico Luiz Strey,34.00,32.00,98,25.5,123.5
-Pedro Henrique Rocha de Oliveira,30.00,34.00,98,25.5,123.5
-Jose Elias Kershaw Neto,24.00,36.00,96,27.5,123.5
-Lidio Ribeiro dos Santos,26.00,35.00,96,27.5,123.5
-Luiz Butcher Accacio,22.00,34.00,90,33.5,123.5
-Patrick Oliveira Vieira Monteiro,33.00,27.00,87,36.5,123.5
+Lucas Duarte Soares,28.00,34.00,96,28,124
 Augusto Cesar da Silva Correa,28.00,29.00,86,37.5,123.5
 Lucas Starium Rempel,30.00,28.00,86,37.5,123.5
-Gustavo Luiz Taborda,28.00,30.00,88,35.33,123.33
+Patrick Oliveira Vieira Monteiro,33.00,27.00,87,36.5,123.5
+Luiz Butcher Accacio,22.00,34.00,90,33.5,123.5
+Jose Elias Kershaw Neto,24.00,36.00,96,27.5,123.5
+Lidio Ribeiro dos Santos,26.00,35.00,96,27.5,123.5
+Frederico Luiz Strey,34.00,32.00,98,25.5,123.5
+Pedro Henrique Rocha de Oliveira,30.00,34.00,98,25.5,123.5
 Andre de Andrade Pereira,33.00,24.00,81,42.33,123.33
-Flavio Carvalhaes Janini,40.00,38.00,116,7,123
-Robson de Carvalho,25.00,42.00,109,14,123
-Lucas Rafael Correa Abud,32.00,33.00,98,25,123
-Jose Jesse Goncalves,29.00,32.00,93,30,123
-Gabriel Rodrigues Galindo,24.00,33.00,90,33,123
-Amanda Cristina Fraga de Albuquerque,36.00,26.00,88,35,123
+Gustavo Luiz Taborda,28.00,30.00,88,35.33,123.33
 Vinicius Beserra Monteiro,33.00,26.00,85,38,123
+Amanda Cristina Fraga de Albuquerque,36.00,26.00,88,35,123
+Gabriel Rodrigues Galindo,24.00,33.00,90,33,123
+Jose Jesse Goncalves,29.00,32.00,93,30,123
+Lucas Rafael Correa Abud,32.00,33.00,98,25,123
+Robson de Carvalho,25.00,42.00,109,14,123
+Flavio Carvalhaes Janini,40.00,38.00,116,7,123
 Israel Barbara Stehling Pinto Coelho,24.00,32.00,88,34.67,122.67
-Jardel Brandon de Araujo Regis,24.00,34.00,92,30.5,122.5
-Paulo Francisco Souza Fegueredo,26.00,33.00,92,30.5,122.5
-Caio Cristhyan dos Santos Carvalho Silva,27.00,32.00,91,31.5,122.5
-Antonio Lages Floresta,32.00,29.00,90,32.5,122.5
-Herbert de Gusmao Tenorio,26.00,32.00,90,32.5,122.5
 Caio Simoes da Silva Ferreira,27.00,29.00,85,37.5,122.5
 Gustavo Petry da Rosa,29.00,28.00,85,37.5,122.5
-Marcio Antonio Araruna Leite de Araujo,26.00,40.00,106,16,122
-Mikael Alves Monteiro,36.00,34.00,104,18,122
+Antonio Lages Floresta,32.00,29.00,90,32.5,122.5
+Herbert de Gusmao Tenorio,26.00,32.00,90,32.5,122.5
+Caio Cristhyan dos Santos Carvalho Silva,27.00,32.00,91,31.5,122.5
+Jardel Brandon de Araujo Regis,24.00,34.00,92,30.5,122.5
+Paulo Francisco Souza Fegueredo,26.00,33.00,92,30.5,122.5
+Carlos Rithyellen de Souza Leal,35.00,26.00,87,35,122
+Mauro Emilio Spanazzi de Oliveira,31.00,29.00,89,33,122
 Bruno Rodrigues Goncalves,28.00,32.00,92,30,122
 Israel Silva de Souza,24.00,34.00,92,30,122
 Ivanei Ferreira Araujo,28.00,32.00,92,30,122
@@ -1993,373 +1993,373 @@ Joao Paulo Brandao Dantas,38.00,27.00,92,30,122
 Rafael Leal de Paula,26.00,33.00,92,30,122
 Sarah de Aguiar Maranhao,36.00,28.00,92,30,122
 Vitor Caixeta Fallieri Nascimento,40.00,26.00,92,30,122
-Mauro Emilio Spanazzi de Oliveira,31.00,29.00,89,33,122
-Carlos Rithyellen de Souza Leal,35.00,26.00,87,35,122
+Mikael Alves Monteiro,36.00,34.00,104,18,122
+Marcio Antonio Araruna Leite de Araujo,26.00,40.00,106,16,122
 Gleiviane Matos do Nascimento,22.00,36.00,94,27.83,121.83
 Davi Costa Macana,23.00,38.00,99,22.67,121.67
-Jonas Gomes Aguiar,26.00,41.00,108,13.5,121.5
-Micaella da Silva Teixeira Rodrigues,36.00,36.00,108,13.5,121.5
-Bruna Tatiane da Silva Oliveira,26.00,36.00,98,23.5,121.5
-Davisson Hudson Chaves Bernadete,26.00,36.00,98,23.5,121.5
+Lucas Vinicios Oliveira Filgueiras,30.00,27.00,84,37.5,121.5
+Nikolas Lukin,34.00,25.00,84,37.5,121.5
+Rodrigo da Silva Montes,35.00,27.00,89,32.5,121.5
+Francisco Segundo Veras Galvao Junior,27.00,34.00,95,26.5,121.5
 Andre Caetano Ferreira Nunes,34.00,31.00,96,25.5,121.5
 Iana Aragao Esmeraldo,38.00,29.00,96,25.5,121.5
 Thassio Augusto da Silva Santos,28.00,34.00,96,25.5,121.5
 Timoteo Dima Pereira,26.00,35.00,96,25.5,121.5
-Francisco Segundo Veras Galvao Junior,27.00,34.00,95,26.5,121.5
-Rodrigo da Silva Montes,35.00,27.00,89,32.5,121.5
-Lucas Vinicios Oliveira Filgueiras,30.00,27.00,84,37.5,121.5
-Nikolas Lukin,34.00,25.00,84,37.5,121.5
+Bruna Tatiane da Silva Oliveira,26.00,36.00,98,23.5,121.5
+Davisson Hudson Chaves Bernadete,26.00,36.00,98,23.5,121.5
+Jonas Gomes Aguiar,26.00,41.00,108,13.5,121.5
+Micaella da Silva Teixeira Rodrigues,36.00,36.00,108,13.5,121.5
 Daniel Santos Alves,28.00,40.00,108,13.33,121.33
-Marcos Raniere de Sousa Silva,21.00,43.00,107,14,121
-Victor Araujo Nunes,37.00,34.00,105,16,121
-Marcelo Hazin Cortez,24.00,38.00,100,21,121
+Fabio Odaguiri,34.00,26.00,86,35,121
 Caio Cesar de Oliveira Fernandes,35.00,28.00,91,30,121
 Isaac Sandrick da Silva Diniz,23.00,34.00,91,30,121
 Romullo Rommel Brandao Ferreira,25.00,33.00,91,30,121
-Fabio Odaguiri,34.00,26.00,86,35,121
-Miguel Porreca Ventura,34.00,30.00,94,26.67,120.67
-Gilva Pinheiro Ribeiro,26.00,30.00,86,34.67,120.67
+Marcelo Hazin Cortez,24.00,38.00,100,21,121
+Victor Araujo Nunes,37.00,34.00,105,16,121
+Marcos Raniere de Sousa Silva,21.00,43.00,107,14,121
 Douglas Machado Borges,38.00,22.00,82,38.67,120.67
-Ana Alice Agostinho Ribeiro da Costa,20.00,42.00,104,16.5,120.5
-Ivson de Assis Cavalcanti,22.00,38.00,98,22.5,120.5
-Jessica de Farias Pereira,30.00,32.00,94,26.5,120.5
-Antonio Jose Castro de Almeida Junior,32.00,28.00,88,32.5,120.5
-Lucas Otavio Vieira,31.00,27.00,85,35.5,120.5
+Gilva Pinheiro Ribeiro,26.00,30.00,86,34.67,120.67
+Miguel Porreca Ventura,34.00,30.00,94,26.67,120.67
 Tiago Cesario Barbosa,29.00,27.00,83,37.5,120.5
-Ricardo Lima Bandeira,27.00,40.00,107,13.33,120.33
+Lucas Otavio Vieira,31.00,27.00,85,35.5,120.5
+Antonio Jose Castro de Almeida Junior,32.00,28.00,88,32.5,120.5
+Jessica de Farias Pereira,30.00,32.00,94,26.5,120.5
+Ivson de Assis Cavalcanti,22.00,38.00,98,22.5,120.5
+Ana Alice Agostinho Ribeiro da Costa,20.00,42.00,104,16.5,120.5
 Patrick Akamine Pescara,27.00,38.00,103,17.33,120.33
-Fabio Vera Mello,30.00,36.00,102,18,120
-Mateus Mantoan de Almeida,18.00,42.00,102,18,120
-Marcelli Marinho Assumpcao,32.00,32.00,96,24,120
+Ricardo Lima Bandeira,27.00,40.00,107,13.33,120.33
+Guilherme Vinicius Valerio,32.00,24.00,80,40,120
 Fabio Ribeiro Leal,30.00,30.00,90,30,120
 Fabricio Luis Santos da Silva,30.00,30.00,90,30,120
 Luciane Neves Beppler,22.00,34.00,90,30,120
 Matheus Fernandes,38.00,26.00,90,30,120
-Guilherme Vinicius Valerio,32.00,24.00,80,40,120
+Marcelli Marinho Assumpcao,32.00,32.00,96,24,120
+Fabio Vera Mello,30.00,36.00,102,18,120
+Mateus Mantoan de Almeida,18.00,42.00,102,18,120
 Renato Vieira de Menezes,24.00,36.00,96,23.83,119.83
 Enaldo Correa da Silva,33.00,26.00,85,34.67,119.67
 Rebeca Rivas Costa de Albuquerque Silva,31.00,27.00,85,34.67,119.67
-Simon Pinheiro Mendes,16.00,44.00,104,15.5,119.5
-Diogo Lima Marques,34.00,34.00,102,17.5,119.5
-Guilherme Figueira Silva Gomes,22.00,38.00,98,21.5,119.5
-Gleyser Bomfim Guimaraes,22.00,36.00,94,25.5,119.5
 Silvia Andrade da Silveira,30.00,26.00,82,37.5,119.5
-Antonio Fabiano dos Santos Neri,31.00,32.00,95,24.33,119.33
+Gleyser Bomfim Guimaraes,22.00,36.00,94,25.5,119.5
+Guilherme Figueira Silva Gomes,22.00,38.00,98,21.5,119.5
+Diogo Lima Marques,34.00,34.00,102,17.5,119.5
+Simon Pinheiro Mendes,16.00,44.00,104,15.5,119.5
 Diego Luiz de Souza,40.00,22.00,84,35.33,119.33
 Juan David Silva Xavier,32.00,26.00,84,35.33,119.33
+Antonio Fabiano dos Santos Neri,31.00,32.00,95,24.33,119.33
 Glaucio Jose Moreira da Costa,20.00,38.00,96,23.17,119.17
-Matheus Vinicius Damasceno Lima,26.00,36.00,98,21,119
+Eduardo Correa de Oliveira,34.00,26.00,86,33,119
 Andreia de Almeida Fonseca,29.00,30.00,89,30,119
 Ramon Moraes Ribas Rosa,27.00,31.00,89,30,119
 Ribamiltom Bezerra de Lima,31.00,29.00,89,30,119
-Eduardo Correa de Oliveira,34.00,26.00,86,33,119
+Matheus Vinicius Damasceno Lima,26.00,36.00,98,21,119
 Lavoisier Oliveira Candido,32.00,25.00,82,36.83,118.83
 Ricardo Lemos de Souza,29.00,27.00,83,35.67,118.67
-Esdras Ornaghi Kutomi,35.00,35.00,105,13.5,118.5
-Lucas Leandro Andrade de Oliveira,16.00,40.00,96,22.5,118.5
-Walter Goncalves de Assis,37.00,27.00,91,27.5,118.5
 David Carlos Pereira da Cunha,30.00,28.00,86,32.5,118.5
+Walter Goncalves de Assis,37.00,27.00,91,27.5,118.5
+Lucas Leandro Andrade de Oliveira,16.00,40.00,96,22.5,118.5
+Esdras Ornaghi Kutomi,35.00,35.00,105,13.5,118.5
 Italo Santana Barboza,29.00,30.00,89,29.33,118.33
-Helio Kazutomi Fugie,26.00,40.00,106,12,118
-Rodrigo Machado da Silva,24.00,37.00,98,20,118
-Thiago Barreto Alves,21.00,35.00,91,27,118
+Juliana Xavier Batista de Queiroz Lima,25.00,31.00,87,31,118
 Bruna Flores de Menezes Fernandes,30.00,29.00,88,30,118
 Francisco Jefferson da Silva dos Santos,34.00,27.00,88,30,118
 Leonardo Inacio da Silva,28.00,30.00,88,30,118
 Lohanna Aires Saraiva,24.00,32.00,88,30,118
 Raimundo de Sousa Lima Filho,32.00,28.00,88,30,118
-Juliana Xavier Batista de Queiroz Lima,25.00,31.00,87,31,118
-Jose Giovani dos Santos Oliveira,16.00,46.00,108,9.5,117.5
-Iverson Vasconcelos Teixeira de Freitas,26.00,40.00,106,11.5,117.5
-Pericles Manica,22.00,36.00,94,23.5,117.5
+Thiago Barreto Alves,21.00,35.00,91,27,118
+Rodrigo Machado da Silva,24.00,37.00,98,20,118
+Helio Kazutomi Fugie,26.00,40.00,106,12,118
 Aron Souza Chula,34.00,24.00,82,35.5,117.5
-Luis Gustavo Alves Silva,26.00,42.00,110,7,117
-Herlisson Jordane Moreira,16.00,40.00,96,21,117
-Jorge Gervasio Pereira,28.00,34.00,96,21,117
-Larissa Isabelle Rodrigues e Silva,32.00,32.00,96,21,117
-Victor Misael Brito Fenelon Carneiro,24.00,36.00,96,21,117
-Giordano Bruno Sanches Seco,26.00,32.00,90,27,117
+Pericles Manica,22.00,36.00,94,23.5,117.5
+Iverson Vasconcelos Teixeira de Freitas,26.00,40.00,106,11.5,117.5
+Jose Giovani dos Santos Oliveira,16.00,46.00,108,9.5,117.5
+Lucas dos Santos Sousa,28.00,28.00,84,33,117
+Patricia Helena Soares Medeiros,36.00,24.00,84,33,117
 Andre Luiz Guimaraes di Giaimo Moraes,31.00,28.00,87,30,117
 Danillo de Sousa Fiorenza,33.00,27.00,87,30,117
 Rafael Machado Ferreira,31.00,28.00,87,30,117
 Wallisson Freitas de Souza,29.00,29.00,87,30,117
-Lucas dos Santos Sousa,28.00,28.00,84,33,117
-Patricia Helena Soares Medeiros,36.00,24.00,84,33,117
+Giordano Bruno Sanches Seco,26.00,32.00,90,27,117
+Herlisson Jordane Moreira,16.00,40.00,96,21,117
+Jorge Gervasio Pereira,28.00,34.00,96,21,117
+Larissa Isabelle Rodrigues e Silva,32.00,32.00,96,21,117
+Victor Misael Brito Fenelon Carneiro,24.00,36.00,96,21,117
+Luis Gustavo Alves Silva,26.00,42.00,110,7,117
 Paulo Henrique Terra,24.00,32.00,88,28.67,116.67
-Samuel Vieira de Oliveira,24.00,38.00,100,16.5,116.5
-Ronaldo Jose de Souza Silva,22.00,36.00,94,22.5,116.5
-Felipe Monteiro Costa,32.00,30.00,92,24.5,116.5
-Osvaldo de Assis Netto,21.00,35.00,91,25.5,116.5
 Eileen Lima Ribeiro,35.00,22.00,79,37.5,116.5
+Osvaldo de Assis Netto,21.00,35.00,91,25.5,116.5
+Felipe Monteiro Costa,32.00,30.00,92,24.5,116.5
+Ronaldo Jose de Souza Silva,22.00,36.00,94,22.5,116.5
+Samuel Vieira de Oliveira,24.00,38.00,100,16.5,116.5
 Wagner Augusto da Silva,34.00,24.00,82,34.33,116.33
 Wagner da Silva Ferreira,29.00,29.00,87,29.17,116.17
-Pedro Augusto de Jesus da Silva,33.00,38.00,109,7,116
-Francisco Antonio Lopes de Farias,24.00,38.00,100,16,116
+Welber Jose de Souza,27.00,29.00,85,31,116
 Neilor Faria de Moraes,26.00,30.00,86,30,116
 Willian Taiguara Baliza Moura,30.00,28.00,86,30,116
-Welber Jose de Souza,27.00,29.00,85,31,116
+Francisco Antonio Lopes de Farias,24.00,38.00,100,16,116
+Pedro Augusto de Jesus da Silva,33.00,38.00,109,7,116
 Vinicius Parmeggiani Vianna,32.00,29.00,90,25.83,115.83
-Rodrigo Linhares Monteiro,34.00,32.00,98,17.5,115.5
-Marcelo Alvares,39.00,27.00,93,22.5,115.5
-Tiago Maciel da Silva,30.00,30.00,90,25.5,115.5
+Andressa Fernandes Fagundes Duarte,36.00,20.00,76,39.5,115.5
+Sonia Elisabeth de Oliveira Meneses,33.00,26.00,85,30.5,115.5
 Diocleciano Dantas Neto,29.00,29.00,87,28.5,115.5
 Felipe Tiburcio de Araujo,27.00,30.00,87,28.5,115.5
-Sonia Elisabeth de Oliveira Meneses,33.00,26.00,85,30.5,115.5
-Andressa Fernandes Fagundes Duarte,36.00,20.00,76,39.5,115.5
+Tiago Maciel da Silva,30.00,30.00,90,25.5,115.5
+Marcelo Alvares,39.00,27.00,93,22.5,115.5
+Rodrigo Linhares Monteiro,34.00,32.00,98,17.5,115.5
 Isaac Almeida da Silva Filho,31.00,29.00,89,26.33,115.33
-Manoel Eleuterio,34.00,28.00,90,25,115
-Miguel Caldas Del Duca,32.00,28.00,88,27,115
-Pedro Kajewski Junior,29.00,28.00,85,30,115
-Fernanda de Brito Berla,30.00,27.00,84,31,115
 Adonias Junior de Albuquerque Mattos,31.00,25.00,81,34,115
-Deivid Jose Smek,29.00,39.00,107,7.5,114.5
-Thales de Assis Trindade,32.00,34.00,100,14.5,114.5
+Fernanda de Brito Berla,30.00,27.00,84,31,115
+Pedro Kajewski Junior,29.00,28.00,85,30,115
+Miguel Caldas Del Duca,32.00,28.00,88,27,115
+Manoel Eleuterio,34.00,28.00,90,25,115
+Yasmim Gomes da Silva Reinert,29.00,30.00,89,25.5,114.5
 Antonio Guilherme Rodrigues Araujo,22.00,38.00,98,16.5,114.5
 Jose Fernando Pereira,30.00,34.00,98,16.5,114.5
 Oberdan Herculano de Azevedo,22.00,38.00,98,16.5,114.5
-Yasmim Gomes da Silva Reinert,29.00,30.00,89,25.5,114.5
+Thales de Assis Trindade,32.00,34.00,100,14.5,114.5
+Deivid Jose Smek,29.00,39.00,107,7.5,114.5
 Bruno Bode do Nascimento,32.00,24.00,80,34.17,114.17
-Jonatas Ayumi Suzuki,28.00,38.00,104,10,114
-Lucas Levi Arry,25.00,36.00,97,17,114
-Andre Luiz Teixeira Lopes,16.00,40.00,96,18,114
-Jose Raul Montalvao de Oliveira,31.00,30.00,91,23,114
-Andre Luis Goncalves da Costa,34.00,28.00,90,24,114
-Vinicius de Sa Behring,34.00,26.00,86,28,114
 Bruno Henrique Brito Lopes,32.00,26.00,84,30,114
 Gustavo Deininger Evangelista,28.00,28.00,84,30,114
-Gustavo dos Santos Barbosa Lima,32.00,34.00,100,13.5,113.5
-Arthur Lima Camargos,36.00,30.00,96,17.5,113.5
-Andre Vaz Braga,26.00,32.00,90,23.5,113.5
-Pedro Guterres Lohmann,26.00,31.00,88,25.5,113.5
+Vinicius de Sa Behring,34.00,26.00,86,28,114
+Andre Luis Goncalves da Costa,34.00,28.00,90,24,114
+Jose Raul Montalvao de Oliveira,31.00,30.00,91,23,114
+Andre Luiz Teixeira Lopes,16.00,40.00,96,18,114
+Lucas Levi Arry,25.00,36.00,97,17,114
+Jonatas Ayumi Suzuki,28.00,38.00,104,10,114
 Ivana Bomfim Brito,27.00,30.00,87,26.5,113.5
+Pedro Guterres Lohmann,26.00,31.00,88,25.5,113.5
+Andre Vaz Braga,26.00,32.00,90,23.5,113.5
+Arthur Lima Camargos,36.00,30.00,96,17.5,113.5
+Gustavo dos Santos Barbosa Lima,32.00,34.00,100,13.5,113.5
 Neivaldo Marcos Dias de Moraes Junior,36.00,31.00,98,15.17,113.17
-Lucas Barbosa de Oliveira,32.00,36.00,104,9,113
-Giovanna Trigueiro de Almeida Araujo,29.00,33.00,95,18,113
-Milene Gabrielle de Faria,27.00,32.00,91,22,113
-Ana Luiza Luiz Carvalho,26.00,32.00,90,23,113
 Danilo Santos de Oliveira,33.00,25.00,83,30,113
 Elton Henrique Alves Cruz,31.00,26.00,83,30,113
 Luan Lopes dos Santos,33.00,25.00,83,30,113
 Valeria Rocha Gusmao,31.00,26.00,83,30,113
-Iago Lins de Medeiros,29.00,34.00,97,15.5,112.5
-Henrymarks Galeno de Menezes,28.00,32.00,92,20.5,112.5
-Leonardo Guimaraes de Holanda,28.00,30.00,88,24.5,112.5
+Ana Luiza Luiz Carvalho,26.00,32.00,90,23,113
+Milene Gabrielle de Faria,27.00,32.00,91,22,113
+Giovanna Trigueiro de Almeida Araujo,29.00,33.00,95,18,113
+Lucas Barbosa de Oliveira,32.00,36.00,104,9,113
 Dilan de Araujo Teixeira,29.00,28.00,85,27.5,112.5
-Nicoly da Silva Menezes,22.00,35.00,92,20.33,112.33
-Joao Carreira de Oliveira e Mello,27.00,31.00,89,23.33,112.33
+Leonardo Guimaraes de Holanda,28.00,30.00,88,24.5,112.5
+Henrymarks Galeno de Menezes,28.00,32.00,92,20.5,112.5
+Iago Lins de Medeiros,29.00,34.00,97,15.5,112.5
 Ana Beatriz Pereira Lima,26.00,30.00,86,26.33,112.33
-Vitor Santos da Silva,28.00,36.00,100,12,112
-Fernando Krik Antunes de Lima,35.00,31.00,97,15,112
-Andre Luiz Santos de Paula,18.00,38.00,94,18,112
-Itallo Barbosa Viana,22.00,36.00,94,18,112
-Rodrigo de Oliveira Santos,33.00,29.00,91,21,112
-Vinicius Dobbs Pimenta,29.00,30.00,89,23,112
-Thales Henrique Gomes Lobato,28.00,30.00,88,24,112
-Vinicius Santana de Lima,27.00,30.00,87,25,112
+Joao Carreira de Oliveira e Mello,27.00,31.00,89,23.33,112.33
+Nicoly da Silva Menezes,22.00,35.00,92,20.33,112.33
 Luiz Carlos Carchedi,30.00,26.00,82,30,112
 Wanderley Ribeiro de Souza Junior,32.00,25.00,82,30,112
+Vinicius Santana de Lima,27.00,30.00,87,25,112
+Thales Henrique Gomes Lobato,28.00,30.00,88,24,112
+Vinicius Dobbs Pimenta,29.00,30.00,89,23,112
+Rodrigo de Oliveira Santos,33.00,29.00,91,21,112
+Andre Luiz Santos de Paula,18.00,38.00,94,18,112
+Itallo Barbosa Viana,22.00,36.00,94,18,112
+Fernando Krik Antunes de Lima,35.00,31.00,97,15,112
+Vitor Santos da Silva,28.00,36.00,100,12,112
 Thayanna Klysnney Moreira Nunes,31.00,25.00,81,30.83,111.83
-Austerli Nunes Vieira,32.00,36.00,104,7.5,111.5
-Lucas Renatho Gomes de Pontes,35.00,32.00,99,12.5,111.5
-Jade Furtado Monteiro,38.00,30.00,98,13.5,111.5
-Aciria Borges Alves Rufino,33.00,31.00,95,16.5,111.5
-Isac Ferreira Celestino,18.00,38.00,94,17.5,111.5
-Mario Henrique Leao Burle,31.00,31.00,93,18.5,111.5
-Monique de Aguiar Mendes,36.00,28.00,92,19.5,111.5
 Lucas Seixas Dias,30.00,28.00,86,25.5,111.5
 Oswaldo Goncalves dos Santos Filho,36.00,25.00,86,25.5,111.5
 Samir Alcantara Belfort Santos,30.00,28.00,86,25.5,111.5
+Monique de Aguiar Mendes,36.00,28.00,92,19.5,111.5
+Mario Henrique Leao Burle,31.00,31.00,93,18.5,111.5
+Isac Ferreira Celestino,18.00,38.00,94,17.5,111.5
+Aciria Borges Alves Rufino,33.00,31.00,95,16.5,111.5
+Jade Furtado Monteiro,38.00,30.00,98,13.5,111.5
+Lucas Renatho Gomes de Pontes,35.00,32.00,99,12.5,111.5
+Austerli Nunes Vieira,32.00,36.00,104,7.5,111.5
 Victor Moreira Negrelli,22.00,36.00,94,17.33,111.33
 Klark Gable Souza Porto,30.00,36.00,102,9,111
 Gabriel Carlos de Souza Santos,34.00,27.00,88,22.83,110.83
-Cassiano da Silva Carvalho,26.00,36.00,98,12.5,110.5
-Luna Costa Vasconcelos,29.00,34.00,97,13.5,110.5
 Vanuza Teixeira,30.00,30.00,90,20.5,110.5
-Felipe Rocha Borelli,41.00,32.00,105,5,110
-Marivone Vieira Pereira de Araujo,29.00,36.00,101,9,110
-Marlon Wanderson Martins Mesquita,28.00,36.00,100,10,110
-Gustavo Henrique Xavier Lima,30.00,30.00,90,20,110
+Luna Costa Vasconcelos,29.00,34.00,97,13.5,110.5
+Cassiano da Silva Carvalho,26.00,36.00,98,12.5,110.5
 Ana Lidia de Souza Pelais,29.00,30.00,89,21,110
 Joao Henrique Peters Heringer,23.00,33.00,89,21,110
+Gustavo Henrique Xavier Lima,30.00,30.00,90,20,110
+Marlon Wanderson Martins Mesquita,28.00,36.00,100,10,110
+Marivone Vieira Pereira de Araujo,29.00,36.00,101,9,110
+Felipe Rocha Borelli,41.00,32.00,105,5,110
+Julia do Nascimento Pereira Nogueira,38.00,23.00,84,25.5,109.5
+Fernando Lucas dos Santos Araujo,23.00,35.00,93,16.5,109.5
+Marcel Shindy Ichie,29.00,34.00,97,12.5,109.5
 Lucas Belizario Faria,32.00,35.00,102,7.5,109.5
 Sergio Murillo dos Santos Dias,22.00,40.00,102,7.5,109.5
-Marcel Shindy Ichie,29.00,34.00,97,12.5,109.5
-Fernando Lucas dos Santos Araujo,23.00,35.00,93,16.5,109.5
-Julia do Nascimento Pereira Nogueira,38.00,23.00,84,25.5,109.5
-Maria Isis Santos e Santos,33.00,32.00,97,12,109
-Frederico Rodarte,26.00,34.00,94,15,109
-Paulo Victor Silveira de Oliveira,33.00,30.00,93,16,109
 Debora Dalva do Nascimento,24.00,32.00,88,21,109
+Paulo Victor Silveira de Oliveira,33.00,30.00,93,16,109
+Frederico Rodarte,26.00,34.00,94,15,109
+Maria Isis Santos e Santos,33.00,32.00,97,12,109
 Raone Victor da Cunha,29.00,28.00,85,23.83,108.83
 Natanael Cunha Freitas,22.00,34.00,90,18.67,108.67
+Luma Chen da Fonseca,29.00,27.00,83,25.5,108.5
+Edson Silva Fonseca Junior,26.00,30.00,86,22.5,108.5
+Leandro Sidnei Immich,43.00,24.00,91,17.5,108.5
 Gabryel Marcal de Almeida,33.00,31.00,95,13.5,108.5
 Rogerio Ferraz Garcia de Andrade,33.00,31.00,95,13.5,108.5
-Leandro Sidnei Immich,43.00,24.00,91,17.5,108.5
-Edson Silva Fonseca Junior,26.00,30.00,86,22.5,108.5
-Luma Chen da Fonseca,29.00,27.00,83,25.5,108.5
-Jouber Gomes da Silva Santos,18.00,39.00,96,12,108
 Lucas Alves Rodrigues de Barros,34.00,22.00,78,30,108
-Guilherme Otto Barloesius Pimentel,34.00,26.00,86,21.83,107.83
+Jouber Gomes da Silva Santos,18.00,39.00,96,12,108
 Marcus Siqueira Coutinho,27.00,29.00,85,22.83,107.83
-Leonardo da Silva Junior,24.00,38.00,100,7.5,107.5
-Helder Manoel Lima e Silva,26.00,34.00,94,13.5,107.5
-Rodolfo da Silva Alves,31.00,29.00,89,18.5,107.5
-Eduardo Pinto Barbosa,25.00,31.00,87,20.5,107.5
+Guilherme Otto Barloesius Pimentel,34.00,26.00,86,21.83,107.83
 Thiago Polycarpo Abreu de Oliveira,27.00,29.00,85,22.5,107.5
+Eduardo Pinto Barbosa,25.00,31.00,87,20.5,107.5
+Rodolfo da Silva Alves,31.00,29.00,89,18.5,107.5
+Helder Manoel Lima e Silva,26.00,34.00,94,13.5,107.5
+Leonardo da Silva Junior,24.00,38.00,100,7.5,107.5
 Everton Nata Diniz Lima,30.00,30.00,90,17.33,107.33
-Flavio Kyoshi Saito,34.00,33.00,100,7,107
-Karlo Davi Stalleiken Martins Cortat,30.00,34.00,98,9,107
-Emersom Silva Ribeiro,22.00,35.00,92,15,107
-Jose Ramos Damasceno Filho,28.00,32.00,92,15,107
-Silvia Schwanz Lucas,20.00,36.00,92,15,107
-Jose Luiz Barbosa de Oliveira Santos,27.00,32.00,91,16,107
-Julio Pancracio Valim,27.00,31.00,89,18,107
+Jessica Dias da Silva,30.00,26.00,82,25,107
 Fabio de Castro Leite,26.00,30.00,86,21,107
 Juliana Fernandes Dal Piaz,34.00,26.00,86,21,107
 Samara Sonale Santos Sampaio,28.00,29.00,86,21,107
-Jessica Dias da Silva,30.00,26.00,82,25,107
-Cristiano Juvencio Pereira Neto,24.00,39.00,102,4.5,106.5
-Leandro Rangel da Silva,35.00,32.00,99,7.5,106.5
-Adelaide da Silva Carvalho Brosig,28.00,33.00,94,12.5,106.5
-Mariana Rodrigues de Souza,27.00,33.00,93,13.5,106.5
+Julio Pancracio Valim,27.00,31.00,89,18,107
+Jose Luiz Barbosa de Oliveira Santos,27.00,32.00,91,16,107
+Emersom Silva Ribeiro,22.00,35.00,92,15,107
+Jose Ramos Damasceno Filho,28.00,32.00,92,15,107
+Silvia Schwanz Lucas,20.00,36.00,92,15,107
+Karlo Davi Stalleiken Martins Cortat,30.00,34.00,98,9,107
+Flavio Kyoshi Saito,34.00,33.00,100,7,107
 Pedro Oliveira Simoes,28.00,28.00,84,22.5,106.5
+Mariana Rodrigues de Souza,27.00,33.00,93,13.5,106.5
+Adelaide da Silva Carvalho Brosig,28.00,33.00,94,12.5,106.5
+Leandro Rangel da Silva,35.00,32.00,99,7.5,106.5
+Cristiano Juvencio Pereira Neto,24.00,39.00,102,4.5,106.5
 Tiago Lopes,25.00,34.00,93,13.17,106.17
-Danilo William dos Reis Socorro,20.00,38.00,96,10,106
-Giovane Gomes Silva,18.00,38.00,94,12,106
-Silas Marcos da Gloria Pereira,26.00,32.00,90,16,106
-Thiago Marques de Rezende Ribeiro,24.00,32.00,88,18,106
 Isabela Alcoforado de Carvalho,32.00,25.00,82,24,106
+Thiago Marques de Rezende Ribeiro,24.00,32.00,88,18,106
+Silas Marcos da Gloria Pereira,26.00,32.00,90,16,106
+Giovane Gomes Silva,18.00,38.00,94,12,106
+Danilo William dos Reis Socorro,20.00,38.00,96,10,106
+Luiz Guilherme Cavalleri Carneiro Lobo,32.00,24.00,80,25.5,105.5
+Anderson Wagner Dias de Souza,33.00,24.00,81,24.5,105.5
+Antonio Rosenilson de Souza,20.00,36.00,92,13.5,105.5
 Joao Rafael Duarte Pereira,22.00,38.00,98,7.5,105.5
 Renan Roberto Muller,22.00,38.00,98,7.5,105.5
-Antonio Rosenilson de Souza,20.00,36.00,92,13.5,105.5
-Anderson Wagner Dias de Souza,33.00,24.00,81,24.5,105.5
-Luiz Guilherme Cavalleri Carneiro Lobo,32.00,24.00,80,25.5,105.5
 Leonardo Lopes de Souza,36.00,28.00,92,13.33,105.33
-Marcelo Henrique Vinci Borges,35.00,29.00,93,12,105
 Mauricio Emanuel Dourado Cescato,32.00,25.00,82,23,105
-Pedro Marcos Gomes de Moura,27.00,32.00,91,13.5,104.5
+Marcelo Henrique Vinci Borges,35.00,29.00,93,12,105
 Raelson de Abreu Araujo,28.00,30.00,88,16.5,104.5
-Jakelyne Oliveira Santos Lyra,16.00,40.00,96,8,104
-Marcelo Reis de Paula,34.00,30.00,94,10,104
-Arthur Lapa Medeiros,29.00,30.00,89,15,104
+Pedro Marcos Gomes de Moura,27.00,32.00,91,13.5,104.5
 Priscilla Barbosa Morais,28.00,28.00,84,20,104
-Eduardo Soares de Sampaio,33.00,27.00,87,16.5,103.5
+Arthur Lapa Medeiros,29.00,30.00,89,15,104
+Marcelo Reis de Paula,34.00,30.00,94,10,104
+Jakelyne Oliveira Santos Lyra,16.00,40.00,96,8,104
 Alexandro Paulo da Silva,35.00,23.00,81,22.5,103.5
+Eduardo Soares de Sampaio,33.00,27.00,87,16.5,103.5
+Victor Jose Rogel Carneiro,36.00,23.00,82,21,103
+Clovis Roberto Rincon de Veras,31.00,26.00,83,20,103
 Debora de Farias Fidelis,26.00,34.00,94,9,103
 Jose Samuel Cavalcante de Souza,18.00,38.00,94,9,103
 Leonardo Laurindo do Nascimento,34.00,30.00,94,9,103
-Clovis Roberto Rincon de Veras,31.00,26.00,83,20,103
-Victor Jose Rogel Carneiro,36.00,23.00,82,21,103
-Mariana Aparecida da Silva dos Santos,20.00,40.00,100,2.5,102.5
+Henrique Perrella Brito,38.00,20.00,78,24.5,102.5
+Danilo Pinheiro Coelho,34.00,26.00,86,16.5,102.5
+Thiago Mitchel da Silva,24.00,34.00,92,10.5,102.5
+Guilherme Vitorino da Silva,21.00,37.00,95,7.5,102.5
 Cris Henrique Silva,14.00,42.00,98,4.5,102.5
 Elton da Silva Freitas,26.00,36.00,98,4.5,102.5
 George dos Santos Goulart,14.00,42.00,98,4.5,102.5
-Guilherme Vitorino da Silva,21.00,37.00,95,7.5,102.5
-Thiago Mitchel da Silva,24.00,34.00,92,10.5,102.5
-Danilo Pinheiro Coelho,34.00,26.00,86,16.5,102.5
-Henrique Perrella Brito,38.00,20.00,78,24.5,102.5
-Bruno Salgado Neves,20.00,37.00,94,8,102
-Alex Masson Sandrim,29.00,32.00,93,9,102
-Guilherme Furtado Gouvea Pedrinha Carlos,29.00,29.00,87,15,102
+Mariana Aparecida da Silva dos Santos,20.00,40.00,100,2.5,102.5
 Felipe Gomes da Silva,34.00,25.00,84,18,102
+Guilherme Furtado Gouvea Pedrinha Carlos,29.00,29.00,87,15,102
+Alex Masson Sandrim,29.00,32.00,93,9,102
+Bruno Salgado Neves,20.00,37.00,94,8,102
 Paulo Cesar Correia Guedes Mesquita,22.00,35.00,92,9.83,101.83
-Arthur Moura de Arruda,33.00,32.00,97,4.5,101.5
+Ivens Martins Goes,32.00,28.00,88,13.5,101.5
+Alexandre Prates Regattieri,25.00,32.00,89,12.5,101.5
+Adam de Medeiros Lima,22.00,34.00,90,11.5,101.5
+Felipe de Souza Pereira,22.00,34.00,90,11.5,101.5
 Guilherme Barbosa Ratola,26.00,34.00,94,7.5,101.5
 Mateus Queiroz Melo,26.00,34.00,94,7.5,101.5
 Vivian Daniely Menezes Paes da Silva,34.00,30.00,94,7.5,101.5
-Adam de Medeiros Lima,22.00,34.00,90,11.5,101.5
-Felipe de Souza Pereira,22.00,34.00,90,11.5,101.5
-Alexandre Prates Regattieri,25.00,32.00,89,12.5,101.5
-Ivens Martins Goes,32.00,28.00,88,13.5,101.5
+Arthur Moura de Arruda,33.00,32.00,97,4.5,101.5
 Joao Ricardo Alves de Paula,24.00,32.00,88,13.33,101.33
-Jose Caetano Beuker,24.00,35.00,94,7,101
-Alberto Klamt da Conceicao,32.00,30.00,92,9,101
-Andre Schaffer da Rosa,30.00,28.00,86,15,101
 Lorrayne Mara Costa da Silva,27.00,29.00,85,16,101
+Andre Schaffer da Rosa,30.00,28.00,86,15,101
+Alberto Klamt da Conceicao,32.00,30.00,92,9,101
+Jose Caetano Beuker,24.00,35.00,94,7,101
 Allan Michell Soares de Almeida,24.00,32.00,88,12.83,100.83
-Diego Alex Magalhaes Lima,26.00,36.00,98,2.5,100.5
+Matheus de Azevedo Feitosa Juca de Araujo,32.00,25.00,82,18.5,100.5
+Valtair Ribeiro da Silva,30.00,30.00,90,10.5,100.5
 Liliane Vieira Lopes,24.00,36.00,96,4.5,100.5
 Pedro Henrique Estumano Gomes,38.00,29.00,96,4.5,100.5
-Valtair Ribeiro da Silva,30.00,30.00,90,10.5,100.5
-Matheus de Azevedo Feitosa Juca de Araujo,32.00,25.00,82,18.5,100.5
+Diego Alex Magalhaes Lima,26.00,36.00,98,2.5,100.5
 Arthur dos Santos Vale,27.00,30.00,87,13.33,100.33
-Roberto Marcio Cavalcanti da Costa,25.00,34.00,93,7,100
-Vanessa Aparecida Sgariboldi,20.00,36.00,92,8,100
 Emanuella Gomes Ribeiro,32.00,28.00,88,12,100
-Felipe Dantas Barboza,32.00,30.00,92,7.5,99.5
+Vanessa Aparecida Sgariboldi,20.00,36.00,92,8,100
+Roberto Marcio Cavalcanti da Costa,25.00,34.00,93,7,100
 Matheus Bezerra Eiras da Silva,26.00,30.00,86,13.5,99.5
 Renato Aparecido dos Santos Junior,30.00,28.00,86,13.5,99.5
+Felipe Dantas Barboza,32.00,30.00,92,7.5,99.5
+Pedro Paulo Silva Pereira,24.00,33.00,90,9,99
+Flavio da Silva Sales,21.00,35.00,91,8,99
 Andre Rodrigues dos Santos,18.00,38.00,94,5,99
 Matheus Costa dos Santos,18.00,38.00,94,5,99
-Flavio da Silva Sales,21.00,35.00,91,8,99
-Pedro Paulo Silva Pereira,24.00,33.00,90,9,99
-Victor Daniel Gomes,30.00,32.00,94,4.5,98.5
 Julio Henrique Hartmnn,34.00,24.00,82,16.5,98.5
+Victor Daniel Gomes,30.00,32.00,94,4.5,98.5
 Natanael Gomes Marinho,31.00,26.00,83,15.33,98.33
-Edson dos Santos Araujo,21.00,35.00,91,7,98
-Tatiane Dobrzanski,24.00,33.00,90,8,98
-Jefferson Domingues,23.00,33.00,89,9,98
 Mariana Dantas dos Santos,30.00,28.00,86,12,98
+Jefferson Domingues,23.00,33.00,89,9,98
+Tatiane Dobrzanski,24.00,33.00,90,8,98
+Edson dos Santos Araujo,21.00,35.00,91,7,98
 Jairo Fiuza Pereira,23.00,35.00,93,4.5,97.5
 Gabriel do Carmo Sousa,32.00,24.00,80,17.33,97.33
-Marcio Jose de Avila Gomes,27.00,29.00,85,12,97
 Joao Roberto de Albuquerque Guimaraes,36.00,20.00,76,21,97
-Rigo Kaluwa Munkamba,20.00,37.00,94,2.5,96.5
-Rogerio Lopes Gomes de Oliveira,22.00,36.00,94,2.5,96.5
+Marcio Jose de Avila Gomes,27.00,29.00,85,12,97
+Samuel Queiroga de Almeida,29.00,27.00,83,13.5,96.5
+Rafael Klebson dos Santos Melo,33.00,28.00,89,7.5,96.5
 Alexandre Alves,22.00,35.00,92,4.5,96.5
 Fernanda Aparecida Sallai Pennella,20.00,36.00,92,4.5,96.5
-Rafael Klebson dos Santos Melo,33.00,28.00,89,7.5,96.5
-Samuel Queiroga de Almeida,29.00,27.00,83,13.5,96.5
+Rigo Kaluwa Munkamba,20.00,37.00,94,2.5,96.5
+Rogerio Lopes Gomes de Oliveira,22.00,36.00,94,2.5,96.5
 Jordana Carolina Gondim Goncalves,27.00,29.00,85,10.67,95.67
+Luiz Felipe Sales Macedo Barbosa,36.00,21.00,78,17.5,95.5
+Luanna Ferreira de Paula,30.00,26.00,82,13.5,95.5
+Marcelo Vieira da Silva,28.00,30.00,88,7.5,95.5
 Rafael Campello de Oliveira Soares Basto,31.00,30.00,91,4.5,95.5
 Victor Bruno Guedes Teles,21.00,35.00,91,4.5,95.5
-Marcelo Vieira da Silva,28.00,30.00,88,7.5,95.5
-Luanna Ferreira de Paula,30.00,26.00,82,13.5,95.5
-Luiz Felipe Sales Macedo Barbosa,36.00,21.00,78,17.5,95.5
-Givaldo Manoel Marques dos Santos,26.00,32.00,90,5,95
-Isabelle Dias Ribeiro Silva,34.00,28.00,90,5,95
+Petrus Borges Vieira,32.00,24.00,80,15,95
 Aline Rodrigues da Cruz,26.00,30.00,86,9,95
 Danuzia Canuto Lima,26.00,30.00,86,9,95
 Kayo Matheus Santiago Carneiro,34.00,26.00,86,9,95
 Rui Gilberto Staats,30.00,28.00,86,9,95
-Petrus Borges Vieira,32.00,24.00,80,15,95
+Givaldo Manoel Marques dos Santos,26.00,32.00,90,5,95
+Isabelle Dias Ribeiro Silva,34.00,28.00,90,5,95
+Amanda Vieira Marques,27.00,30.00,87,7.5,94.5
+Diego Choinski Wegner,27.00,30.00,87,7.5,94.5
 Arnaldo Ferreira da Costa,26.00,32.00,90,4.5,94.5
 Ludmylla Pereira de Souza Valadares,26.00,32.00,90,4.5,94.5
 Savyo Arantes Silva Landy,22.00,34.00,90,4.5,94.5
-Amanda Vieira Marques,27.00,30.00,87,7.5,94.5
-Diego Choinski Wegner,27.00,30.00,87,7.5,94.5
 Gilberto Braz dos Santos,25.00,32.00,89,5.33,94.33
 Jonas Jose Carneiro Bezerra de Jesus,27.00,29.00,85,9,94
-Bianca Alves Moretto,27.00,31.00,89,4.5,93.5
 Ricardo Luiz Brito da Silva,26.00,30.00,86,7.5,93.5
 Ronaldo Siqueira de Carvalho Junior,26.00,30.00,86,7.5,93.5
+Bianca Alves Moretto,27.00,31.00,89,4.5,93.5
 Anna Paula Barros Ferreira,24.00,32.00,88,5.33,93.33
 Mariana Albuquerque de Oliveira Arede,30.00,29.00,88,5.33,93.33
-Rafael Pedro Marchor Karvat Palivoda,30.00,28.00,86,7,93
 Deise Hikari Inakura,28.00,28.00,84,9,93
 Marcelo Seixas Muzitano,32.00,26.00,84,9,93
 Victor Lopes Dias Ferreira,38.00,23.00,84,9,93
-Daniel Ramos Costa,32.00,29.00,90,2.5,92.5
-Elias de Camargo Murat,22.00,34.00,90,2.5,92.5
+Rafael Pedro Marchor Karvat Palivoda,30.00,28.00,86,7,93
+Ynayara Colares de Lima,37.00,21.00,79,13.5,92.5
+Bruna Couto Molinar Henrique,33.00,26.00,85,7.5,92.5
+Mauro Costa da Silva Filho,33.00,26.00,85,7.5,92.5
 David Severo do Nascimento Junior,28.00,30.00,88,4.5,92.5
 Silvaney Sousa Dias,28.00,30.00,88,4.5,92.5
 Tiago Almeida Negry,32.00,28.00,88,4.5,92.5
-Bruna Couto Molinar Henrique,33.00,26.00,85,7.5,92.5
-Mauro Costa da Silva Filho,33.00,26.00,85,7.5,92.5
-Ynayara Colares de Lima,37.00,21.00,79,13.5,92.5
+Daniel Ramos Costa,32.00,29.00,90,2.5,92.5
+Elias de Camargo Murat,22.00,34.00,90,2.5,92.5
 Luiz Eduardo Ramos Ferreira,27.00,29.00,85,7,92
 Bruno Affonso Magalhaes Bahia,28.00,28.00,84,7.83,91.83
-Caio Ayrton Botelho Sierro,25.00,32.00,89,2.5,91.5
 Diego Delevedove de Oliveira,30.00,27.00,84,7.5,91.5
 Gleison Goncalves Jordao,28.00,28.00,84,7.5,91.5
 Roberto Carlos de Assis Junioor,28.00,28.00,84,7.5,91.5
-Rafael Ferreira Ramalho,31.00,27.00,85,6,91
+Caio Ayrton Botelho Sierro,25.00,32.00,89,2.5,91.5
 Robson Alves Mendes,36.00,23.00,82,9,91
-Daniel Vasconcellos Torres Rangel,32.00,28.00,88,2.5,90.5
-Jessica Machado de Souza,30.00,28.00,86,4.5,90.5
+Rafael Ferreira Ramalho,31.00,27.00,85,6,91
 Paula Roberta Correa dos Santos Arruda,36.00,20.00,76,14.5,90.5
-Bernardo Portela de Medeiros Brunale,36.00,22.00,80,10,90
+Jessica Machado de Souza,30.00,28.00,86,4.5,90.5
+Daniel Vasconcellos Torres Rangel,32.00,28.00,88,2.5,90.5
 Marilia Castro de Melo,39.00,17.00,73,17,90
+Bernardo Portela de Medeiros Brunale,36.00,22.00,80,10,90
 Bruno Henrique Costa Santos,28.00,28.00,84,5,89
 Jorge Alysson de Araujo Oliveira,37.00,22.00,81,7.5,88.5
 Marcelo Henrique Figueiredo de Menezes,33.00,24.00,81,7.5,88.5

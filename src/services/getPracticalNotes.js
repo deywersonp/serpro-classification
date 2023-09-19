@@ -40,7 +40,7 @@ const getPracticalNotes = async (category) => {
     }
   });
 
-  const sorted = splittedCandidates.sort((a, b) => a.practicalNote - b.practicalNote);
+  const sorted = splittedCandidates.sort((a, b) => b.practicalNote - a.practicalNote);
 
   const csvHeader = 'Name,PracticalNote\n';
 

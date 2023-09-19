@@ -42,7 +42,7 @@ const getTheoryNotes = async (category) => {
     }
   });
 
-  const sorted = splittedCandidates.sort((a, b) => a.theoryNote - b.theoryNote);
+  const sorted = splittedCandidates.sort((a, b) => b.theoryNote - a.theoryNote);
 
   const csvHeader = 'Name,P1,P2,TheoryNote\n';
 
