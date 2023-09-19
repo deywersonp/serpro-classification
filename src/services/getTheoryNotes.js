@@ -5,9 +5,18 @@ const pdf = require('pdf-parse');
 // Promisify fs.readFile to use async/await
 const readFileAsync = util.promisify(fs.readFile);
 
-const getPraticalNotes = async (type) => {
+const AVAILABLE_CATEGORIES = {
+  general: 'classificacao-geral-teorica.pdf',
+  quotas: 'autodeclarados-negros-teorica.pdf',
+};
+
+const getTheoryNotes = async (category) => {
   // Read the PDF file
-  const pdfFilePath = `./src/files/input/${type === 'cotas' ? 'autodeclarados-negros-pratica' : 'classificacao-geral-pratica'}.pdf`;
+  if (!category || !Object.keys(AVAILABLE_CATEGORIES).includes(category)) {
+    throw new Error(`Invalid category. Available categories are: ${Object.keys(AVAILABLE_CATEGORIES).join(', ')}.`);
+  }
+
+  const pdfFilePath = `./src/files/input/${AVAILABLE_CATEGORIES[category]}`;
 
   const data = await readFileAsync(pdfFilePath);
   const pdfBuffer = Buffer.from(data);
@@ -26,26 +35,28 @@ const getPraticalNotes = async (type) => {
 
     return {
       name: splittedCandidate[1].split(' ').map(s => s.trim()).filter(s => s.length > 0).join(' '),
-      praticalNote: Number(splittedCandidate[2].trim()),
+      p1: splittedCandidate[12].trim(),
+      p2: splittedCandidate[14].trim(),
+      theoryNote: Number(splittedCandidate[12].trim()) + (2 * Number(splittedCandidate[14].trim()))
     }
   });
 
-  const sorted = splittedCandidates.sort((a, b) => a.praticalNote - b.praticalNote);
+  const sorted = splittedCandidates.sort((a, b) => a.theoryNote - b.theoryNote);
 
-  const csvHeader = 'Name,PraticalNotes\n';
+  const csvHeader = 'Name,P1,P2,TheoryNote\n';
 
   // Create a CSV content by mapping the data array
   const csvContent = sorted
-    .map(item => `${item.name},${item.praticalNote}`)
+    .map(item => `${item.name},${item.p1},${item.p2},${item.theoryNote}`)
     .join('\n');
 
   // Combine the header and content to form the complete CSV data
   const completeCsvData = csvHeader + csvContent;
 
   // Write the CSV data to a file
-  fs.writeFileSync('src/files/output/praticalNotes.csv', completeCsvData, 'utf8');
+  fs.writeFileSync(`src/files/output/${category}-theory-notes.csv`, completeCsvData, 'utf8');
 
   return sorted;
 };
 
-module.exports = { getPraticalNotes };
+module.exports = { getTheoryNotes };
