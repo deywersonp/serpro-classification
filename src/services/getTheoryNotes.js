@@ -8,6 +8,7 @@ const readFileAsync = util.promisify(fs.readFile);
 const AVAILABLE_CATEGORIES = {
   general: 'classificacao-geral-teorica.pdf',
   quotas: 'autodeclarados-negros-teorica.pdf',
+  pcd: 'pcd-teorica.pdf'
 };
 
 const getTheoryNotes = async (category) => {
