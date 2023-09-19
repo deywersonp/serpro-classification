@@ -57,10 +57,10 @@ Se tiver o interesse em executar o código localmente, faça o clone do reposit�
 
 ## 📌 Como Usar
 
-### 1 - Abra a aplicação na sua IDE
-### 2 - Abra o arquivo index, localizado em `src/index.js`
-### 3 - Atribua um dos valores disponíveis a variável `category`, são eles: `general`, `quotas` ou `pcd`
-### 4 - O resultado será disponibilizado na pasta `src/files/output/` no formato .csv
+1 - Abra a aplicação na sua IDE <br>
+2 - Abra o arquivo index, localizado em `src/index.js` <br>
+3 - Atribua um dos valores disponíveis a variável `category`, são eles: `general`, `quotas` ou `pcd` <br>
+4 - O resultado será disponibilizado na pasta `src/files/output/` no formato .csv
 
 <br>
 
