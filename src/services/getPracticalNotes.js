@@ -3,9 +3,9 @@ const util = require('util');
 const pdf = require('pdf-parse');
 
 const AVAILABLE_CATEGORIES = {
-  general: 'classificacao-geral-pratica.pdf',
-  quotas: 'autodeclarados-negros-pratica.pdf',
-  pcd: 'pcd-pratica.pdf'
+  general: 'classificacao-geral-pratica-final.pdf',
+  quotas: 'autodeclarados-negros-pratica-final.pdf',
+  pcd: 'pcd-pratica-final.pdf'
 };
 
 // Promisify fs.readFile to use async/await
